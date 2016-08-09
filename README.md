@@ -5,7 +5,7 @@
 
 Source code of the blog of the Czech Python user group. Made for various news, thoughts, and announcements. Written in Czech, but English articles are definitely not prohibited :)
 
-## Simple Writing in 5 steps
+## Write an Article in 5 Steps
 
 Writing a new article can be very simple using just GitHub:
 
@@ -43,6 +43,3 @@ The blog content is licensed under a [Creative Commons Attribution 4.0 Internati
 -   The whole blog as a project should be attributed to the [Pyvec](http://pyvec.org/) nonprofit.
 
 The attached blog software is licensed the same way as the [Danube Delta tool](https://github.com/honzajavorek/danube-delta/blob/master/LICENSE).
-
-All Rights Reserved © 2007–? Honza Javorek &lt;<a
-href="mailto:mail&#64;honzajavorek.cz">mail&#64;honzajavorek.cz</a>&gt;
