@@ -7,7 +7,7 @@ Source code of the blog of the Czech Python user group. Made for various news, t
 
 ## Write an Article in 5 Steps
 
-Writing a new article can be very simple using just GitHub:
+Writing a new text-only article can be very simple using just GitHub:
 
 1.  On GitHub, go to the [`content`](https://github.com/pyvec/blog.python.cz/tree/master/content) directory of this repository. Click the <kbd>Create new file</kbd> button in the top right corner.
 2.  Name your file in the `YYYY-MM-DD_article-name.md` format, where:
