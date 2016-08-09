@@ -24,7 +24,7 @@ Writing a new text-only article can be very simple using just GitHub:
     Title: Jak jsem v lese potkal medvěda
     Date: 2006-08-09 10:49:00
     Author: Pepa Houbař
-    Twitter: @houbyfaktzeru
+    Twitter: houbyfaktzeru
     Gravatar: pepa.houbar@example.com
     About: Pepa je vášnivý houbař. Má stránky [Houby fakt žeru](http://example.com) a chodí do lesa především kolem Houbové Lhoty. Jeho životním mottem je _vím houby, jím houby_.
 
@@ -36,7 +36,7 @@ Writing a new text-only article can be very simple using just GitHub:
     - [Gravatar](http://gravatar.com/) is a way how to get your photo from your e-mail address. You need to register at the Gravatar site and upload your image there for your e-mail before it starts to work. Of course, you don't have to use it.
     - `About:` is couple of sentences about you. You can use [Markdown format](https://guides.github.com/features/mastering-markdown/) as formatting.
 4.  Then, in place of the three dots `...` you can start writing your article in the [Markdown format](https://guides.github.com/features/mastering-markdown/). You can see how the article will approximately look like using the <kbd>Preview</kbd> tab. Setting <kbd>Soft wrap</kbd> in the top right corner is also handy.
-5.  When done with writing, fill the form at the bottom of the page (describe your addition, i.e. "Přidávám článek o medvědovi") and press the <kbd>Propose new file</kbd> button.
+5.  When done with writing, fill the form at the bottom of the page (describe your addition, e.g. "Přidávám článek o medvědovi") and press the <kbd>Propose new file</kbd> button.
 
 ## Installation & Advanced Usage
 
