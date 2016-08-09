@@ -1,0 +1,15 @@
+sudo: false
+language: "python"
+python: "3.5"
+cache: "pip"
+script:
+  - "blog lint"
+env:
+  global:
+    - secure: "DJesdE0urmXO2qgDSGhp544GY5Wza69yU2SgTx3IOwrGj8U/pZ71JhBdEUeDx8vb5ujtqaEgB9ororXmuNsnTVsU4y7UAQsnoedUwRQmfZZqHGS0pnW+qZEO/eScrXHiZA8UKrISLC1tXQcrrMlpSSSybEYntluDGOkIRcJXPbBXa6wufSFuiJ1bWBv8HFvbT7grZHkW7252tUQ0UK/u2PEX2XpDXm5qHBNur8TgrocQ6qj8AcOZOE9MA10CkDg9ilWQv63UnrQeG7wuUWdhtXdDeU11m5Wpd39ONEuyTxiHcdRaAYyyYI7Cexw4IPlmQUqPSDjhf3roiVInz25TIdInz9RvrY3PRCko7R7YJSFF2tWaIsZE1AHOqT4WzZAawgRqwwP0VduliNbiBzoUWiPgelbL22YzqW3QUfYeyPeOWenG2GVaLyUQxOXAlKE8sWd1j+nr0Rbfw2PgqVO6knLGARDG4y7nw+bpDWv1RspMC4RRXwW9aDDi9koDq8PkMYxX1629hB9NQNREWQj/BbzolT0QsmYXhnWzE09rzdBRZ5lO94LfXKdP/lqbZk3tCU/c2WuN9jYHiA9syuPRteJRUdvZI765mZCT/tNRnBJ1sQXPa7UdCpyFrfV+uXVikoAx7tIE3z6G2tm7xLpj4yeylh1VK5hrY/MJqTitlOM="
+deploy:
+  provider: "script"
+  script: "blog deploy"
+  on:
+    branch: "master"
+    repo: "pyvec/blog.python.cz"
