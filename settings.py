@@ -5,9 +5,9 @@ from danube_delta.settings import *  # NOQA
 
 
 # Authors
-AUTHOR = 'Python v ČR'
-SITENAME = 'Python v ČR bloguje'
-SITESUBTITLE = 'Zprávy z české Python komunity'
+AUTHOR = 'Python\u00A0v\u00A0ČR'
+SITENAME = 'Python\u00A0v\u00A0ČR bloguje'
+SITESUBTITLE = 'Zprávy z\u00A0české Python komunity'
 
 ABOUT = '''
 Tento blog píše [česká komunita kolem programovacího jazyka Python](http://python.cz/).
