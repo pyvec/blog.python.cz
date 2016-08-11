@@ -1,1 +1,1 @@
-danube_delta>=1.0.1
+danube_delta>=1.0.3
