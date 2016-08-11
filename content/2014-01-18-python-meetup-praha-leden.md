@@ -3,6 +3,7 @@ Date: 2014-01-18 17:00:00
 Author: Jakub Vysoký
 Twitter: kvbik
 Gravatar: jakub@borka.cz
+About: [Jakub](https://twitter.com/kvbik) má fousy, [kola](https://www.instagram.com/p/BGBWtelNBn4/), [startup](http://www.roomstorm.com/) a počítač. Je rád, když všechno funguje (backendy a devopsy) a v ničem se nemusí vrtat. To pak organizuje [Pyva](http://pyvo.cz/praha) a věci okolo. Jako třeba akce ve své oblíbené domovině [Roudnici nad Labem](https://cs.wikipedia.org/wiki/Roudnice_nad_Labem).
 
 vsichni (vcetne me) meli po vanocich poradny abstak. dorazili jsme totiz
 asi v rekordnim poctu. seslo se nas urcite vic nez 40. ono je to ale moc
