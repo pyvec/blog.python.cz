@@ -2,8 +2,8 @@ Title: Splněný holčičí sen
 Date: 2016-08-22 10:49:00
 Author: Lenka 'Zouví' Matějová
 Twitter: Zoellenka
-Gravatar: p@example.com
-About: . Má stránky [Houby fakt žeru](http://example.com) a chodí do lesa především kolem Houbové Lhoty. Jeho životním mottem je _vím houby, jím houby_.
+Gravatar: zoelles@gmail.com
+About: Zou je holka, co se učí Python. Má stránky [Zoelles](http://zoelles.tumblr.com/) leze, chodí po slackline a miluje akrojógu. 
 
 V pátek 19. 8. 2016 proběhl v Mšeném workshop pro Pyladies, na kterém jsme si my, holky, co se začaly učit programovat v Pythonu, vyzkoušely ovládat vývojovou desku s čipem ESP8266. Pokud vám to nic neříká, neděste se, taky jsme před workshopem vůbec netušily, o co jde. Je to počítačový čip, který lze ovládat pomocí MicroPythonu, což je takový zjednodušený Python. 
 
