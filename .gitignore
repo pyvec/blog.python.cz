@@ -64,3 +64,6 @@ target/
 
 # Pelican
 output/
+
+#Macbook shit
+.DS_Store
