@@ -4,6 +4,7 @@ Author: Lenka 'Zouví' Matějová
 Twitter: Zoellenka
 Gravatar: zoelles@gmail.com
 About: Zou je holka, co se učí Python. Má stránky [Zoelles](http://zoelles.tumblr.com/), leze po skalách, chodí po slackline a miluje akrojógu.
+
 ![Spolecna hardwarova]({filename}/images/img_4184-min.jpg)
 
 V pátek 19. 8. 2016 proběhl v Mšeném workshop pro Pyladies, na kterém jsme si my, holky, co se začaly učit programovat v Pythonu, vyzkoušely ovládat vývojovou desku s čipem ESP8266. Pokud vám to nic neříká, neděste se, taky jsme před workshopem vůbec netušily, o co jde. Je to počítačový čip, který lze ovládat pomocí MicroPythonu, což je takový zjednodušený Python.
@@ -47,6 +48,7 @@ Autoři fotek: [kvbik](https://twitter.com/kvbik), [Honza Javorek](https://twitt
 *a tak se přesuneme na LED pásky, motorky, bzučítka a jiná mučítka*
 
 ![Verca take sviti]({filename}/images/img_1271-min.jpg){:width="350px" :center}
+*Verča už také svítí - LED pásky měly úspěch (oproti bzučítkům)*
 
 ![Svitime a vymyslime figle]({filename}/images/img_1302-min.jpg){:width="350px" :center}
 *svítíme už i barevně*
