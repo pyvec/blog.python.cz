@@ -26,7 +26,7 @@ Jako malou mě hrozně fascinovalo pozorovat, jak táta pájí čipovou desku a 
 *pro zahřátí zkusíme nejprve jedno modré světýlko*
 
 ![Nela a jeji modre svetylko]({filename}/images/img_1208-min.jpg){:width="350px" :center}
-*Nela už ví jak na to*
+*Nela už ví, jak na to*
 
 ![Nadseni byli vsichni]({filename}/images/img_1212-min.jpg){:width="350px" :center}
 *nadšení byli všichni - malí programátoři i ti velcí*
