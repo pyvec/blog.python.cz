@@ -5,7 +5,7 @@ Twitter: Zoellenka
 Gravatar: zoelles@gmail.com
 About: Zou je holka, co se učí Python. Má stránky [Zoelles](http://zoelles.tumblr.com/), leze po skalách, chodí po slackline a miluje akrojógu. 
 
-V pátek 19. 8. 2016 proběhl v Mšeném workshop pro Pyladies, na kterém jsme si my, holky, co se začaly učit programovat v Pythonu, vyzkoušely ovládat vývojovou desku s čipem ESP8266. Pokud vám to nic neříká, neděste se, taky jsme před workshopem vůbec netušily, o co jde. Je to počítačový čip, který lze ovládat pomocí MicroPythonu, což je takový zjednodušený Python. 
+V pátek 19. 8. 2016 proběhl ve Mšeném workshop pro Pyladies, na kterém jsme si my, holky, co se začaly učit programovat v Pythonu, vyzkoušely ovládat vývojovou desku s čipem ESP8266. Pokud vám to nic neříká, neděste se, taky jsme před workshopem vůbec netušily, o co jde. Je to počítačový čip, který lze ovládat pomocí MicroPythonu, což je takový zjednodušený Python. 
 
 A k čemu to je? Můžou se na to napojit různá světýlka, houkačky, tlačítka, blikačky, pás LED diod apod. Jak jsme se v praxi přesvědčily, dá se tím vykouzlit například překrásně barvená atmosféra pro grilovačku :), ale i celkem ohlušující randál, který kdekdo musí řešit špunty do uší. Některým holkám šlo hraní s „chytrými“ a „hloupými“ destičkami na jedničku, takže se těším, co z toho všechno vznikne. Vše nám skvěle a trpělivě vysvětloval Petr Viktorin, na kterém je znát pravé nadšení pro práci s hardware. 
 
