@@ -9,8 +9,6 @@ About: Zou je holka, co se učí Python. Má stránky [Zoelles](http://zoelles.t
 
 V pátek 19. 8. 2016 proběhl ve Mšeném workshop pro Pyladies, na kterém jsme si my, holky, co se začaly učit programovat v Pythonu, vyzkoušely ovládat vývojovou desku s čipem ESP8266. Pokud vám to nic neříká, neděste se, taky jsme před workshopem vůbec netušily, o co jde. Je to počítačový čip, který lze ovládat pomocí MicroPythonu, což je takový zjednodušený Python. 
 
-V pátek 19. 8. 2016 proběhl v Mšeném workshop pro Pyladies, na kterém jsme si my, holky, co se začaly učit programovat v Pythonu, vyzkoušely ovládat vývojovou desku s čipem ESP8266. Pokud vám to nic neříká, neděste se, taky jsme před workshopem vůbec netušily, o co jde. Je to počítačový čip, který lze ovládat pomocí MicroPythonu, což je takový zjednodušený Python.
-
 ![Hardware pro PyLadies]({filename}/images/img_1186-min.jpg){:width="350px" :center}
 *Petr Viktorin nám to krásně naservíroval, abychom se v hloupých i chytrých destičkách všichni vyznali*
 
