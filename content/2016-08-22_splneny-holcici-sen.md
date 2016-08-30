@@ -18,7 +18,7 @@ V pátek 19. 8. 2016 proběhl ve Mšeném workshop pro Pyladies, na kterém jsme
 ![Hardware]({filename}/images/img_1194-min.jpg){:width="350px" :center}
 *zátiší s hardwarem*
 
-A k čemu to je? Můžou se na to napojit různá světýlka, houkačky, tlačítka, blikačky, pás LED diod apod. Jak jsme se v praxi přesvědčily, dá se tím vykouzlit například překrásně barvená atmosféra pro grilovačku :), ale i celkem ohlušující randál, který kdekdo musí řešit špunty do uší. Některým holkám šlo hraní s „chytrými“ a „hloupými“ destičkami na jedničku, takže se těším, co z toho všechno vznikne. Vše nám skvěle a trpělivě vysvětloval Petr Viktorin, na kterém je znát pravé nadšení pro práci s hardwarem.
+A k čemu to je? Můžou se na to napojit různá světýlka, houkačky, tlačítka, blikačky, pás LED apod. Jak jsme se v praxi přesvědčily, dá se tím vykouzlit například překrásně barvená atmosféra pro grilovačku :), ale i celkem ohlušující randál, který kdekdo musí řešit špunty do uší. Některým holkám šlo hraní s „chytrými“ a „hloupými“ destičkami na jedničku, takže se těším, co z toho všechno vznikne. Vše nám skvěle a trpělivě vysvětloval Petr Viktorin, na kterém je znát pravé nadšení pro práci s hardwarem.
 
 Jako malou mě hrozně fascinovalo pozorovat, jak táta pájí čipovou desku a napojuje na ni různé nožičky, případně propojuje různá místa čipu v jedno. Takže cílem bylo také vyzkoušet si to, dozvědět se o tom víc … a hlavně, naučit se pájet! V průběhu workshopu jsem zjistila, že touhu po pájení sdílí i ostatní účastnice workshopu, a tak jsme nakonec dostaly možnost se na to vrhnout! Díky, kluci!
 
