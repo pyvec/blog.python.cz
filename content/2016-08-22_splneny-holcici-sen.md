@@ -33,7 +33,7 @@ Jako malou mě hrozně fascinovalo pozorovat, jak táta pájí čipovou desku a 
 
 Celá akce byla, díky skvělé Python komunitě a štědrému sponzorovi [CZ.NIC](https://www.nic.cz), který zasponzoroval veškerý hardware a oběd hladovým programátorkám, hrozně super. Nešlo by to ale bez nejlepší organizátorky Veroničky Gabrielové a dvou pánů Vysokých, kteří poskytli dokonalé zázemí. Někteří cyklo nadšenci se dali strhnout k hromadnému příjezdu na kolech, Štěpán Bechynský se ujal péče o strávníky a všechny zásobil přelahodnými pokrmy, večer jsme se všichni zahřáli za doprovodu několika ukulele u ohně a pěkně od plic si zapěli. Byl to fakt skvělý zážitek a jsem hrozně moc ráda, že jsem tam mohla být. Lidé kolem Pythonu jsou super, je s nimi sranda a člověk má mnohem větší motivaci se učit. A to je skvělý!
 
-Počet magic smoke: 2
+Počet úniků [magic smoke](https://en.wikipedia.org/wiki/Magic_smoke): pouze 2
 
 Autoři fotek: [kvbik](https://twitter.com/kvbik), [Honza Javorek](https://twitter.com/honzajavorek), [Vochechule](https://www.facebook.com/veronika.gabrielova.7)
 
