@@ -31,7 +31,7 @@ Jako malou mě hrozně fascinovalo pozorovat, jak táta pájí čipovou desku a 
 ![Nadseni byli vsichni]({filename}/images/img_1212-min.jpg){:width="350px" :center}
 *nadšení byli všichni - malí programátoři, i ti velcí*
 
-Celá akce byla, díky skvělé Python komunitě a štědrému sponzorovi CZ.nic, hrozně super. Nešlo by to ale bez nejlepší organizátorky Veroničky Gabrielové a dvou pánů Vysokých, kteří poskytli dokonalé zázemí. Někteří cyklo nadšenci se dali strhnout k hromadnému příjezdu na kolech, Štěpán Bechyňský se ujal péče o strávníky a všechny zásobil přelahodnými pokrmy, večer jsme se všichni zahřáli za doprovodu několika ukulele u ohně a pěkně od plic si zapěli. Byl to fakt skvělý zážitek a jsem hrozně moc ráda, že jsem tam mohla být. Lidé kolem Pythonu jsou super, je s nimi sranda a člověk má mnohem větší motivaci se učit. A to je skvělý!
+Celá akce byla, díky skvělé Python komunitě a štědrému sponzorovi [CZ.NIC](https://www.nic.cz), hrozně super. Nešlo by to ale bez nejlepší organizátorky Veroničky Gabrielové a dvou pánů Vysokých, kteří poskytli dokonalé zázemí. Někteří cyklo nadšenci se dali strhnout k hromadnému příjezdu na kolech, Štěpán Bechyňský se ujal péče o strávníky a všechny zásobil přelahodnými pokrmy, večer jsme se všichni zahřáli za doprovodu několika ukulele u ohně a pěkně od plic si zapěli. Byl to fakt skvělý zážitek a jsem hrozně moc ráda, že jsem tam mohla být. Lidé kolem Pythonu jsou super, je s nimi sranda a člověk má mnohem větší motivaci se učit. A to je skvělý!
 
 Počet magic smoke: 2
 
