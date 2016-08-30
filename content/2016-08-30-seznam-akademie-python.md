@@ -7,7 +7,8 @@ About: [Dan](https://twitter.com/danielmilde) je vášnivý Pythonista pracujíc
 
 Seznam IT akademie nabídne v říjnu [další workshop](http://vyvojari.seznam.cz/akce/173-seznam-it-akademie-python) zaměřený tentokrát na Python.
 
-Workshop bude dvoudenní (pátek odpoledne a sobota) a poskytne výbornou příležitost, pokud s Pythonem chcete začít nebo už začínáte.
+Workshop bude dvoudenní (pátek odpoledne a sobota) a poskytne výbornou příležitost, pokud s Pythonem chcete začít nebo už začínáte. 
+Obsahem je vhodný pro úplné začátečníky i pro pokročilé programátory.
 
 Školení začne úvodem do jazyka a bude postupně probírat jednotlivé vlastnosti Pythonu, 
 běhěm čehož budou účastníci budovat ukázkovou aplikaci. 
