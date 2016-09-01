@@ -1,4 +1,4 @@
-Title: Seznam IT akademie - Python
+Title: Naučte se Python v Seznam akademii
 Date: 2016-08-30 17:00:00
 Author: Daniel Milde
 Twitter: danielmilde
@@ -9,7 +9,6 @@ Seznam IT akademie nabídne v říjnu [další workshop](http://vyvojari.seznam.
 
 Workshop bude dvoudenní (pátek odpoledne a sobota) a poskytne výbornou příležitost, pokud s Pythonem chcete začít nebo už začínáte. 
 Obsahem je vhodný pro úplné začátečníky i pro pokročilé programátory.
-
 Školení začne úvodem do jazyka a bude postupně probírat jednotlivé vlastnosti Pythonu, 
 běhěm čehož budou účastníci budovat ukázkovou aplikaci. 
 Doufáme, že zbyde dostatek času i na pokročilé techniky jako jsou dekorátory, deskriptory a metaprogramování.
