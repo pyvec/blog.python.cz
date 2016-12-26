@@ -1,4 +1,4 @@
-Title: Ostravské Pyvo - co teď? A co potom?
+Title: Ostravské Pyvo – co teď? A co potom?
 Date: 2016-09-11 02:00:00
 Author: Lumír Balhar
 Twitter: lumirbalhar
@@ -9,21 +9,21 @@ About: [Lumír](https://twitter.com/lumirbalhar) - Dříve správce superpočít
 
 Mysleli jsme si, že o Python na Ostravsku lidi nestojí, ale enormní zájem o první
 [začátečnický kurz ostravských PyLadies](http://pyladies.cz/ostrava_course/)
-nás vyvedl z omylu a proto jsme se rozhodli se na [následujících Pyvech](http://srazy.info/pyvo-v-ostrave/6754)
+nás vyvedl z omylu, a proto jsme se rozhodli se na [následujících Pyvech](http://srazy.info/pyvo-v-ostrave/6754)
 věnovat hlavně začátečníkům.
 
 ## Malinko historie
 
 Ostravské Pyvo oslaví za nedlouho tři roky své existence a za tu dobu jsme toho zažili vcelku hodně, 
 poznali spoustu nových lidí, našli si novou lepší práci a naučili se jeden od druhého spoustu nového. Pyvo nám sem
-přivezli Honza Javorek s Petrem Viktorinem, kteří uspořídali jeho první vydání, na kterém jsme se
-seznámili a já - nadšen touto myšlenkou - jsem od nich organizaci převzal.
+přivezli Honza Javorek s Petrem Viktorinem, kteří uspořádali jeho první vydání, na kterém jsme se
+seznámili a já – nadšen touto myšlenkou – jsem od nich organizaci převzal.
 
 Ze začátku to nebylo moc složité, protože o podobnou akci byl vcelku zájem a nám se dařilo každé vydání
 naplnit zajímavým obsahem, který jsme nejčastěji tvořili sami. Taková strategie ale nejde udržet
-večně a dříve nebo později zkrátka dojdou nápady. Nepomohly nám ani ankety, kde bylo možno o tématech hlasovat,
-motivace prezentujících, ani letáčky na univerzitách. Bohužel návštěvnící Pyv byli z větší části spíše
-konzumenti než aktivní přispěvatelé a tak se spolu s volnějším programem scházelo čím dál méně lidí.
+věcně a dříve nebo později zkrátka dojdou nápady. Nepomohly nám ani ankety, kde bylo možno o tématech hlasovat,
+motivace prezentujících, ani letáčky na univerzitách. Bohužel návštěvníci Pyv byli z větší části spíše
+konzumenti než aktivní přispěvatelé, a tak se spolu s volnějším programem scházelo čím dál méně lidí.
 
 ## Trocha současnosti
 
@@ -33,7 +33,7 @@ jim ovšem v žádném případě neubírá na atraktivitě. Myslím si, že kdo
 poradit o řešení problému může být jen a pouze přínosné pro všechny. Přičemž to v žádném případě nemusí
 být omezeno pouze na Python a věci s ním přímo související.
 
-Nicméně ani prezentace Pyva coby diskusního setkání nám žádný velký nárůst návševnosti nepřinesla.
+Nicméně ani prezentace Pyva coby diskusního setkání nám žádný velký nárůst návštěvnosti nepřinesla.
 
 Takže co? Pravděpodobně u nás není o Python zájem.
 
@@ -44,7 +44,7 @@ začátečnice, je naplněn ještě dříve, než se registrace začnou propagov
 
 ## Takže co dál?
 
-Výše zmíněné indície nám naznačují, že zájem o programování by byl, ale aktuální
+Výše zmíněné indicie nám naznačují, že zájem o programování by byl, ale aktuální
 ani předešlé schéma Pyv asi není pro příchozí vhodné. Proto jsme se rozhodli, že následující Pyva uděláme
 na míru pro začátečníky, kteří o programování zavadili zatím jen ve sci-fi literatuře. Obsah bude také
 vhodný pro PyLadies, na které se v současném běhu kurzu z kapacitních důvodů nedostane.
@@ -52,11 +52,11 @@ vhodný pro PyLadies, na které se v současném běhu kurzu z kapacitních dův
 Máte potíže s instalací Pythonu? Chcete napsat svůj první program? Lámete si hlavu s nějakým problémem?
 Vezměte notebook pod paži, do každé kapsy dobrou náladu a dorazte.
 
-Nyní už nestojí nic v ceště ani naprostým začátečníkům, kteří na srazech najdou nejen obsah přesně
+Nyní už nestojí nic v cestě ani naprostým začátečníkům, kteří na srazech najdou nejen obsah přesně
 pro sebe, ale v začátcích se tam také mohou chodit radit a zlepšovat své znalosti díky spolupráci
 s komunitou.
 
-Dost váhání, prostě doražte, startujeme první středu v říjnu.
+Dost váhání, prostě dorazte, startujeme první středu v říjnu.
 
 Sledovat nás můžete všude možně.
 
