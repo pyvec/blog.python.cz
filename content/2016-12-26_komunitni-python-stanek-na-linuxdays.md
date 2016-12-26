@@ -63,10 +63,10 @@ Na stánku jsme totiž měli několik her na zelených destičkách typu NodeMCU
 O tyto destičky byl velký zájem a tak tímto velmi děkuji Petru Viktorinovi, Lumíru Balharovi a Janu Čermákovi, že mě v tom nenechali a všem nadšencům ochotně vysvětlovali a flashovali jejich destičky.
 
 Zmínění Roudničáci si přivezli her asi 10 a kdyby jim večer nevypli proud, sedí tam ještě teď. Na Adamovi, Jakubovi a Jardovi z Roudnice je super, že dokážou okolí ne jen pobavit, ale i proškolit a aby někomu nepřišlo druhý den, že mají stejný program, tak 
-kluci přes noc ještě pár her doprogramují. Skvělým příkladem toho byla hra rádoby GTA, ke které přes noc Adam kromě dosavadního volantu s akcelerátorem ještě pedál fungující na světla z auta nalezená na půdě.
-Velké nadšení vzbudila jejich hra s vlaječkami na rychlost, digitalni tabule na kterou se dá kreslit či hrát had dálkovým ovládáním. Rádoby GTA s pedálem, volantem a světly. Jednoznačně parádní show a u našeho stánku byl téměř pořád plno.
+kluci přes noc ještě pár her doprogramují. Skvělým příkladem toho byla hra rádoby "GTAčko", ke které přes noc Adam kromě dosavadního volantu s akcelerátorem ještě pedál fungující na světla z auta nalezená na půdě.
+Velké nadšení vzbudila jejich hra s vlaječkami na rychlost, digitální tabule na kterou se dá kreslit či hrát had dálkovým ovládáním. Rádoby "GTAčko" s pedálem, volantem a světly. Jednoznačně parádní show a u našeho stánku byl téměř pořád plno.
 
-![Rádoby GTA]({filename}/images/linuxdays_img_2194.jpg){:width="350px" :center}
+![Rádoby "GTAčko"]({filename}/images/linuxdays_img_2194.jpg){:width="350px" :center}
 
 ![Hry na stánku měly velký úspěch]({filename}/images/linuxdays_img_2211.jpg){:width="350px" :center}
 
