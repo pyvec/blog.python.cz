@@ -31,8 +31,8 @@ MicroPython kódy
 nápisy na stánku v Monty Python fontu
 
 ...pár dní před akcí...
-Python žezlo (tyč) samozvané Pyč - došla modrá niť na 3D tisk
-lidi na stánek - máme již 8+ a furt se hlásí, už stačí
+Python žezlo (tyč) samozvané Pyč – došla modrá niť na 3D tisk
+lidi na stánek – máme již 8+ a furt se hlásí, už stačí
 kluci z Gymnázia Roudnice nad Labem a jejich zhruba 7 až 10 her: "A můžeme vzít i tři stolky navíc?"
 
 Verdikt: Máme toho nějak moc, DO PANIC. Vykřičník.
@@ -57,12 +57,12 @@ Pokud Tě zajímá nějaké pěkné shrnutí LinuxDays 2016, kdo tam byl a nebyl
 
 A k našemu stánku. Tak v první řadě jsme nikdy předtím nic takového nedělali. A tím to možná byl super uvolněný punk, který se nám náramně povedl a na který jsme i patřičně hrdí.
 Při plánování došlo nejprve na suché záležitosti typu letáčky, samolepky. Nutno míti na každém správném stánku. Sběratelé samolepek, zdá se, ještě nevyhynuli.
-Ovšem s velkým nápadem přišel Jakub Vysoký, jakožto hrdý syn svého otce Jardy Vysokého z Roudnice nad Labem, navrhl zapojit i kluky z tamnějšího Gymnázia a jejich učitele Jardu.
-Což byl opravdu skvělý tah. Když už se nám ráno před samotnou akcí povedlo shromáždit vše a všechny, zjistili jsme, že jsme jeden z největších stánků co do rozhlohy i do počtu prezentujících.
+Ovšem s velkým nápadem přišel Jakub Vysoký, jakožto hrdý syn svého otce Jardy Vysokého z Roudnice nad Labem, navrhl zapojit i kluky z tamějšího Gymnázia a jejich učitele Jardu.
+Což byl opravdu skvělý tah. Když už se nám ráno před samotnou akcí povedlo shromáždit vše a všechny, zjistili jsme, že jsme jeden z největších stánků co do rozlohy i do počtu prezentujících.
 Na stánku jsme totiž měli několik her na zelených destičkách typu NodeMCU, micro:bit a na nich hry, které poháněl MicroPython.
 O tyto destičky byl velký zájem a tak tímto velmi děkuji Petru Viktorinovi, Lumíru Balharovi a Janu Čermákovi, že mě v tom nenechali a všem nadšencům ochotně vysvětlovali a flashovali jejich destičky.
 
-Zmínění Roudničáci si přivezli her asi 10 a kdyby jim večer nevypli proud, sedí tam ještě teď. Na Adamovi, Jakubovi a Jardovi z Roudnice je super, že dokážou okolí ne jen pobavit, ale i proškolit a aby někomu nepřišlo druhý den, že mají stejný program, tak 
+Zmínění Roudničáci si přivezli her asi 10 a kdyby jim večer nevypli proud, sedí tam ještě teď. Na Adamovi, Jakubovi a Jardovi z Roudnice je super, že dokážou okolí nejen pobavit, ale i proškolit a aby někomu nepřišlo druhý den, že mají stejný program, tak 
 kluci přes noc ještě pár her doprogramují. Skvělým příkladem toho byla hra rádoby „GTAčko“, ke které přes noc Adam kromě dosavadního volantu s akcelerátorem ještě pedál fungující na světla z auta nalezená na půdě.
 Velké nadšení vzbudila jejich hra s vlaječkami na rychlost, digitální tabule na kterou se dá kreslit či hrát had dálkovým ovládáním. Rádoby „GTAčko“ s pedálem, volantem a světly. Jednoznačně parádní show a u našeho stánku byl téměř pořád plno.
 
@@ -79,7 +79,7 @@ Na stánku nechybělo ani Python žezlo, 3D vytištěné od Miro Hrončoka a Jak
 
 ![Miro Hrončok a jeho Python žezlo samozvané Pyč #pythonicstaffofenlightenment]({filename}/images/linuxdays_img_2158.jpg){:width="350px" :center}
 
-Chvílemi se k nám přidávali i prezentující z ostatních zpřátelených stánků, jako je například CZ.NIC. Python nadšenců bylo na této konferenci opravdu dost. Došlo i k výměně veciček na bastlení po kterých jsme už nikterak netoužili za knihu o GIT do Python knihovničky, po které jsme naopak hrozně toužili.
+Chvílemi se k nám přidávali i prezentující z ostatních spřátelených stánků, jako je například CZ.NIC. Python nadšenců bylo na této konferenci opravdu dost. Došlo i k výměně věciček na bastlení po kterých jsme už nikterak netoužili za knihu o GIT do Python knihovničky, po které jsme naopak hrozně toužili.
 
 ![Přátelství s ostatními stánky na nás bylo znát]({filename}/images/linuxdays_img_2200.jpg){:width="350px" :center}
 
@@ -88,4 +88,3 @@ Rozhodně budeme šířit informace o těch všech skvělých věcech co v Pytho
 Pokud jsi se k nám zatím nepřidal/a, ale chtěl/a bys, mrkni na [naši stránku, kde zjistíš, kde a jak se zapojit.](http://python.cz/zapojse/) 
 
 ![Jedna z mnoha částí herního koutku kluků z Roudnice a #pythonicstaffofenlightenment]({filename}/images/linuxdays_img_2292.jpg){:width="350px" :center}
-
