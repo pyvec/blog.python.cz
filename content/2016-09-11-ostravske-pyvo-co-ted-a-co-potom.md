@@ -21,7 +21,7 @@ seznámili a já – nadšen touto myšlenkou – jsem od nich organizaci převz
 
 Ze začátku to nebylo moc složité, protože o podobnou akci byl vcelku zájem a nám se dařilo každé vydání
 naplnit zajímavým obsahem, který jsme nejčastěji tvořili sami. Taková strategie ale nejde udržet
-věcně a dříve nebo později zkrátka dojdou nápady. Nepomohly nám ani ankety, kde bylo možno o tématech hlasovat,
+věčně a dříve nebo později zkrátka dojdou nápady. Nepomohly nám ani ankety, kde bylo možno o tématech hlasovat,
 motivace prezentujících, ani letáčky na univerzitách. Bohužel návštěvníci Pyv byli z větší části spíše
 konzumenti než aktivní přispěvatelé, a tak se spolu s volnějším programem scházelo čím dál méně lidí.
 
