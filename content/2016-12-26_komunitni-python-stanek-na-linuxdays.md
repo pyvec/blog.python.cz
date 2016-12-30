@@ -12,31 +12,31 @@ About: Veronička je velmi aktivní v české [Python](http://python.cz/) komuni
 >>> import czechpythoncommunityboothpanic
 ```
 
-> Odpověď byla jasná: "Jednoznačně chceme!"
+Odpověď byla jasná: "Jednoznačně chceme!"
 
-> Takže co si na to přichystáme:
+Takže co si na to přichystáme:
 
-> ...měsíc před akcí...pohodinda...
-> samolepky
-> letáčky
+...měsíc před akcí...pohodinda...
+samolepky
+letáčky
 
-> Verdikt: Moc toho nemáme
+Závěr: Moc toho nemáme.
 
+...týden před akcí...
+ukulele orchestr
+zelené destičky a hry 4x
+fotky z akcí
+MicroPython kódy k destičkám, které budou na stánku
+nápisy na stánku v Monty Python fontu
 
-> ...týden před akcí...
-> ukulele orchestr
-> zelené destičky a hry 4x
-> fotky z akcí
-> MicroPython kódy k destičkám, které budou na stánku
-> nápisy na stánku v Monty Python fontu
+Závěr: Lepší se to.
 
-> ...pár dní před akcí...
-> Python žezlo (tyč) samozvané Pyč – došla modrá niť na 3D tisk
-> lidi na stánek – máme již 8+ a furt se hlásí, už stačí
-> kluci z Gymnázia Roudnice nad Labem a jejich zhruba 7 až 10 her: "A můžeme vzít i tři stolky navíc?"
+...pár dní před akcí...
+Python žezlo (tyč) samozvané Pyč – došla modrá niť na 3D tisk
+lidi na stánek – máme již 8+ a furt se hlásí, už stačí
+kluci z Gymnázia Roudnice nad Labem a jejich zhruba (proměnlivě) 7 až 10 her: "A můžeme vzít i tři stolky navíc?"
 
-> Verdikt: Máme toho nějak moc, DO PANIC. Vykřičník.
-
+Závěr: Máme toho nějak moc, DO PANIC. Vykřičník.
 
 
 To jsme ještě nevěděli, že taková prezentace na podobné akci pro nás bude mít tak velký smysl. Organizátorům LinuxDays 2016 tímto velmi děkujeme za příležitost zviditelnit naši super českou Python komunitu.
@@ -80,7 +80,7 @@ Na stánku nechybělo ani Python žezlo, 3D vytištěné od [Mira Hrončoka](htt
 
 ![Miro Hrončok a jeho Python žezlo samozvané Pyč #pythonicstaffofenlightenment]({filename}/images/linuxdays_img_2158.jpg){:width="350px" :center}
 
-Chvílemi se k nám přidávali i prezentující z ostatních spřátelených stánků, jako je například [CZ.NIC](https://www.nic.cz/). Python nadšenců bylo na této konferenci opravdu dost. Došlo i k výměně věciček na bastlení, po kterých jsme už nikterak netoužili, za knihu o GIT do Python knihovničky, po které jsme naopak hrozně toužili.
+Chvílemi se k nám přidávali i prezentující z ostatních spřátelených stánků, jako je například [CZ.NIC](https://www.nic.cz/). Python nadšenců bylo na této konferenci opravdu dost. Došlo i k výměně věciček na bastlení, po kterých jsme už nikterak netoužili, za knihu o GIT do [komunitní knihovničky](https://github.com/pyvec/bookshelf), po které jsme naopak hrozně toužili.
 
 ![Přátelství s ostatními stánky na nás bylo znát]({filename}/images/linuxdays_img_2200.jpg){:width="350px" :center}
 
