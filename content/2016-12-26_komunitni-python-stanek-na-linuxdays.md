@@ -16,32 +16,41 @@ Odpověď byla jasná: "Jednoznačně chceme!"
 
 Takže co si na to přichystáme:
 
-...měsíc před akcí...pohodinda...
+*...měsíc před akcí...pohodinda...*
+
 samolepky
+
 letáčky
 
-Závěr: Moc toho nemáme.
+**Závěr: Moc toho nemáme.**
 
-...týden před akcí...
+*...týden před akcí...*
+
 ukulele orchestr
+
 zelené destičky a hry 4x
+
 fotky z akcí
+
 MicroPython kódy k destičkám, které budou na stánku
+
 nápisy na stánku v Monty Python fontu
 
-Závěr: Lepší se to.
+**Závěr: Lepší se to.**
 
-...pár dní před akcí...
+*...pár dní před akcí...*
+
 Python žezlo (tyč) samozvané Pyč – došla modrá niť na 3D tisk
+
 lidi na stánek – máme již 8+ a furt se hlásí, už stačí
+
 kluci z Gymnázia Roudnice nad Labem a jejich zhruba (proměnlivě) 7 až 10 her: "A můžeme vzít i tři stolky navíc?"
 
-Závěr: Máme toho nějak moc, DO PANIC. Vykřičník.
+**Závěr: Máme toho nějak moc, DO PANIC. Vykřičník.**
 
 
 To jsme ještě nevěděli, že taková prezentace na podobné akci pro nás bude mít tak velký smysl. Organizátorům LinuxDays 2016 tímto velmi děkujeme za příležitost zviditelnit naši super českou Python komunitu.
  
-
 
 
 ### Co jsou LinuxDays? 
