@@ -68,7 +68,7 @@ Zmínění Roudničáci si přivezli her asi 10 a kdyby jim večer nevypli proud
 kluci přes noc ještě pár her doprogramují. Skvělým příkladem toho byla hra rádoby „GTAčko“, ke které přes noc Adam kromě dosavadního volantu s akcelerátorem přidal ještě pedál fungující na světla z auta nalezená na půdě.
 Velké nadšení vzbudila jejich hra s vlaječkami na rychlost, digitální tabule na kterou se dá kreslit či hrát had dálkovým ovládáním. Rádoby „GTAčko“ s pedálem, volantem a světly. Jednoznačně parádní show a u našeho stánku bylo téměř pořád plno.
 
-![Rádoby „GTAčko"]({filename}/images/linuxdays_img_2194.jpg){:width="350px" :center}
+![Rádoby „GTAčko“]({filename}/images/linuxdays_img_2194.jpg){:width="350px" :center}
 
 ![Hry na stánku měly velký úspěch]({filename}/images/linuxdays_img_2211.jpg){:width="350px" :center}
 
