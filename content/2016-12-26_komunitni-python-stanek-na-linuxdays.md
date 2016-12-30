@@ -53,8 +53,9 @@ Odcituji to z jejich [oficiálních stránek](https://www.linuxdays.cz/), to aby
 > let se z LinuxDays stala největších akce svého druhu v Česku.
 
 ![Koncert pro Chris Ward - podcast o LinuxDays]({filename}/images/linuxdays_img_2389.jpg){:width="350px" :center}
+*procítěný koncert pro Chrisův podcast o LinuxDays 2016*
 
-Pokud Tě zajímá nějaké pěkné shrnutí LinuxDays 2016, kdo tam byl a nebyl a co se tam dělo, rozhodně si pusť tenhle [super podcast od Chrise z Brna](https://soundcloud.com/chris-ward-908424795/rozhovory-na-linuxdayscz-2016-radio-beat-brno-petr-simacek).♪♫♪♪♫
+Pokud Tě zajímá nějaké pěkné shrnutí LinuxDays 2016, kdo tam byl a nebyl a co se tam dělo, rozhodně si pusť tenhle [super podcast od Chrise z Brna](https://soundcloud.com/chris-ward-908424795/rozhovory-na-linuxdayscz-2016-radio-beat-brno-petr-simacek)♪♫♪♪♫
 
 A k našemu stánku. Tak v první řadě jsme nikdy předtím nic takového nedělali. A tím to možná byl super uvolněný punk, který se nám náramně povedl a na který jsme i patřičně hrdí.
 Při plánování došlo nejprve na suché záležitosti typu letáčky, samolepky. Nutno míti na každém správném stánku. Sběratelé samolepek, zdá se, ještě nevyhynuli.
@@ -68,10 +69,12 @@ kluci přes noc ještě pár her doprogramují. Skvělým příkladem toho byla 
 Velké nadšení vzbudila jejich hra s vlaječkami na rychlost, digitální tabule na kterou se dá kreslit či hrát had dálkovým ovládáním. Rádoby „GTAčko“ s pedálem, volantem a světly. Jednoznačně parádní show a u našeho stánku bylo téměř pořád plno.
 
 ![Rádoby „GTAčko“]({filename}/images/linuxdays_img_2194.jpg){:width="350px" :center}
+*rádoby „GTAčko“ od studentů z Gymnázia v Roudnici*
 
 ![Hry na stánku měly velký úspěch]({filename}/images/linuxdays_img_2211.jpg){:width="350px" :center}
 
 ![Jarda Vysoký s digitální tabulí, kterou naprogramoval s klukama z Gymnázia Roudnice nad Labem]({filename}/images/linuxdays_img_2216.jpg){:width="350px" :center}
+*Jarda Vysoký s digitální tabulí, kterou naprogramoval s klukama z Gymnázia Roudnice nad Labem*
 
 
 Při té příležitosti jsme lidem povídali o tom, co vše v české Python komunitě děláme. Překvapivé pro nás bylo, že se na konferenci objevilo spousty lidí, kteří nikdy ani o [python.cz](http://python.cz/) neslyšeli, na [Pyvo srazech](http://pyvo.cz/) nebyli a celkově byli nadšení, že se o tom mohli dozvědět, protože v Pythonu dělají.
@@ -79,13 +82,16 @@ Dále jsme samozřejmě prezentovali kromě [python.cz](http://python.cz/) i [Py
 Na stánku nechybělo ani Python žezlo, 3D vytištěné od [Mira Hrončoka](https://twitter.com/hroncok) a [Jakuba Průši]https://twitter.com/jakub_prusa). Děkujeme za jeho propůjčení. 
 
 ![Miro Hrončok a jeho Python žezlo samozvané Pyč #pythonicstaffofenlightenment]({filename}/images/linuxdays_img_2158.jpg){:width="350px" :center}
+*Miro Hrončok a jeho Python žezlo samozvané Pyč #pythonicstaffofenlightenment*
 
 Chvílemi se k nám přidávali i prezentující z ostatních spřátelených stánků, jako je například [CZ.NIC](https://www.nic.cz/). Python nadšenců bylo na této konferenci opravdu dost. Došlo i k výměně věciček na bastlení, po kterých jsme už nikterak netoužili, za knihu o GIT do [komunitní knihovničky](https://github.com/pyvec/bookshelf), po které jsme naopak hrozně toužili.
 
 ![Přátelství s ostatními stánky na nás bylo znát]({filename}/images/linuxdays_img_2200.jpg){:width="350px" :center}
+*přátelství s ostatními stánky jsme dávali najevo*
 
 Podobný stánek jsme o pár týdnů později postavili i na PyCon 2016 v Brně, kam se také přijeli podívat kluci z Roudnice i se svou tabulí plnou her. 
 Rozhodně budeme šířit informace o těch všech skvělých věcech, které v Python komunitě děláme i dál na podobných akcích. Pokud nám již s něčím pomáháš, je to hrozně fajn a toto je i Tvá zásluha.
 Pokud jsi se k nám zatím nepřidal/a, ale chtěl/a bys, mrkni na [naši stránku, kde zjistíš, kde a jak se zapojit.](http://python.cz/zapojse/) 
 
 ![Jedna z mnoha částí herního koutku kluků z Roudnice a #pythonicstaffofenlightenment]({filename}/images/linuxdays_img_2292.jpg){:width="350px" :center}
+*jedna z mnoha částí herního koutku kluků z Roudnice a #pythonicstaffofenlightenment*
