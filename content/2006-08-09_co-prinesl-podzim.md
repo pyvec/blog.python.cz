@@ -7,20 +7,20 @@ About: Veronička je velmi aktivní v české [Python](http://python.cz/) komuni
 
 ### Září, říjen, listopad – měsíce kurzů pro začátečníky a konferencí
 
-Podzim bývá obdobím nově spuštěných kurzů Pythonu pro začátečníky zvaných PyLadies. Tato tradice se odehrává v Praze a Brně, ale pro velký zájem
-se letos i v Ostravě dočkali svých PyLadies. V Praze v roce 2016 začaly i dobrovolné srazy Advanced PyLadies, kde se scházely účastnice PyLadies, 
-které měly osobní zájem pokračovat v učení se Pythonu na vlastních projektech. Či zlepšit své znalosti Pythonu, aby mohli jít čelem nabídkám práce jako programátore,
-QA a dalších.
-Pokud nevíš, co a kdo PyLadies jsou, nejlépe když navštívíš stránky, kde se dozvíš vše od informací o kurzech, náplni
+Podzim bývá obdobím nově spuštěných kurzů Pythonu pro začátečníky zvaných [PyLadies](http://pyladies.cz/). Tato tradice se odehrává v Praze a Brně, ale pro velký zájem
+se letos i v Ostravě dočkali svých [PyLadies](http://pyladies.cz/). V Praze v roce 2016 začaly i dobrovolné srazy Advanced PyLadies, kde se scházely účastnice z [PyLadies](http://pyladies.cz/), 
+které měly osobní zájem pokračovat v učení se Pythonu na vlastních projektech. Či zlepšit své znalosti Pythonu, aby mohli jít čelem nabídkám práce na junior programátorky,
+QA...
+Pokud nevíš, co a kdo [PyLadies](http://pyladies.cz/) jsou, nejlépe když navštívíš stránky, kde se dozvíš vše od informací o kurzech, náplni
 lekcí i jak v každém z měst vznikly a kdo je tam organizuje. Tak šup na [PyLadies web](http://pyladies.cz/)
 
 Na podzim také začíná mít tradici [PyCon](https://cz.pycon.org/). Který se v roce 2015 prvně uskutečnil v Brně...a i podruhé, letos v roce 2016, se uskutečnil v Brně.
 Takže jsem již asi dost naznačila, že v Brně je prostě dostatek úžasných lidí, kteří jsou schopni jej celý naplánovat, připravit a pak to všechno uklidit.
-```
-<rejp>Co na tom, že polovina organizačního týmu, je vlastně z Prahy!</rejp>
 
-¯\_(ツ)_/¯
-```
+> <rejp>Co na tom, že polovina organizačního týmu, je vlastně z Prahy!</rejp>
+
+> ¯\\\_(ツ)\_/¯
+
 Pyvo. Pyvo bylo a bude! V Ostravě se Pyvo odchýlilo od zvyklostí a rozjelo malinkato jiný formát. Krásně to sepsal Lumír v článku [Ostravské Pyvo – co teď? A co potom?](http://blog.python.cz/ostravske-pyvo-co-ted-a-co-potom)
 V Praze se Pyvo poslední dobou plnilo novými zájemci a bývá na něm plno. Pokaždé nás překvapí, že vidíme několik úplně nových tváří. A stejně jako my jsme nadšení z nich, oni jsou nadšení z nás.
 V Brně je Pyvo stále skvělým Pyvem a přes veškeré snahy rejpalů se daří vždy zaručit místo pro velký či nepředvídatelný počet lidí. Letos se bylo Pyvo v Brně dokonce den před PyConem, takže na něj dorazila velká posádka z Prahy. A že to byla pěkná cesta!
@@ -55,5 +55,6 @@ Shrneme si to:
     
 -   Pyva jsou a budou a v Ostravě se dějou věci. To bylo vyprávění na celý článek a tak to Lumča Balharů sepsal - [Ostravské Pyvo - co teď? A co potom?](http://blog.python.cz/ostravske-pyvo-co-ted-a-co-potom)
 -   LinuxDays nám nabídli možnost postavit si na konferenci stánek a tak jsme postavili rovnou stan. To by bylo vyprávění i na dva články, ale držela jsem se. [Můžeš si to přečíst.](http://blog.python.cz/komunitni-python-stanek-na-linuxdays)
--   Advanced PyLadies slavily celkem úspěch, nicméně se k nám doneslo, že by se rádi přidali i kluci a rozvíjeli své spíš začátečnické dovednosti. A tak jsme se v Praze hecli a zkoušíme udělat měsíční srazy i pro všechny začátečníky.
+-   Advanced PyLadies v Praze slavily celkem úspěch, nicméně se k nám doneslo, že by se rádi přidali i kluci a rozvíjeli své spíš začátečnické dovednosti. A tak jsme se v Praze hecli a zkoušíme udělat měsíční srazy i pro všechny začátečníky.
     V Praze se tedy Advanced PyLadies jmenují PyWorking a z týdenních srazů se stal měsíční celodenní sraz s prostorem na práci na projektech a workshopem či přednáškami. Týdenní srazy na pár hodin odpoledne jsou i nadále k mání.
+-   V Brně si slečny místo Advanced PyLadies rozjely Nepyvo a schází se každý čtvrtek v Nekavárně, kde upevňují a rozvíjejí znalosti Pythonu.
