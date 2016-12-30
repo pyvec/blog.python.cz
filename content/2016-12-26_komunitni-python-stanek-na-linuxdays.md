@@ -4,7 +4,7 @@ Modified: 2016-12-26 13:28:00
 Author: Veronika Gabrielová
 Twitter: lspdv
 Gravatar: gabrielova.veronika@gmail.com
-About: Veronička je velmi aktivní v české [Python](http://python.cz/) komunitě. Motá se hodně kolem [PyLadies](http://pyladies.cz/), účastnicím po kurzech pomáhá najít vysněnou práci a právě buduje rozjezd i dalších navazovacích kurzů a srazů pro všechny zájemce o Python, kteří jsou v začátcích. Také již pracuje jako programátorka. Nemá ráda datle. Má ráda vše ostatní kromě datlí. Nejvíc Žufánka a Pho. Nejčastěji ji potkáš v Praze na Pyvo srazech či na PyWorkingu a PyLadies.
+About: Veronička je velmi aktivní v české [Python](http://python.cz/) komunitě. Motá se hodně kolem [PyLadies](http://pyladies.cz/), účastnicím po kurzech pomáhá najít vysněnou práci a právě buduje rozjezd i dalších navazovacích kurzů a srazů pro všechny zájemce o Python, kteří jsou v začátcích. Také již pracuje jako programátorka a dokonce jí za to někdo platí. Nemá ráda datle. Má ráda vše ostatní kromě datlí. Nejvíc od Žufánka Ořechovku a od vietnamců Phở Bo. Nejčastěji ji potkáš v Praze na Pyvo srazech či na PyWorkingu a PyLadies.
 
 ### Organizátoři LinuxDays nás oslovili, zdali chceme využít možnosti prezentovat se na známé akci LinuxDays. 
 
