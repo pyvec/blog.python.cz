@@ -45,10 +45,10 @@ Shrneme si to:
     **Hrdým a aktivním sponzorům PyLadies v ČR nespočetněkrát děkují ♥ ♥ ♥**
     
     - [RedHat](https://www.redhat.com/en/global/czech-republic)
-    - [CZ.NIC](https://nic.cz/)
-    - [Tieto](https://tieto.cz/)
+    - [CZ.NIC](https://www.nic.cz/)
+    - [Tieto](https://www.tieto.cz/)
     - [ManpowerGroup](http://pyladies.cz/)
-    - [MSD IT](https://msdit.cz/)
+    - [MSD IT](https://www.msdit.cz/)
     - [Apiary](https://apiary.io/)
     - [Usertech](https://usertechnologies.com/)
     - [Pyvec, o.s.](http://pyvec.org/)
