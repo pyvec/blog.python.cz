@@ -49,9 +49,11 @@ To jsme ještě nevěděli, že taková prezentace na podobné akci pro nás bud
 
 Odcituji to z jejich [oficiálních stránek](https://www.linuxdays.cz/), to abych to nespletla.
 
-***"LinuxDays je česká linuxová konference, která se odehrává každoročně v Praze. Tato konference vznikla v roce 2012, aby nahradila zrušenou konferenci LinuxExpo. Za pět let se z LinuxDays stala největších akce svého druhu v Česku."***
+> LinuxDays je česká linuxová konference, která se odehrává každoročně v Praze. Tato
+> konference vznikla v roce 2012, aby nahradila zrušenou konferenci LinuxExpo. Za pět
+> let se z LinuxDays stala největších akce svého druhu v Česku.
 
-![Koncert pro Chris Ward a jeho podcastu o LinuxDays]({filename}/images/linuxdays_img_2389.jpg){:width="350px" :center}
+![Koncert pro Chris Ward - podcast o LinuxDays]({filename}/images/linuxdays_img_2389.jpg){:width="350px" :center}
 
 Pokud Tě zajímá nějaké pěkné shrnutí LinuxDays 2016, kdo tam byl a nebyl a co se tam dělo, rozhodně si pusť tenhle [super podcast od Chrise z Brna](https://soundcloud.com/chris-ward-908424795/rozhovory-na-linuxdayscz-2016-radio-beat-brno-petr-simacek).♪♫♪♪♫
 
@@ -63,28 +65,28 @@ Na stánku jsme totiž měli několik her na zelených destičkách typu NodeMCU
 O tyto destičky byl velký zájem a tak tímto velmi děkuji Petru Viktorinovi, Lumíru Balharovi a Janu Čermákovi, že mě v tom nenechali a všem nadšencům ochotně vysvětlovali a flashovali jejich destičky.
 
 Zmínění Roudničáci si přivezli her asi 10 a kdyby jim večer nevypli proud, sedí tam ještě teď. Na Adamovi, Jakubovi a Jardovi z Roudnice je super, že dokážou okolí nejen pobavit, ale i proškolit a aby někomu nepřišlo druhý den, že mají stejný program, tak 
-kluci přes noc ještě pár her doprogramují. Skvělým příkladem toho byla hra rádoby „GTAčko“, ke které přes noc Adam kromě dosavadního volantu s akcelerátorem ještě pedál fungující na světla z auta nalezená na půdě.
-Velké nadšení vzbudila jejich hra s vlaječkami na rychlost, digitální tabule na kterou se dá kreslit či hrát had dálkovým ovládáním. Rádoby „GTAčko“ s pedálem, volantem a světly. Jednoznačně parádní show a u našeho stánku byl téměř pořád plno.
+kluci přes noc ještě pár her doprogramují. Skvělým příkladem toho byla hra rádoby „GTAčko“, ke které přes noc Adam kromě dosavadního volantu s akcelerátorem přidal ještě pedál fungující na světla z auta nalezená na půdě.
+Velké nadšení vzbudila jejich hra s vlaječkami na rychlost, digitální tabule na kterou se dá kreslit či hrát had dálkovým ovládáním. Rádoby „GTAčko“ s pedálem, volantem a světly. Jednoznačně parádní show a u našeho stánku bylo téměř pořád plno.
 
-![Rádoby "GTAčko"]({filename}/images/linuxdays_img_2194.jpg){:width="350px" :center}
+![Rádoby „GTAčko"]({filename}/images/linuxdays_img_2194.jpg){:width="350px" :center}
 
 ![Hry na stánku měly velký úspěch]({filename}/images/linuxdays_img_2211.jpg){:width="350px" :center}
 
 ![Jarda Vysoký s digitální tabulí, kterou naprogramoval s klukama z Gymnázia Roudnice nad Labem]({filename}/images/linuxdays_img_2216.jpg){:width="350px" :center}
 
 
-Při té příležitosti jsme lidem povídali o tom, co vše v české Python komunitě děláme. Překvapivé pro nás bylo, že se na konferenci objevilo spousty lidí, kteří nikdy ani o python.cz neslyšeli, na Pyvo srazech nebyli a celkově byli nadšení, že se o tom mohli dozvědět, protože v Pythonu dělají.
-Dále jsme samozřejmě prezentovali kromě python.cz i PyLadies, Advanced PyLadies, Blog Python komunity, PyCon v Brně.
-Na stánku nechybělo ani Python žezlo, 3D vytištěné od Miro Hrončoka a Jakuba Průši. Děkujeme za jeho propůjčení. 
+Při té příležitosti jsme lidem povídali o tom, co vše v české Python komunitě děláme. Překvapivé pro nás bylo, že se na konferenci objevilo spousty lidí, kteří nikdy ani o [python.cz](http://python.cz/) neslyšeli, na [Pyvo srazech](http://pyvo.cz/) nebyli a celkově byli nadšení, že se o tom mohli dozvědět, protože v Pythonu dělají.
+Dále jsme samozřejmě prezentovali kromě [python.cz](http://python.cz/) i [PyLadies](http://pyladies.cz/), Advanced PyLadies, [blog](http://blog.python.cz/) Python komunity, [PyCon 2016](https://cz.pycon.org/2016/) v Brně.
+Na stánku nechybělo ani Python žezlo, 3D vytištěné od [Mira Hrončoka](https://twitter.com/hroncok) a [Jakuba Průši]https://twitter.com/jakub_prusa). Děkujeme za jeho propůjčení. 
 
 ![Miro Hrončok a jeho Python žezlo samozvané Pyč #pythonicstaffofenlightenment]({filename}/images/linuxdays_img_2158.jpg){:width="350px" :center}
 
-Chvílemi se k nám přidávali i prezentující z ostatních spřátelených stánků, jako je například CZ.NIC. Python nadšenců bylo na této konferenci opravdu dost. Došlo i k výměně věciček na bastlení po kterých jsme už nikterak netoužili za knihu o GIT do Python knihovničky, po které jsme naopak hrozně toužili.
+Chvílemi se k nám přidávali i prezentující z ostatních spřátelených stánků, jako je například [CZ.NIC](https://www.nic.cz/). Python nadšenců bylo na této konferenci opravdu dost. Došlo i k výměně věciček na bastlení, po kterých jsme už nikterak netoužili, za knihu o GIT do Python knihovničky, po které jsme naopak hrozně toužili.
 
 ![Přátelství s ostatními stánky na nás bylo znát]({filename}/images/linuxdays_img_2200.jpg){:width="350px" :center}
 
-Podobný stánek jsme o pár týdnů déle postavili i na PyCon 2016 v Brně, kam se také přijeli podívat kluci z Roudnice i se svou tabuli plnou her. 
-Rozhodně budeme šířit informace o těch všech skvělých věcech co v Python komunitě děláme i dál na podobných akcích. Pokud nám již s něčím pomáháš, je to hrozně fajn a toto je i Tvá zásluha.
+Podobný stánek jsme o pár týdnů později postavili i na PyCon 2016 v Brně, kam se také přijeli podívat kluci z Roudnice i se svou tabulí plnou her. 
+Rozhodně budeme šířit informace o těch všech skvělých věcech, které v Python komunitě děláme i dál na podobných akcích. Pokud nám již s něčím pomáháš, je to hrozně fajn a toto je i Tvá zásluha.
 Pokud jsi se k nám zatím nepřidal/a, ale chtěl/a bys, mrkni na [naši stránku, kde zjistíš, kde a jak se zapojit.](http://python.cz/zapojse/) 
 
 ![Jedna z mnoha částí herního koutku kluků z Roudnice a #pythonicstaffofenlightenment]({filename}/images/linuxdays_img_2292.jpg){:width="350px" :center}
