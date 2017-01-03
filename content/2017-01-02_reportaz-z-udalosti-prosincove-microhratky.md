@@ -6,7 +6,7 @@ Gravatar: valkova.zuza@seznam.cz
 About: Zuzka patří k misionářkám Pythonu v Praze, organizátorka PyLadies a Django Girls, sama je věčná začátečnice a vděčná účastnice kurzů minulých i budoucích. 
 
 
-Věčnou slávu si tentokrát zaslouží Pepa Rousek, který pro nás v čase předvánočního neklidu uspořádal Vánoční MicroPython dílnu. Na sraz bylo nutné mít vlastní micropythoní výbavu, takže i z toho důvodu účastníků workshopu nebylo mnoho. Díky komornějšímu obsazení jsme ale zvládli v pohodovém tempu překonat četné nástrahy, které zelené destičky obnáší. Např. oblíbené magic smoky - tentokrát nebyl ani jeden! 
+Věčnou slávu si tentokrát zaslouží [Pepa Rousek](https://twitter.com/josefrousek), který pro nás v čase předvánočního neklidu uspořádal Vánoční MicroPython dílnu. Na sraz bylo nutné mít vlastní micropythoní výbavu, takže i z toho důvodu účastníků workshopu nebylo mnoho. Díky komornějšímu obsazení jsme ale zvládli v pohodovém tempu překonat četné nástrahy, které zelené destičky obnáší. Např. oblíbené magic smoky - tentokrát nebyl ani jeden! 
 
 ![image description]({filename}/images/img_3154.jpg)
 
@@ -21,7 +21,7 @@ Pepa nám postupně představil pár triků, jak převádět do světýlek data 
 ![image description]({filename}/images/img_3145.jpg)
 
 Co se týče finální úspěšnosti a výsledků našeho snažení:
-Zatímco někteří účastníci sváděli velkolepé a dechberoucí bitvy s aktualizací ovladačů na Macu, obvykle zaostávající windowsácké šunky tentokrát obstály na jedničku. Takže se toho opravdu nemusí bát nikdo, ani ti jablíčkáři ne. Podklady z workshopu jsou pro inspiraci na [tomto linku](https://github.com/stlk/micropython/tree/master/workshop). No a my už se těšíme na další MicroPythoní hrátky v roce 2017!
+Zatímco někteří účastníci sváděli velkolepé a dechberoucí bitvy s aktualizací ovladačů na Macu, obvykle zaostávající windowsácké šunky tentokrát obstály na jedničku. Takže se toho opravdu nemusí bát nikdo, ani ti jablíčkáři ne. Podklady z workshopu jsou pro inspiraci na [tomto linku](https://github.com/stlk/micropython/tree/master/workshop). No a my už se těšíme na další micropythoní hrátky v roce 2017!
 
 
 
