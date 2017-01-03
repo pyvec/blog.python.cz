@@ -3,7 +3,7 @@ Date: 2017-01-02 22:16:00
 Modified: 2017-01-02 22:16:00
 Author: Zuzka Válková
 Gravatar: valkova.zuza@seznam.cz
-About: Zuzka patří k misionářkám Pythonu v Praze, organizátorka PyLadies a Django Girls, sama je věčná začátečnice a vděčná účastnice kurzů minulých i budoucích. 
+About: Zuzka patří k misionářkám Pythonu v Praze, organizátorka PyLadies a Django Girls Prague, sama je věčná začátečnice a vděčná účastnice kurzů minulých i budoucích. 
 
 
 Věčnou slávu si tentokrát zaslouží [Pepa Rousek](https://twitter.com/josefrousek), který pro nás v čase předvánočního neklidu uspořádal Vánoční MicroPython dílnu. Na sraz bylo nutné mít vlastní micropythoní výbavu, takže i z toho důvodu účastníků workshopu nebylo mnoho. Díky komornějšímu obsazení jsme ale zvládli v pohodovém tempu překonat četné nástrahy, které zelené destičky obnáší. Např. oblíbené magic smoky - tentokrát nebyl ani jeden! 
