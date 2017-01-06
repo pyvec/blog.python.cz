@@ -88,7 +88,7 @@ Velké nadšení vzbudila jejich hra s vlaječkami na rychlost, digitální tabu
 
 Při té příležitosti jsme lidem povídali o tom, co vše v české Python komunitě děláme. Překvapivé pro nás bylo, že se na konferenci objevilo spousty lidí, kteří nikdy ani o [python.cz](http://python.cz/) neslyšeli, na [Pyvo srazech](http://pyvo.cz/) nebyli a celkově byli nadšení, že se o tom mohli dozvědět, protože v Pythonu dělají.
 Dále jsme samozřejmě prezentovali kromě [python.cz](http://python.cz/) i [PyLadies](http://pyladies.cz/), Advanced PyLadies, [blog](http://blog.python.cz/) Python komunity, [PyCon 2016](https://cz.pycon.org/2016/) v Brně.
-Na stánku nechybělo ani Python žezlo, 3D vytištěné od [Mira Hrončoka](https://twitter.com/hroncok) a [Jakuba Průši]https://twitter.com/jakub_prusa). Děkujeme za jeho propůjčení. 
+Na stánku nechybělo ani Python žezlo, 3D vytištěné od [Mira Hrončoka](https://twitter.com/hroncok) a [Jakuba Průši](https://twitter.com/jakub_prusa). Děkujeme za jeho propůjčení. 
 
 ![Miro Hrončok a jeho Python žezlo samozvané Pyč #pythonicstaffofenlightenment]({filename}/images/linuxdays_img_2158.jpg){:width="350px" :center}
 *Miro Hrončok a jeho Python žezlo samozvané Pyč #pythonicstaffofenlightenment*
