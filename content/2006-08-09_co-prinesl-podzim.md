@@ -57,4 +57,5 @@ Shrneme si to:
 -   Organizátoři LinuxDays nám nabídli možnost postavit si na konferenci stánek a tak jsme postavili rovnou stan. To by bylo vyprávění i na dva články, ale držela jsem se. [Můžeš si to třeba přečíst.](http://blog.python.cz/komunitni-python-stanek-na-linuxdays)
 -   Advanced PyLadies v Praze slavily celkem úspěch, nicméně se k nám doneslo, že by se rádi přidali i kluci a rozvíjeli své spíš začátečnické dovednosti. A tak jsme se v Praze hecli a zkoušíme udělat měsíční srazy i pro všechny začátečníky.
     V Praze se tedy Advanced PyLadies jmenují PyWorking a z týdenních srazů se stal měsíční celodenní sraz s prostorem na práci na projektech a workshopem či přednáškami. Týdenní srazy na pár hodin odpoledne jsou i nadále k mání.
--   V Brně si slečny místo Advanced PyLadies rozjely Nepyvo a schází se každý čtvrtek v Nekavárně, kde upevňují a rozvíjejí znalosti Pythonu.
+-   V Brně se místo Advanced PyLadies rozjelo Nepyvo a Pythonistky i Pythonisti se schází každý čtvrtek v Nekavárně, kde upevňují a rozvíjejí znalosti Pythonu.
+-   V Praze na ČVUT proběhl nový kurz pokročilého Pythonu. Podle osvědčené tradice začátačnických kurzů PyLadies jsou materiály [online](https://github.com/cvut/mi-pyt), takže se stejný kurz dá uspořádat i jinde. Třeba v Brně, kde si před každou cestou do Prahy Petr jednotlivé přednášky vyzkoušel na živých zájemcích.
