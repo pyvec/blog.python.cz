@@ -18,8 +18,6 @@ Pepa nám postupně představil pár triků, jak převádět do světýlek data 
 
 ![image description]({filename}/images/output_FtEEP0.gif)
 
-![image description]({filename}/images/img_3145.jpg)
-
 Co se týče finální úspěšnosti a výsledků našeho snažení:
 Zatímco někteří účastníci sváděli velkolepé a dechberoucí bitvy s aktualizací ovladačů na Macu, obvykle zaostávající windowsácké šunky tentokrát obstály na jedničku. Takže se toho opravdu nemusí bát nikdo, ani ti jablíčkáři ne. Podklady z workshopu jsou pro inspiraci na [tomto linku](https://github.com/stlk/micropython/tree/master/workshop). No a my už se těšíme na další micropythoní hrátky v roce 2017!
 
