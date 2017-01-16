@@ -45,7 +45,7 @@ Bylo pro mne nesmírně motivační vidět, jak si maminka se dvěma dětmi pora
 Celé PyLadies jsou postavené na dobrovolnické práci a skvělé atmosféře. Martina Antalovová zajistila, že kurz vůbec proběhl. Firma [Experis](https://www.experis.cz/) nám půjčila prostory. Ježíšek nám po [Red Hatu](https://www.redhat.com/en/global/czech-republic) poslal součástky na programování v MicroPythonu (blikají a pípají!). Petr Viktorin jako hlavní kouč ukazoval, jak má vypadat srozumitelná, věcná, perfektně promyšlená lekce. 
 
 
-![post]({filename}/images/06.png)
+![micropython]({filename}/images/09.jpg)
 
 Pavel Dedík, Jirka Zapletal, Jarka Hladká, Jenda Král, Zuzka Piskořová a Manka Stará se o nás starali jak o kuřátka. Celou dobu se jen třásli na to, kdy se nám povede se v něčem zamotat, aby nám mohli pomoct a všechno vysvětlit. Koučům jsme také mohly kdykoli napsat nebo se přijít poradit na čtvrteční NePyvo do [Nekavárny](https://www.facebook.com/nekavarna/events).
 
