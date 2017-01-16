@@ -26,7 +26,7 @@ PyLadies se snaží trochu naředit klučičí programátorské prostředí. Po�
 
 ![tangens]({filename}/images/03.png)
 
-###programmers = [“novinarka”, “vedkyne”, “maminka na materske”] 
+###programmers = ["novinarka", "vedkyne", "maminka na materske"] 
 Už dlouho se mi nestalo, že bych přišla do nové společnosti a byla z ní jednoduše nadšená. Na PyLadies se ale sešla ohromně zajímavá sestava dívek a žen. Každá má vlastní kariéru, studium a koníčky. Na kurzu jsme se potkaly většinou s tím, že programování vnímáme buď jako možnost nové kariéry, nebo jako mocný nástroj k vylepšení té stávající. Je to nový druh magie k ovládnutí světa.
 Jednotlivé lekce se věnovaly cyklům, Gitu, funkcím, řetězcům, testování, GitHubu, seznamům, grafice, slovníkům, třídám a ve speciální lekci i MicroPythonu.
 
