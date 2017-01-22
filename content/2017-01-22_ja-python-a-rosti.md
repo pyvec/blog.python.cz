@@ -1,8 +1,8 @@
 Title: Já, Python a Roští
 Date: 2017-01-22
-Author: Marcus Scalpere
+Author: Marek Dlabáček
 Gravatar: marcus.scalpere@gmail.com
-About: ...
+About: Stále se učící pythonista, GOučkař, historik a strojař poloprofesionál a najdete mě v [Roští](https://rosti.cz/)
 
 
 Bylo mi taktně naznačeno, že bych mohl napsat svoji pouť od mimo jiné skladníka k programátorovi.
