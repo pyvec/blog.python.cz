@@ -1,0 +1,32 @@
+Title: Já, Python a Roští
+Date: 2017-01-22
+Author: Marcus Scalpere
+Gravatar: marcus.scalpere@gmail.com
+About: ...
+
+
+Bylo mi taktně naznačeno, že bych mohl napsat svoji pouť od mimo jiné skladníka k programátorovi.
+
+Počátek spadá už do období střední školy, kde se zdál obor "Mechanik seřizovač-programátor" jako naprosto dokonalý pro mou duši bažící po IT vzdělání. Poznámka pro ty, kteří chtějí jít kamkoli na SŠ - opravdu důkladně si prověřte **co** se na tom kterém oboru vyučuje. Tento obor byl hlavně o "mechanik", pak lehce o "seřizovač" a takřka vůbec o "programátor". A když, tak programovat [CNC](https://cs.wikipedia.org/wiki/%C4%8C%C3%ADslicov%C3%A9_%C5%99%C3%ADzen%C3%AD), což není rozhodně totéž jako programovat dejme tomu aplikace pro web.
+
+Po tomto zklamání jsem se rozhodl zkusit něco diametrálně odlišného a jít studovat něco, co by mělo něco společného s moji další zálibou - archivnictví a historii. Tam byla situace přesně opačná - studujete to, na co se to tváří z prvního pohledu a studujete toho opravdu hodně. Nepopírám, že v tomto oboru s alespoň základní představou o programování budete za všemohoucího. Ať už v otázkách "Jak se dělá háček u té?" nebo při použití (v té době ne chytrého telefonu) jako tahák. Nicméně jsem tento obor nedokončil a hrdinsky skončil týden před státnicemi a šel podnikat. Naprosto geniální nápad, kterého lituji dodnes.
+
+Podnikání v řemesle (rodinná tradice, truhlařina, stavařina), je sice krásná věc, kreativní, tvůrčí, něco za vámi zůstane. Řemeslo má zlaté dno, říká se. Byl jsem na něm, zlaté není. Zato dluhů je tam dost. Takže jsem neslavně skončil, s dluhy na krku a hledal "obyčejnou" práci, kde se nechat zaměstnat. Po celou tuto dlouhou dobu jsem se průběžně snažil něco tvořit, nějak se zlepšit v programování. Prošel jsem si PHP (hlavně pro osobní weby a weby přátel či známých), Ruby (které mě nikdy moc nezaujalo) a hlavně Python. Ten byl (a stále je!) moc fajn.
+
+Hrajete nějakou online strategii a nechce se vám klikat na něco ve stylu "Seber suroviny a zadej výrobu znovu"? Není problém, pár řádek skriptu, jděte do práce a vraťte se jako boháč. Potřebuje to samé váš bratr, který má ovšem jiný systém? Není problém! Zkrátka a přesně, i pro někoho, kdo se programováním neživí, se mi Python zdál ideální. Dokonce jsem v něm napsal i [utilitky pro výpočet a určování historických dat](https://github.com/Edelstadt?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=) (vymyšleno pouze pro osobní použití, leč postupem času jsem měl problém - chodili mi tam lidi). Ať už jsem dělal cokoli, vždy jsem něco programoval nebo se o to alespoň snažil. Práci v IT jsem zprvu nijak aktivně nehledal. Ovšem po zaměstnání na pozici skladník jsem o tom začal uvažovat opravdu vážně.
+
+Bohužel, nemohu si z rodinných důvodů dovolit odstěhovat se do většího města, ať Prahy nebo Brna, jsem omezen na Hradec Králové. A to není zrovna IT velmoc (s čestnými výjimkami). Tou dobou jsem byl už v kontaktu s [Honzou Javorkem](http://honzajavorek.cz), se kterým jsem leccos konzultoval. A byl tak nějak činný na [Pyonýrech](https://www.facebook.com/groups/pyonieri/) (činný = spamoval nepříliš inteligentníma otázkama). Jednou jsem v záchvatu deprese nad svou situací vytvořil [příspěvek pokorně prosící o šanci](https://www.facebook.com/groups/pyonieri/permalink/1168570359821806/), příležitost za takřka libovolnou částku. Honza už se na to nejspíš nemohl dál koukat a napsal pod to komentář vyzdvihují mé zkušenosti a projekty, za což mu patří velké díky.
+
+![šance]({filename}/images/marcus1.png){:width="500px":center}
+[Můj příspěvek prosící o šanci](https://www.facebook.com/groups/pyonieri/permalink/1168570359821806/)
+
+A pak to přišlo ([po menších komplikacích s FB, který filtruje zprávy](https://www.facebook.com/groups/pyonieri/permalink/1178763112135864/)) - "Ahoj, nechtěl by si to zkusit u nás na Roští?". Chtěl.
+
+Poznámka pro ty, kteří poprvé nastupují do nějaké IT firmy - na tohle vás nic nepřipraví. Můžete si číst co chcete, můžete si zkoušet kde co, ale dokud v tom nejste, nevíte takřka nic. Obdivuji (dodnes) tu odvahu přijmout amatéra a také obdivuji tu nehynoucí trpělivost. Samozřejmě [Roští](https://rosti.cz/) je nejspíš trochu zvláštní případ, není to drobeček (v době mého příchodu měla jen administrace tuším okolo 18k* řádek kodu) a není to jen o Pythonu. Bez JavaScriptu to nejde (trpím), bez HTML už vůbec ne (trpím méně), a bez další hromady jiných technologií taky ne (kupříkladu není moc dobrý nevědět něco málo o [Dockeru](https://www.docker.com/), pokud jste někde, kde mají hosting postavený na Dockeru).
+
+Pro kluky jsem byl také první "zaměstnanec", takže čas od času se stávalo při vysvětlování nějakého problému "Tak teď prosím ještě jednou a pomaleji". Ale rozhodně se toho nebojte. A smiřte se s tím, že nevíte zdaleka všechno. To nebudete vědět nikdy. Nemá cenu řešit věci typu "Mě to trvalo XY dní a jim by to trvalo XY - 10 dní". Nejde o to hned vědět vše, je to proces a každý "vedoucí" přijímající amatéra to ví. Trpělivě čekejte na den, kdy přijde "Tohle jsi vymyslel dobře, to se mi líbí" a užijte si to. Taky si užijte pocit a pohled na funkci, která je vaše. Je to k nezaplacení. Už jen kvůli tomu se to vyplatí alespoň zkusit.
+
+Ale samozřejmě má to i své zápory. Pokud jste dosud pracovali manuálně, navíc někde, kde byla reálná možnost, že vaše chyba může někoho zabít (zkuste zapomenout dát do střechy pár šroubů a klidně se vám spát nebude), tak budete překvapeni a budete dost ve stresu. Neberte to tak vážně, od toho jste nováček a chyby se očekávají, tak se s tím smiřte. Je to téměř nekonečný běh, kde se maximálně můžete snažit zlepšovat. Taky to, že teoreticky můžete pracovat pořád, alespoň tam, kde je PC, nutně neznamená, že musíte (jinak vám to volno výslovně nařídí, fakt!). Na závěr - děkuji za existenci [Pyonýrů](https://www.facebook.com/groups/pyonieri/) a vůbec lidí stojící za tím vším (nejen za FB skupinou). Dostal jsem jak rady, tak motivaci, vlastně vše, co jsem potřeboval. A hlavně děkuji klukům z [Roští](https://rosti.cz/), že měli a mají tu odvahu, trpělivost, snahu a příležitost. Po mých životních zkušenostech je tohle práce snů. Místo, kde si člověka váží a snaží se mu vyjít vstříc jak jen to jde (pod tímto se skrývá tisíce věcí, od drobností až po úžasné věci).
+
+![děkování]({filename}/images/marcus2.png){:width="500px":center}
+[Poděkování na Silvestra](https://www.facebook.com/groups/pyonieri/permalink/1343136619031845/)
