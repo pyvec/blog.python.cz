@@ -85,3 +85,11 @@ a:focus {
     font-size: 2.5rem;
   }
 }
+
+.archive-year {
+    /* Keep each year's entries together
+     * inspired by http://stackoverflow.com/questions/6424088/css-column-breaks
+     */
+    display: inline-block;
+    width: 100%;
+}
