@@ -28,6 +28,9 @@ informácie zrozumiteľné. Po prvotných problémoch s rôznymi operačnými
 systémami a verziami Pythonu sme sa hneď pustili do tvorby vizualizácií
 zobrazovaných vo webovom prehliadači.
 
+![Všichni z workshopu]({filename}/images/94849416-0963-11e7-8616-ca8148e71dab.jpg)
+Foto od Veroniky Gabrielovej
+
 ## Grafy, grafy, samé grafy
 
 Prešli sme základnými typmi grafov, ktoré vidím takmer v každej
@@ -95,6 +98,9 @@ od operačného systému trochu inak.
 ![Foto od Veroniky Gabrielovej]({filename}/images/img.jpg)
 Foto od Veroniky Gabrielovej
 
+![Darí sa!]({filename}/images/94846086-0963-11e7-8268-a8d338c72990.jpg)
+Foto od Veroniky Gabrielovej
+
 ## K čomu to celé bolo dobré?
 
 Okrem toho, že som si obnovila opäť pozitívny vzťah k vizualizácii dát,
@@ -117,3 +123,4 @@ Bola by som rada, ak by bolo pokračovanie, kde by nám ukázali chalani z
 Akamai, ako sa z malej knižnice na prevod SQL príkazov cez Python do
 grafov stal využívaný framework. A samozrejme, ako je v tejto dobe in,
 real-time grafy. Dokým sa to nehýbe, nie je to až tak cool.
+
