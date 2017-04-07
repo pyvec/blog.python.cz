@@ -2,9 +2,7 @@ Title: Holčičí IT sen
 Date: 2017-03-29
 Author: Tereza Jůzová
 Gravatar: tereza.juzova1@gmail.com
-
 About: Nedávno jsem se stala novým nadšencem Pythonu. Volné chvíle trávím na letišti a pozoruji svět z ptačí perspektivy nebo zůstávám při zemi při jízdě na longboardu.
-
 
 
 **Jak vzniká takový holčičí IT sen?** Všechno to začalo před pár měsíci, kdy jsem objevila možnost, přihlásit se do Digitální Akademie od Czechitas. Nepřemýšlela jsem ani minutu a hned odesílala přihlášku. Nyní je konec března a celý první běh Digitální Akademie se blíží ke konci. Bude mi to celé hrozně chybět, protože jsem za ty 3 měsíce poznala skvělou partu holek, naučila se spoustu nových věcí, potkala se s úžasnými mentory a lektory a také s naší skvělou organizaci Czechitas, která pomáhá vytvářet holčičí IT sny 👸.
