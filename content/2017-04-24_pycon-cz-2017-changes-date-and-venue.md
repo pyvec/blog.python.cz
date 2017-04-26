@@ -1,6 +1,6 @@
 Title: PyCon CZ 2017 changes date and venue
-Date: 2017-04-24 20:09:00
-Modified: 2017-04-24 20:09:00
+Date: 2017-04-26 09:09:00
+Modified: 2017-04-26 09:09:00
 Author: Honza Javorek
 Twitter: honzajavorek
 Gravatar: mail@honzajavorek.cz
@@ -30,7 +30,7 @@ Source: Prague Museum Night's Official Photogallery
 
 We understand this whole thing may cause a lot of inconvenience for you. We worked really hard to resolve the issue as soon as possible, but it still took us significant time. We didn't want to give up the idea about an **extraordinary venue with artistic soul** instead of university lecture rooms.
 
-We may have failed to communicate the uncertainity early enough to prevent you from booking flights or accommodation. On the other hand, originally, we did not expect to shift the date. If you get into some serious trouble because of the changes, please let us know and we'll try to find a way to help you rearrange.
+We may have failed to communicate the uncertainity early enough to prevent you from booking flights or accommodation. On the other hand, originally, we did not expect to shift the date. If you get into some serious trouble because of the changes, please [let us know](mailto:info@pycon.cz) and we'll try to find a way to help you rearrange.
 
 ![we're sorry]({filename}/images/im-sorry.png)
 
@@ -38,4 +38,4 @@ Many of you were asking for **tickets**, but they were still unavailable. As you
 
 At this moment we're busy with selecting talks and workshops from the public Call for Papers. Soon we are going to present you with a full program. I can assure you already that there are some amazing pieces waiting for you!
 
-Looking forward to see you <del>soon</del> **in 44 days, at MeetFactory**.
+Looking forward to see you <del>soon</del> **in 43 days, at MeetFactory**.
