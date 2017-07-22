@@ -28,10 +28,10 @@ kterého bylo po celý den víc než dost.
 ![Oběd na terase]({filename}/images/IMG_0343.jpg)
 
 Ani jsem se nenadála a už byl čas na oběd. Opět musím vyseknout poklonu objednanému cateringu, protože jídlo bylo výborné,
-pestré a bylo ho dost. Po jídle jsme byly vyhnány na velkou terasu se zahrádkou a krásným výhledem na společné focení,
+pestré a bylo ho dost. :) Po jídle jsme byly vyhnány na velkou terasu se zahrádkou a krásným výhledem na společné focení,
 abyste pak všichni viděli, jak jsme se tam měli dobře. Posoudit můžete [„zde“](https://www.dropbox.com/sh/6s2kyttxdq4g9zr/AABOSpfBOIzIYhR-ktJ0eSLea?dl=0). Musím říct, že mě workshop bavil natolik,
-že jsem si i oběd vzala k počítači a pro kafe běhala minimálně, a přitom bylo fakt dobrý! :) Druhá půlka workshopu byla
-trochu zajímavější, jelikož po <var>x</var> hodinách všemožného nastavování jsme se dostali i k programování. Vševědoucí Pepa se trpělivě skláněl nad našimi notebooky a hledal zapomenuté závorky, překlepy, řešil nevysvětlitelné errory a odpovídal na všetečné otázky typu „A proč jako? A proč ne takhle?“.
+že jsem si i oběd vzala k počítači a pro kafe běhala minimálně – a to bylo fakt dobrý! :) Druhá půlka workshopu byla
+trochu zajímavější, jelikož po <var>x</var> hodinách všemožného nastavování jsme se dostali i k programování. Vševědoucí Pepa se trpělivě skláněl nad našima notebookama a hledal zapomenuté závorky, překlepy, řešil nevysvětlitelné errory a odpovídal na všetečné otázky typu „A proč jako? A proč ne takhle?“.
 
 ![Radící koučové]({filename}/images/IMG_0060.jpg)
 
