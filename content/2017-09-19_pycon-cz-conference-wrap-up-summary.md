@@ -10,14 +10,18 @@ In June this year we held the [third annual PyCon in the Czech Republic](https:/
 
 First off, while the 2017 conference was a lot of work for all the volunteer organizers, it was a ton of fun to organize as well! Over the three conference event days we had:
 
-<!-- - about X visitors
+<!--
+TODO read https://drive.google.com/drive/u/0/folders/0B9LUg0ZhacR7eVIyX2RMbTdsMTA and add some stats
+
+- about X visitors
 - X keynote speeches
 - X talks and X workshops on different subjects
 - X individual speakers
 - X lightning talks
 - X sponsors and event partners
 - X Moravian cakes eaten
-- Xkg of coffee served -->
+- Xkg of coffee served
+-->
 
 Not to mention all the incredible community networking that took place during the event!
 
@@ -37,6 +41,12 @@ Post-processed videos of individual talks are [available on YouTube](https://www
 Official selection of photos from the event is [available on Google Photos](https://goo.gl/photos/agrkCMUQksNKqsGG7).
 
 <!--
+TODO rewrite
+TODO AFAIK we did not have any mobile apps this year... but we had @benAbraham saving our ass on frontend and in design
+TODO mention the conf moved from Brno to Prague
+TODO mention the team and the head of conference changed
+TODO mention how we started the hard way http://blog.python.cz/pycon-cz-2017-changes-date-and-venue
+
 ## Community organizations
 
 The core organizing team had grand expectations for this year’s event and it’s incredible to look back at all the things we have accomplished together. Not only did we completely rebrand PyCon CZ this year, we launched an entirely new and [reusable Django based website](https://github.com/pyvec/cz.pycon.org-2016), a mobile app ([iOS](https://itunes.apple.com/us/app/pycon-cz-2016/id1166720746), [Android](https://play.google.com/store/apps/details?id=cz.pycon.pyconcz)) and so much more!
@@ -50,6 +60,8 @@ While we’re at it, we’d like to call out two special groups which could use 
 -->
 
 <!--
+TODO verify what partnerships we had
+
 ## Diversity
 
 We put a lot of effort in to make the conference more welcoming to diverse populations. Again this year, we included a [Code of Conduct](https://cz.pycon.org/2016/about/code.1.html), as well as reaching out to specific communities, which are usually underrepresented in technical conferences. This included, of course, the cooperation with [Django Girls](https://djangogirls.org/) and [PyLadies of Prague, Brno and Ostrava](http://pyladies.cz/). Also, [VODICÍ PES](http://www.vycvikvodicichpsu.cz/), an organization which supports training of guide dogs for the blind, who each received a number of free tickets to attend the conference.
