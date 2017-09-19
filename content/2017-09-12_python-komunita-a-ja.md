@@ -25,7 +25,7 @@ Přemýšlel jsem tedy o tom, že by se měla moje role změnit a jasněji urči
 Seřazeno podle priorit.
 
 1. Pomáhat Martinu Bílkovi (předseda Pyvce) v tom, aby se Pyvec transformoval z občanského sdružení na spolek a hlavně na něco, co bude lépe škálovat a lépe sloužit současným potřebám komunity.
-2. Převést [pyvo.cz](https://github.com/pyvec/zapojse/issues/3) a [pyladies.cz](https://github.com/pyvec/zapojse/issues/10) na Pyvec.
+2. Převést domény [pyvo.cz](https://github.com/pyvec/zapojse/issues/3) a [pyladies.cz](https://github.com/pyvec/zapojse/issues/10) na Pyvec.
 3. Být hybatelem a správcem meta návodů, jako je [Pyvec Guide](https://pyvec-guide.readthedocs.io/), nebo tzv. [welcome guide](https://github.com/pyvec/zapojse/issues/59).
 4. Vytvořit a spravovat novou verzi [pyvec.org].
 5. Podílet se na organizaci konference PyCon CZ, a to propagací (přičemž tuto roli bych rád pojímal každým rokem více a více mentorsky a předával zkušenosti na ideálně co největší okruh lidí).
