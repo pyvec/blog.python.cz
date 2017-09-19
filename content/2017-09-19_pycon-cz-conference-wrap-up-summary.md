@@ -1,0 +1,115 @@
+Title: PyCon CZ Conference Wrap-Up Summary
+Date: 2017-09-19 20:19:00
+Author: Honza Javorek
+Twitter: honzajavorek
+Gravatar: mail@honzajavorek.cz
+About: [Honza](http://honzajavorek.cz) is a software engineer. Since 2011 he helps to develop the [Czech Python user group](http://python.cz/). In [Apiary](https://apiary.io/) works as a maintainer of [Dredd](https://github.com/apiaryio/dredd), an Open Source tool for testing web APIs.
+
+
+In June this year we held the [third annual PyCon in the Czech Republic](https://cz.pycon.org/2017/), for the first time held in Prague. We’d like to take this opportunity to wrap-up the 2017 conference so we can kick things off for 2018 planning!
+
+First off, while the 2017 conference was a lot of work for all the volunteer organizers, it was a ton of fun to organize as well! Over the three conference event days we had:
+
+<!-- - about X visitors
+- X keynote speeches
+- X talks and X workshops on different subjects
+- X individual speakers
+- X lightning talks
+- X sponsors and event partners
+- X Moravian cakes eaten
+- Xkg of coffee served -->
+
+Not to mention all the incredible community networking that took place during the event!
+
+## Videos & Photos
+
+This was the first time we managed to have a live streaming from the event. The stream covered both days of the conference talks and both rooms. Thanks to the fact the Q&A was driven by [Slido](https://www.sli.do/), not only people in the rooms, but also anyone watching the stream could ask questions. The stream recordings are still available on YouTube:
+
+- [Theatre Room, Thu](https://www.youtube.com/watch?v=170uRdCLUPY)
+- [Main Room, Thu](https://www.youtube.com/watch?v=TAwbeQqN4dI)
+- [Theatre Room, Fri](https://www.youtube.com/watch?v=2Azpwf2LRK0)
+- [Main Room, Fri](https://www.youtube.com/watch?v=motIB96FI48)
+
+Special thanks go to [Peter Hozák](http://peter.hozak.info/), who voluntarily posted a comment with time anchors under each of the videos, so soon after the conference anyone could easily scan the recordings to watch what they like.
+
+Post-processed videos of individual talks are [available on YouTube](https://www.youtube.com/playlist?list=PLyde45Tox-NczAxZ7L7_YF9sxOgby8zHR) as well. Each [talk page](https://cz.pycon.org/2017/speakers/talks/) was updated with the video embedded right under the talk description.
+
+Official selection of photos from the event is [available on Google Photos](https://goo.gl/photos/agrkCMUQksNKqsGG7).
+
+<!--
+## Community organizations
+
+The core organizing team had grand expectations for this year’s event and it’s incredible to look back at all the things we have accomplished together. Not only did we completely rebrand PyCon CZ this year, we launched an entirely new and [reusable Django based website](https://github.com/pyvec/cz.pycon.org-2016), a mobile app ([iOS](https://itunes.apple.com/us/app/pycon-cz-2016/id1166720746), [Android](https://play.google.com/store/apps/details?id=cz.pycon.pyconcz)) and so much more!
+
+With that said, we’d like to take a moment to thank everyone involved – all the CfP submission authors, the invited and accepted speakers, the sponsors, the fine folks at [Faculty of Information Technology, Brno University of Technology](http://www.fit.vutbr.cz/.en) who provided the venue space, the [Czech Python community](https://python.cz) in general and all the attendees who joined us to make PyCon CZ the amazing event it was.
+
+While we’re at it, we’d like to call out two special groups which could use your help – participation as well as sponsorships; groups whose ongoing work enabled this conference and will hopefully enable others like it in the future:
+
+- [Pyvec](http://pyvec.org/) – the formal backers of the PyCon CZ events and so many other Python events in the Czech Republic, whose continuous activity and monthly [Pyvo meetups](https://pyvo.cz/) are the lifeblood of the [Czech Python community](https://python.cz/), and
+- the [Python Software Foundation](https://www.python.org/psf/). They are the good people who take care of the ongoing development of the Python language and the global activities around it. The PSF sponsored PyCon CZ 2016, as it does many such events.
+-->
+
+<!--
+## Diversity
+
+We put a lot of effort in to make the conference more welcoming to diverse populations. Again this year, we included a [Code of Conduct](https://cz.pycon.org/2016/about/code.1.html), as well as reaching out to specific communities, which are usually underrepresented in technical conferences. This included, of course, the cooperation with [Django Girls](https://djangogirls.org/) and [PyLadies of Prague, Brno and Ostrava](http://pyladies.cz/). Also, [VODICÍ PES](http://www.vycvikvodicichpsu.cz/), an organization which supports training of guide dogs for the blind, who each received a number of free tickets to attend the conference.
+
+We did not collect the general statistics of visitor gender, but we have reason to believe it was significantly more balanced than usual, especially with respect to high profile speakers.
+-->
+
+## Code of Conduct Report
+
+The organization team agrees that all PyCon events should be accessible and welcoming to everyone, regardless of their background. We agree that a clear and specific Code of Conduct is a necessity for any event.
+
+- The [Code of Conduct](https://cz.pycon.org/2017/about/code/) was based on Conference anti-harassment policy from [Geek feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) and edited to be as specific to our event as possible
+- Agreeing to the Code was mandatory when buying a ticket
+- Two contact persons (male and female) were assigned
+- Attendees were reminded of the Code in the opening speech of each day
+
+### What could have been done
+
+- Summary of the Code in both languages were not posted around the venue
+- Phone numbers of the contact persons were not posted around the venue
+- There was no easy way to report an incident other than to write an e-mail or to talk to the CoC contact person
+- Czech language version of the Code was not accessible on the website
+
+## Budget
+
+In the spirit of Open Source and transparency, we’re happy to share a summary of our budget (all numbers are thousands of Czech Koruna, CZK).
+
+### Income
+
+- Sponsorship: 648
+- Ticket sales: 400
+- **Total: 1048**
+
+### Expenses
+
+- Venue: 215
+- Catering: 187
+- Robot workshop: 9
+- Conference party (food+drinks): 41
+- Financial aid (incl. keynote speakers): 130
+- Photo/Video recording & editing: 97
+- Swag, lanyards: 29
+- On-site fun (DJ, games): 21
+- Stationery, roll-ups: 18
+- Various other: 10
+- **Total: 757**
+
+### Conclusion
+
+As you can see, we ended with a positive balance of close to 291 000 CZK. That's because the conference moved from Brno to Prague and the organization team also changed, so we were very deffensive about our estimates and spending. All the surplus funds will be applied to next year’s event budget.
+
+## 2018
+
+Now, onto planning PyCon CZ 2018. Preparations have already begun! For the next year, the conference stays in Prague. Neither the time should change, so count with early summer. You can join the organizing team, or just keep track of our progress via our different channels:
+
+- Twitter: [@pyconcz](https://twitter.com/pyconcz)
+- [Facebook](https://www.facebook.com/events/165281843969470/)
+- E-mail: [info@pycon.cz](mailto:info@pycon.cz)
+- Website: [pycon.cz](https://cz.pycon.org/)
+
+Send an email to [info@pycon.cz](mailto:info@pycon.cz) if you’d like to request an invite to join our PyCon CZ planning channel on [Slack](https://pyvec.slack.com/) (it can be used also through IRC).
+
+See you in 2018!
