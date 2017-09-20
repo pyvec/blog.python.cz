@@ -19,8 +19,8 @@ TODO read https://drive.google.com/drive/u/0/folders/0B9LUg0ZhacR7eVIyX2RMbTdsMT
 - X individual speakers
 - X lightning talks
 - X sponsors and event partners
-- X Moravian cakes eaten
-- Xkg of coffee served
+- X Slunicko shoutout
+- Xkg of coffee/tea served
 -->
 
 Not to mention all the incredible community networking that took place during the event!
