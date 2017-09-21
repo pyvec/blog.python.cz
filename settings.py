@@ -27,3 +27,8 @@ if PRODUCTION:  # NOQA
 DISQUS_SITENAME = 'blog-python-cz'
 GOOGLE_ANALYTICS = 'UA-1316071-20'
 GOOGLE_FONTS = ['Arbutus Slab']
+
+
+# Drafts and hidden articles
+DRAFT_URL = '{slug}'
+DRAFT_SAVE_AS = '{slug}.html'
