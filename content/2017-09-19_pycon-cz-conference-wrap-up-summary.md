@@ -59,15 +59,29 @@ While we’re at it, we’d like to call out two special groups which could use 
 - the [Python Software Foundation](https://www.python.org/psf/). They are the good people who take care of the ongoing development of the Python language and the global activities around it. The PSF sponsored PyCon CZ 2016, as it does many such events.
 -->
 
-<!--
-TODO verify what partnerships we had
-
 ## Diversity
 
-We put a lot of effort in to make the conference more welcoming to diverse populations. Again this year, we included a [Code of Conduct](https://cz.pycon.org/2016/about/code.1.html), as well as reaching out to specific communities, which are usually underrepresented in technical conferences. This included, of course, the cooperation with [Django Girls](https://djangogirls.org/) and [PyLadies of Prague, Brno and Ostrava](http://pyladies.cz/). Also, [VODICÍ PES](http://www.vycvikvodicichpsu.cz/), an organization which supports training of guide dogs for the blind, who each received a number of free tickets to attend the conference.
+We've put effort into making the conference as welcoming as possible. We had [Code of Conduct](https://cz.pycon.org/2017/about/code/) in place and we were reaching out to specific communities, which are usually underrepresented in technical conferences.
 
-We did not collect the general statistics of visitor gender, but we have reason to believe it was significantly more balanced than usual, especially with respect to high profile speakers.
--->
+This year, Czech PyLadies were heavily involved in the organization team and many others attended the conference as well. After moving the conference from Brno to Prague, the Prague PyLadies beginners course alumni [Bára Drbohlavová](https://twitter.com/BaraDrb) volunteered to become the chair of the conference. The [PyLadies of Prague, Brno and Ostrava](http://pyladies.cz/) were invited to participate with a discount equal to student ticket fare.
+
+[Zuzka Válková](https://github.com/zuzejk), long time Prague PyLadies beginners course organizer, joined our team to hold the [Django Girls](https://djangogirls.org/) workshop together with the conference. All Django Girls participants had free entrance to the conference.
+
+Vojtěch Polášek, author of the [Blind attendee about PyCon CZ 2016](http://blog.python.cz/blind-attendee-about-pycon-cz-2016) blog post, came to the conference also this year.
+
+### Statistics
+
+- More than 30% of the talks were not given by men, although the selection process did not take gender into consideration.
+- More than ⅕ of the audience were women.
+
+In past years the Czech Python community made a big leap towards attracting women into tech. We think the attendance of women at PyCon CZ is significantly influenced by the day-to-day work of all who put the effort, primarily all people around the activites of [PyLadies](http://pyladies.cz/). We hope to become an inspiration for other Czech tech communities and events.
+
+### What could have been done
+
+- Given the context we're a developer-focused conference in the Czech Republic, ⅕ of audience a good number, but in the following years we would like to find and remove as much remaining obstacles for women to attend as possible and to achieve even higher numbers. Experience from abroad shows there's still a margin.
+- [Because of last minute changes of the venue](http://blog.python.cz/pycon-cz-2017-changes-date-and-venue), both of the main conference days happened during working days. According to reports, such choice isn't exactly the best for attracting beginners.
+- For the same reason the Django Girls workshop had to be on Sunday, after the whole conference. That's why many attendees of the workshop did not come to the conference, although they were given a free ticket.
+- We did not manage to pursue more partnerships. E.g. last year we invited [VODICÍ PES](www.vycvikvodicichpsu.cz).
 
 ## Code of Conduct Report
 
@@ -115,7 +129,7 @@ As you can see, we ended with a positive balance of close to 291 000 CZK. That's
 
 ## 2018
 
-Now, onto planning PyCon CZ 2018. Preparations have already begun! For the next year, the conference stays in Prague. Neither the time should change, so count with early summer. You can join the organizing team, or just keep track of our progress via our different channels:
+Now, onto planning PyCon CZ 2018. For the next year, the conference stays in Prague. Neither the time should change, so count with early summer. You can join the organizing team, or just keep track of our progress via our different channels:
 
 - Twitter: [@pyconcz](https://twitter.com/pyconcz)
 - [Facebook](https://www.facebook.com/events/165281843969470/)
