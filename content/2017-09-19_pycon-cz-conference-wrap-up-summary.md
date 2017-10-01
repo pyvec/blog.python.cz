@@ -8,22 +8,76 @@ About: [Honza](http://honzajavorek.cz) is a software engineer. Since 2011 he hel
 
 In June this year we held the [third annual PyCon in the Czech Republic](https://cz.pycon.org/2017/), for the first time held in Prague. We’d like to take this opportunity to wrap-up the 2017 conference so we can kick things off for 2018 planning!
 
-First off, while the 2017 conference was a lot of work for all the volunteer organizers, it was a ton of fun to organize as well! Over the three conference event days we had:
+## Thank you!
 
-<!--
-TODO read https://drive.google.com/drive/u/0/folders/0B9LUg0ZhacR7eVIyX2RMbTdsMTA and add some stats
+All people organizing the PyCon CZ event are volunteers and worked on it in their free time. Big shout out to all the [core team members](https://cz.pycon.org/2017/about/team/) as well as all others who helped with preparation up front or on site. Big thanks to all CfP submission authors, the invited and accepted speakers, all the attendees who joined us to make PyCon CZ the amazing event it was, the [sponsors](https://cz.pycon.org/2017/sponsors/), and our hosts in both the [MeetFactory](http://www.meetfactory.cz/) and the [Faculty of Information Technology CTU in Prague](https://fit.cvut.cz/en). Two special thanks go also to:
 
-- about X visitors
-- X keynote speeches
-- X talks and X workshops on different subjects
-- X individual speakers
-- X lightning talks
-- X sponsors and event partners
-- X Slunicko shoutout
-- Xkg of coffee/tea served
--->
+- [Pyvec](http://pyvec.org/) – The formal backers of the PyCon CZ events and so many other Python events in the Czech Republic. Continuous activity of people around Pyvec and [Czech PyLadies](http://pyladies.cz/), and monthly [Pyvo meetups](https://pyvo.cz/) are the lifeblood of the [Czech Python community](https://python.cz/).
+- [Python Software Foundation](https://www.python.org/psf/) - They are the good people who take care of the ongoing development of the Python language and the global activities around it. The PSF sponsored PyCon CZ 2017, as it does many such events.
 
-Not to mention all the incredible community networking that took place during the event!
+## Community Organizations
+
+To acknowledge the heroic achievements of the PyCon CZ founder [Tomáš Ehrlich](https://twitter.com/tomas_ehrlich) and to give him some time off after two years restlessly oragnizing the conference, we agreed on moving the event to Prague. [Bára Drbohlavová](https://twitter.com/BaraDrb) volunteered to become the chair of the conference and the new organizers team started forming.
+
+We think today we can say the hand over was successful and the Prague team is very well capable of organizing PyCon CZ events! Even though the team [was forced by bad luck to change date and venue on last minute](http://blog.python.cz/pycon-cz-2017-changes-date-and-venue), at the end the event had an amazing atmosphere and cheerful feedback.
+
+We did not manage to have dedicated mobile apps for the event as last year. On the other hand, we had a UX-aware DTP-capable frontend designer as part of the core team, which resulted in many improvements in presentation of the conference, especially the usability of the website from mobile devices.
+
+## Content Stats
+
+- 31 talks (4 keynotes), 30 speakers
+- 9 workshops
+
+## Ticket Stats
+
+- 361 tickets, 334 attendees (20% women)
+- 62% of tickets were paid
+    - 24% (39% of all paid) **Self-funded** (38% of them were Early Bird)
+    - 22% (35% of all paid) **Employer-funded** (40% of them were Early Bird)
+    - 15% (24% of all paid) **Student/Teacher** (49% of them were Early Bird)
+    - 3 tickets for PyLadies
+- 38% of tickets were free
+    - 11% sponsors
+    - 11% speakers and workshop leaders
+    - 7% Django Girls (from that 35% were coaches)
+    - 4% Organizers Team PyCon CZ
+    - 4 tickets given away in raffles at meetups
+    - 4 tickets Financial Aid
+    - 3 tickets GymGeek
+    - 4 tickets PyCon PL/SK organizers
+- 27 people did not come (4 Django Girls, 3 Django Girls coaches, 6 Early Bird student/teachers, 2 student/teachers, 5 self-funded, 3 employer-funded, 3 sponsors, 1 PyCon SK organizer)
+
+## Feedback
+
+We've been running a feedback survey during and after the event. We've got 39 responses in total.
+
+- **Have you been satisfied with PyCon CZ 2017?** 94.9% yes!
+- **I came to PyCon CZ to/because...**
+    - 53.8% - networking and meeting people
+    - 51.3% - talks and learning about Python
+- **Which talk you enjoy the most?**
+    1. 12.8% - [Naomi Ceder](https://twitter.com/NaomiCeder) ([What lies ahead? Python’s future strengths and challenges](https://cz.pycon.org/2017/speakers/detail/talk/34/)) and [Lilly Ryan](https://twitter.com/attacus_au) (any of the [two](https://cz.pycon.org/2017/speakers/detail/talk/9/) [talks](https://cz.pycon.org/2017/speakers/detail/talk/31/))
+    2. 10.3% - [Lumír Balhar](https://twitter.com/lumirbalhar) & [Petr Viktorin](https://twitter.com/NaomiCeder) ([How we started teaching Python](https://cz.pycon.org/2017/speakers/detail/talk/14/))
+    3. 7.7% - Kateřina Falk ([Science with the world’s biggest lasers](https://cz.pycon.org/2017/speakers/detail/talk/35/))
+- **What were the top 3 things you most enjoyed at the event this year?**
+    - 41.0% - community / people
+    - 35.9% - venue / building / location
+    - 25.6% - talks
+    - 25.6% - atmosphere
+    - 15.4% - coffee
+- **What were the "bottom 3" things we could have done better?**
+    - 20.5% - food
+    - 20.5% - Wi-Fi
+    - 12.8% - rooms, chairs
+    - 12.8% - afterparty
+    - 7.7% - venue / building / location
+- **Where did you travel from?**
+    - 38.5% - Prague, Czech Republic
+    - 7.7% - Brno, Czech Republic
+    - 7.7% - Poland
+    - 5.1% - not far from Prague, Czech Republic
+    - 5.1% - Bratislava, Slovakia
+    - 5.1% - Czech Republic
 
 ## Videos & Photos
 
@@ -40,43 +94,47 @@ Post-processed videos of individual talks are [available on YouTube](https://www
 
 Official selection of photos from the event is [available on Google Photos](https://goo.gl/photos/agrkCMUQksNKqsGG7).
 
-<!--
-TODO rewrite
-TODO AFAIK we did not have any mobile apps this year... but we had @benAbraham saving our ass on frontend and in design
-TODO mention the conf moved from Brno to Prague
-TODO mention the team and the head of conference changed
-TODO mention how we started the hard way http://blog.python.cz/pycon-cz-2017-changes-date-and-venue
+### Video Stats
 
-## Community organizations
+The videos of talks were uploaded by the end of Septempber. The numbers below were collected on 1 Oct 2017, that means after one month from publishing.
 
-The core organizing team had grand expectations for this year’s event and it’s incredible to look back at all the things we have accomplished together. Not only did we completely rebrand PyCon CZ this year, we launched an entirely new and [reusable Django based website](https://github.com/pyvec/cz.pycon.org-2016), a mobile app ([iOS](https://itunes.apple.com/us/app/pycon-cz-2016/id1166720746), [Android](https://play.google.com/store/apps/details?id=cz.pycon.pyconcz)) and so much more!
+- **Stream Thursday**
+    - Main Room - 962 views, 13172 minutes watch time, 20 likes
+    - Theatre Room - 563 views, 4662 minutes watch time, 10 likes
+- **Stream Friday**
+    - Main Room - 794 views, 7717 minutes watch time, 11 likes
+    - Theatre Room - 359 views, 3780 minutes watch time, 3 likes
+- **Videos with the most views**:
+    - [Armin Ronacher: A Python and Rust love story](https://cz.pycon.org/2017/speakers/detail/talk/30/)
+    - [Naomi Ceder: What lies ahead? Python’s future strengths and challenges](https://cz.pycon.org/2017/speakers/detail/talk/34/)
+    - [Karla Fejfarová & Petr Šimeček: Python alternatives to R/Shiny](https://cz.pycon.org/2017/speakers/detail/talk/8/)
 
-With that said, we’d like to take a moment to thank everyone involved – all the CfP submission authors, the invited and accepted speakers, the sponsors, the fine folks at [Faculty of Information Technology, Brno University of Technology](http://www.fit.vutbr.cz/.en) who provided the venue space, the [Czech Python community](https://python.cz) in general and all the attendees who joined us to make PyCon CZ the amazing event it was.
+## Socially Responsible Catering
 
-While we’re at it, we’d like to call out two special groups which could use your help – participation as well as sponsorships; groups whose ongoing work enabled this conference and will hopefully enable others like it in the future:
-
-- [Pyvec](http://pyvec.org/) – the formal backers of the PyCon CZ events and so many other Python events in the Czech Republic, whose continuous activity and monthly [Pyvo meetups](https://pyvo.cz/) are the lifeblood of the [Czech Python community](https://python.cz/), and
-- the [Python Software Foundation](https://www.python.org/psf/). They are the good people who take care of the ongoing development of the Python language and the global activities around it. The PSF sponsored PyCon CZ 2016, as it does many such events.
--->
+Catering was provided by the coffee shop & bakery [Slunce](http://www.slunce.info/index.php?option=com_content&view=article&id=178&Itemid=91), which employs people with disabilities. The activities of Slunce are formally backed by the [Sun for Everyone Endowment Fund](http://www.slunce.info/index.php?option=com_content&view=article&id=576&Itemid=78) ([Czech](http://slunce.info/)).
 
 ## Diversity
 
 We've put effort into making the conference as welcoming as possible. We had [Code of Conduct](https://cz.pycon.org/2017/about/code/) in place and we were reaching out to specific communities, which are usually underrepresented in technical conferences.
 
-This year, Czech PyLadies were heavily involved in the organization team and many others attended the conference as well. After moving the conference from Brno to Prague, the Prague PyLadies beginners course alumni [Bára Drbohlavová](https://twitter.com/BaraDrb) volunteered to become the chair of the conference. The [PyLadies of Prague, Brno and Ostrava](http://pyladies.cz/) were invited to participate with a discount equal to student ticket fare.
+The women/men ratio of the organizing team was roughly 50:50. After moving the conference from Brno to Prague, the Prague PyLadies beginners course alumni [Bára Drbohlavová](https://twitter.com/BaraDrb) volunteered to become the chair of the conference. The [PyLadies of Prague, Brno and Ostrava](http://pyladies.cz/) were invited to attend with a discount equal to student/teacher ticket fare.
 
 [Zuzka Válková](https://github.com/zuzejk), long time Prague PyLadies beginners course organizer, joined our team to hold the [Django Girls](https://djangogirls.org/) workshop together with the conference. All Django Girls participants had free entrance to the conference.
 
 Vojtěch Polášek, author of the [Blind attendee about PyCon CZ 2016](http://blog.python.cz/blind-attendee-about-pycon-cz-2016) blog post, came to the conference also this year.
 
-### Statistics
+### Diversity Stats
 
-- More than 30% of the talks were not given by men, although the selection process did not take gender into consideration.
+- More than 30% of the talks were not given by men. The selection process did not take gender into consideration.
 - More than ⅕ of the audience were women.
+
+From the detailed analysis of the data we have it seems that women tend to buy cheaper tickets than men, probably mostly because in the context of the Czech Python community they're often also beginners. The data shows that the ticket price is important for achieving inclusivity. Without the discounts aimed towards women (Django Girls, PyLadies) and without the Financial Aid we would see much less women attending the conference.
+
+Workshops aimed towards beginners ([testing](https://cz.pycon.org/2017/speakers/detail/workshop/7/), [robots](https://cz.pycon.org/2017/speakers/detail/workshop/1/), [programming for kids](https://cz.pycon.org/2017/speakers/detail/workshop/4/), Django Girls) significantly raised the numbers of women as well.
 
 In past years the Czech Python community made a big leap towards attracting women into tech. We think the attendance of women at PyCon CZ is significantly influenced by the day-to-day work of all who put the effort, primarily all people around the activites of [PyLadies](http://pyladies.cz/). We hope to become an inspiration for other Czech tech communities and events.
 
-### What could have been done
+### What Could Have Been Done
 
 - Given the context we're a developer-focused conference in the Czech Republic, ⅕ of audience a good number, but in the following years we would like to find and remove as much remaining obstacles for women to attend as possible and to achieve even higher numbers. Experience from abroad shows there's still a margin.
 - [Because of last minute changes of the venue](http://blog.python.cz/pycon-cz-2017-changes-date-and-venue), both of the main conference days happened during working days. According to reports, such choice isn't exactly the best for attracting beginners.
@@ -92,7 +150,7 @@ The organization team agrees that all PyCon events should be accessible and welc
 - Two contact persons (male and female) were assigned
 - Attendees were reminded of the Code in the opening speech of each day
 
-### What could have been done
+### What Could Have Been Done
 
 - Summary of the Code in both languages were not posted around the venue
 - Phone numbers of the contact persons were not posted around the venue
