@@ -121,7 +121,18 @@ The women/men ratio of the organizing team was roughly 50:50. After moving the c
 
 [Zuzka Válková](https://github.com/zuzejk), long time Prague PyLadies course organizer, joined our team to hold the [Django Girls](https://djangogirls.org/) workshop together with the conference. All Django Girls participants had free ticket to the conference.
 
-Vojtěch Polášek, author of the [Blind attendee about PyCon CZ 2016](http://blog.python.cz/blind-attendee-about-pycon-cz-2016) blog post, came to the conference again this year.
+Vojtěch Polášek, author of the [Blind attendee about PyCon CZ 2016](http://blog.python.cz/blind-attendee-about-pycon-cz-2016) blog post, came to the conference again this year. His own report follows:
+
+> After I had attended PyCon CZ last year, I decided to repeat it as soon as possible. And therefore I arrived to Prague in June to see what's new with Python and to meet old and new friends. Unfortunately, I was able to attend only on Friday and so I missed the workshops.
+>
+> This year I didn't manage to find anyone to assist me throughout the conference so I decided to go alone. But time showed that I wouldn't be alone at all. There was literaly almost not a single minute when I would feel abandoned at this place. There was always someone around to help me or to talk to me. Whenever I am surrounded by such people, it leaves a long lasting positive feeling in me and PyCon 2017 wasn't an exception.
+>
+> Talks were very interesting and mostly accessible. I guess that speakers probably read my [short post from previous PyCon CZ](http://blog.python.cz/blind-attendee-about-pycon-cz-2016), where I suggested some improvements concerning accessibility of talks. Also this year PyCon CZ was hosted in somewhat smaller building. I understand that it could be a bit unconfortable but on the other hand after several hours I was able to navigate through the building almost without asistance.
+>
+> During the conference I decided to have a lightning talk at the end, where I very very shortly [demonstrated how I can use the computer](https://www.youtube.com/watch?v=Swl8lRe9YNI&t=4m45s). I did that because the Linux screenreader [Orca](https://en.wikipedia.org/wiki/Orca_(assistive_technology)) is written in Python. Thank you for giving me such opportunity to show that and I hope that it could attract someone who would like to focus their Python skills in this way.
+> Finally, I would like to thank [Red Hat](https://www.redhat.com/) for providing me with a free ticket. My thanks also go to [Chris Ward](https://twitter.com/kejbaly2) who tried to help me as much as possible throughout the whole conference.
+>
+> I am looking forward to visit PyCon CZ next year as well and to finally attend some workshops.
 
 ### Diversity Stats
 
