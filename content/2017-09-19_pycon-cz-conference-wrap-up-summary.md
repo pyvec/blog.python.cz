@@ -77,7 +77,7 @@ We carried out a feedback survey during and after the event. We’ve got 39 resp
     - 7.7% - Poland
     - 5.1% - not far from Prague, Czech Republic
     - 5.1% - Bratislava, Slovakia
-    - 5.1% - Czech Republic
+    - 5.1% - other places, Czech Republic
 
 ## Videos & Photos
 
