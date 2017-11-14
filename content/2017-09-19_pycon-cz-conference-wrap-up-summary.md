@@ -57,7 +57,7 @@ We carried out a feedback survey during and after the event. We’ve got 39 resp
     - 51.3% - talks and learning about Python
 - **Which talk did you enjoy the most?**
     1. 12.8% - [Naomi Ceder](https://twitter.com/NaomiCeder) ([What lies ahead? Python’s future strengths and challenges](https://cz.pycon.org/2017/speakers/detail/talk/34/)) and [Lilly Ryan](https://twitter.com/attacus_au) (any of the [two](https://cz.pycon.org/2017/speakers/detail/talk/9/) [talks](https://cz.pycon.org/2017/speakers/detail/talk/31/))
-    2. 10.3% - [Lumír Balhar](https://twitter.com/lumirbalhar) & [Petr Viktorin](https://twitter.com/NaomiCeder) ([How we started teaching Python](https://cz.pycon.org/2017/speakers/detail/talk/14/))
+    2. 10.3% - [Lumír Balhar](https://twitter.com/lumirbalhar) & [Petr Viktorin](https://encukou.cz) ([How we started teaching Python](https://cz.pycon.org/2017/speakers/detail/talk/14/))
     3. 7.7% - Kateřina Falk ([Science with the world’s biggest lasers](https://cz.pycon.org/2017/speakers/detail/talk/35/))
 - **What were the top 3 things you most enjoyed at the event this year?**
     - 41.0% - community / people
