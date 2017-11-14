@@ -13,7 +13,7 @@ In June this year we held the [third annual PyCon in the Czech Republic](https:/
 All the people who organized the PyCon CZ event are volunteers and worked on it in their free time. Big shout out to all the [core team members](https://cz.pycon.org/2017/about/team/) as well as all other people who helped with preparation up front or on site. Big thanks to all the CfP submission authors, the invited and accepted speakers, all the attendees who joined us to make PyCon CZ the amazing event it was, the [sponsors](https://cz.pycon.org/2017/sponsors/), and our hosts at both [MeetFactory](http://www.meetfactory.cz/) and the [Faculty of Information Technology CTU in Prague](https://fit.cvut.cz/en). Two special thanks also go to:
 
 - [Pyvec](http://pyvec.org/) – The formal backers of the PyCon CZ events and so many other Python events in the Czech Republic. Continuous activities of people around Pyvec, [Czech PyLadies](http://pyladies.cz/), and monthly [Pyvo meetups](https://pyvo.cz/) are the lifeblood of the [Czech Python community](https://python.cz/).
-- [Python Software Foundation](https://www.python.org/psf/) - They are the good people who take care of the ongoing development of the Python language and the global activities around it. The PSF sponsored PyCon CZ 2017, as it does many such events.
+- [Python Software Foundation](https://www.python.org/psf/) – They are the good people who take care of the ongoing development of the Python language and the global activities around it. The PSF sponsored PyCon CZ 2017, as it does many such events.
 
 ## Community Organization
 
@@ -53,31 +53,31 @@ We carried out a feedback survey during and after the event. We’ve got 39 resp
 
 - **Have you been satisfied with PyCon CZ 2017?** 94.9% said yes!
 - **I came to PyCon CZ to/because...**
-    - 53.8% - networking and meeting people
-    - 51.3% - talks and learning about Python
+    - 53.8% – networking and meeting people
+    - 51.3% – talks and learning about Python
 - **Which talk did you enjoy the most?**
-    1. 12.8% - [Naomi Ceder](https://twitter.com/NaomiCeder) ([What lies ahead? Python’s future strengths and challenges](https://cz.pycon.org/2017/speakers/detail/talk/34/)) and [Lilly Ryan](https://twitter.com/attacus_au) (any of the [two](https://cz.pycon.org/2017/speakers/detail/talk/9/) [talks](https://cz.pycon.org/2017/speakers/detail/talk/31/))
-    2. 10.3% - [Lumír Balhar](https://twitter.com/lumirbalhar) & [Petr Viktorin](https://encukou.cz) ([How we started teaching Python](https://cz.pycon.org/2017/speakers/detail/talk/14/))
-    3. 7.7% - Kateřina Falk ([Science with the world’s biggest lasers](https://cz.pycon.org/2017/speakers/detail/talk/35/))
+    1. 12.8% – [Naomi Ceder](https://twitter.com/NaomiCeder) ([What lies ahead? Python’s future strengths and challenges](https://cz.pycon.org/2017/speakers/detail/talk/34/)) and [Lilly Ryan](https://twitter.com/attacus_au) (any of the [two](https://cz.pycon.org/2017/speakers/detail/talk/9/) [talks](https://cz.pycon.org/2017/speakers/detail/talk/31/))
+    2. 10.3% – [Lumír Balhar](https://twitter.com/lumirbalhar) & [Petr Viktorin](https://encukou.cz) ([How we started teaching Python](https://cz.pycon.org/2017/speakers/detail/talk/14/))
+    3. 7.7% – Kateřina Falk ([Science with the world’s biggest lasers](https://cz.pycon.org/2017/speakers/detail/talk/35/))
 - **What were the top 3 things you most enjoyed at the event this year?**
-    - 41.0% - community / people
-    - 35.9% - venue / building / location
-    - 25.6% - talks
-    - 25.6% - atmosphere
-    - 15.4% - coffee
+    - 41.0% – community / people
+    - 35.9% – venue / building / location
+    - 25.6% – talks
+    - 25.6% – atmosphere
+    - 15.4% – coffee
 - **What were the bottom 3 things we could have done better?**
-    - 20.5% - food
-    - 20.5% - Wi-Fi
-    - 12.8% - rooms, chairs
-    - 12.8% - afterparty
-    - 7.7% - venue / building / location
+    - 20.5% – food
+    - 20.5% – Wi-Fi
+    - 12.8% – rooms, chairs
+    - 12.8% – afterparty
+    - 7.7% – venue / building / location
 - **Where did you travel from?**
-    - 38.5% - Prague, Czech Republic
-    - 7.7% - Brno, Czech Republic
-    - 7.7% - Poland
-    - 5.1% - not far from Prague, Czech Republic
-    - 5.1% - Bratislava, Slovakia
-    - 5.1% - other places, Czech Republic
+    - 38.5% – Prague, Czech Republic
+    - 7.7% – Brno, Czech Republic
+    - 7.7% – Poland
+    - 5.1% – not far from Prague, Czech Republic
+    - 5.1% – Bratislava, Slovakia
+    - 5.1% – other places, Czech Republic
 
 ## Videos & Photos
 
@@ -99,11 +99,11 @@ An official selection of photos from the event is [available on Google Photos](h
 The videos of talks were uploaded by the end of September. The numbers below were collected on 1 Oct 2017, that means after one month from publishing.
 
 - **Stream Thursday**
-    - Main Room - 962 views, 13172 minutes watch time, 20 likes
-    - Theatre Room - 563 views, 4662 minutes watch time, 10 likes
+    - Main Room – 962 views, 13172 minutes watch time, 20 likes
+    - Theatre Room – 563 views, 4662 minutes watch time, 10 likes
 - **Stream Friday**
-    - Main Room - 794 views, 7717 minutes watch time, 11 likes
-    - Theatre Room - 359 views, 3780 minutes watch time, 3 likes
+    - Main Room – 794 views, 7717 minutes watch time, 11 likes
+    - Theatre Room – 359 views, 3780 minutes watch time, 3 likes
 - **Videos with the most views**:
     - [Armin Ronacher: A Python and Rust love story](https://cz.pycon.org/2017/speakers/detail/talk/30/)
     - [Naomi Ceder: What lies ahead? Python’s future strengths and challenges](https://cz.pycon.org/2017/speakers/detail/talk/34/)
@@ -201,7 +201,7 @@ We ended with a positive balance of close to 297 500 CZK. That’s because the c
 
 In the past, Pyvec had only limited funds to reimburse community expenses such as stickers, community sprints, [workshop/meetup equipment](https://twitter.com/lumirbalhar/status/915545723265052673), open source educational materials, and more. Thanks to PyCon CZ 2017 surplus funds, the support budget is now much larger, which can be a significant help to the development of the Czech community.
 
-Should funding prevent you from organizing a Python-related event, or should you miss any equipment needed to promote Python, please let us know at [info@pyvec.org](mailto:info@pyvec.org). The funds are a great opportunity for the Czech community to thrive - which means not only more beginners, but also a healthier job market.
+Should funding prevent you from organizing a Python-related event, or should you miss any equipment needed to promote Python, please let us know at [info@pyvec.org](mailto:info@pyvec.org). The funds are a great opportunity for the Czech community to thrive – which means not only more beginners, but also a healthier job market.
 
 ## 2018
 
