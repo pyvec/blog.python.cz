@@ -1,5 +1,5 @@
 Title: PyCon CZ Conference Wrap-Up Summary
-Date: 2017-09-19 20:19:00
+Date: 2017-11-15 11:59:00
 Author: Honza Javorek
 Twitter: honzajavorek
 Gravatar: mail@honzajavorek.cz
@@ -92,11 +92,11 @@ Special thanks go to [Peter Hozák](http://peter.hozak.info/) who voluntarily po
 
 Post-processed videos of individual talks are [available on YouTube](https://www.youtube.com/playlist?list=PLyde45Tox-NczAxZ7L7_YF9sxOgby8zHR) as well. Each [talk page](https://cz.pycon.org/2017/speakers/talks/) was updated with the video embedded right under the talk description.
 
-An official selection of photos from the event is [available on Google Photos](http://example.com).
+An official selection of photos from the event is [available on Google Photos](https://photos.app.goo.gl/u1QYSBPPoWWerWGp1).
 
 ### Video Stats
 
-The videos of talks were uploaded by the end of September. The numbers below were collected on 1 Oct 2017, that means after one month from publishing.
+The videos of talks were uploaded by the end of August. The numbers below were collected on 1 Oct 2017, that means after one month from publishing.
 
 - **Stream Thursday**
     - Main Room – 962 views, 13172 minutes watch time, 20 likes
