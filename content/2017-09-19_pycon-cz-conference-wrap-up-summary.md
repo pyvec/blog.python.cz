@@ -3,7 +3,7 @@ Date: 2017-11-15 11:59:00
 Author: Honza Javorek
 Twitter: honzajavorek
 Gravatar: mail@honzajavorek.cz
-About: [Honza](http://honzajavorek.cz) is a software engineer. Since 2011, he has been helping to develop the [Czech Python user group](http://python.cz/). He works at [Apiary](https://apiary.io/) as a maintainer of [Dredd](https://github.com/apiaryio/dredd), an Open Source tool for testing web APIs.
+About: [Honza](http://honzajavorek.cz) is a software engineer. Since 2011, he has been helping to develop the [Czech Python user group](http://python.cz/). He works at [Apiary](https://apiary.io/) as a maintainer of [Dredd](https://github.com/apiaryio/dredd), an open source tool for testing web APIs.
 
 
 In June this year we held the [third annual PyCon in the Czech Republic](https://cz.pycon.org/2017/), for the first time held in Prague. We’d like to take this opportunity to wrap up the 2017 conference so we can kick things off for 2018!
@@ -173,7 +173,7 @@ The organization team agrees that all PyCon events should be accessible and welc
 
 ## Budget
 
-In the spirit of Open Source and transparency, we’re happy to share a summary of our budget (all numbers are thousands of Czech Koruna, CZK).
+In the spirit of open source and transparency, we’re happy to share a summary of our budget (all numbers are thousands of Czech Koruna, CZK).
 
 ### Income
 
