@@ -168,7 +168,7 @@ In the past years, the Czech Python community has made a big leap towards attrac
 
 ### What Could Have Been Done
 
-- Given the fact that we’re a developer-focused conference in the Czech Republic, 20% of audience is a good number, but in the following years we would like to find and remove as many remaining obstacles for women to attend as possible and to achieve even higher numbers. Experience from abroad shows there’s still a margin.
+- Given the fact that we’re a developer-focused conference in the Czech Republic, 20% of women audience is a good number, but in the following years we would like to find and remove as many remaining obstacles for women to attend as possible and to achieve even higher numbers. Experience from abroad shows there’s still a margin.
 - [Because of last minute changes of the venue](http://blog.python.cz/pycon-cz-2017-changes-date-and-venue), both of the main conference days happened during working days. According to reports, such choice isn’t exactly the best for attracting beginners, who often don’t have a job related to technology or as flexible as is common among Python professionals.
 - For the same reason, the Django Girls workshop had to be on Sunday, after the whole conference. That’s why many attendees of the workshop did not come to the conference, although they were given a free ticket.
 - We did not manage to pursue more partnerships. E.g. last year we invited [VODICÍ PES](http://www.vycvikvodicichpsu.cz).
