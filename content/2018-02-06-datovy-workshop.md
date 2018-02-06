@@ -21,7 +21,7 @@ Co se týče samotné práce s daty, tak bych řekl, že účastníkům chyběly
 
 Týmy si procvičily i čištění dat. Ukázalo se, že i tak jasná položka, jako je “cena”, nemusí být úplně směrodatná, pokud je v textu inzerátu upřesněno, že je to cena např. pouze za částečný podíl vlastnictví činžovního domu. Nejvíce se do dat zanořil vítězný tým, který zkoušel různé možnosti, jak z textu inzerátu zjistit údaje o rekonstrukci dané nemovitosti, což bylo uvedeno někdy i dost nepřímo.
 
-Děkujeme všem skvělým účastníkům, neúnavným [Pyladies](http://pyladies.cz) koučům, [NTK](https://www.techlib.cz/cs/) a samozřejmě [Seznamu](https://vyvojari.seznam.cz/).
+Děkujeme všem skvělým účastníkům, neúnavným [PyLadies](http://pyladies.cz) koučům, [NTK](https://www.techlib.cz/cs/) a samozřejmě [Seznamu](https://vyvojari.seznam.cz/).
 
 
 Petra Vondrová, Pavlína Froňková a Petr Messner
