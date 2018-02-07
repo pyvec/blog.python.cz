@@ -26,12 +26,12 @@ Děkujeme všem skvělým účastníkům, neúnavným [PyLadies](http://pyladies
 
 Petra Vondrová, Pavlína Froňková a Petr Messner
 
-![image description]({filename}/images/img_1505.jpg)
+![Vítězný tým]({filename}/images/img_1505.jpg)
 
-![image description]({filename}/images/img_1518.jpg)
+![2. místo]({filename}/images/img_1518.jpg)
 
-![image description]({filename}/images/img_1507.jpg)
+![Ilustrační foto z hackathonu]({filename}/images/img_1507.jpg)
 
-![image description]({filename}/images/img_1513.jpg)
+![Ilustrační foto z hackathonu]({filename}/images/img_1513.jpg)
 
-![image description]({filename}/images/img_1508.jpg)
+![Ilustrační foto z hackathonu]({filename}/images/img_1508.jpg)
