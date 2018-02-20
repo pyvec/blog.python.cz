@@ -23,8 +23,9 @@ Týmy si procvičily i čištění dat. Ukázalo se, že i tak jasná položka, 
 
 Děkujeme všem skvělým účastníkům, neúnavným [PyLadies](http://pyladies.cz) koučům, [NTK](https://www.techlib.cz/cs/) a samozřejmě [Seznamu](https://vyvojari.seznam.cz/).
 
-
 Petra Vondrová, Pavlína Froňková a Petr Messner
+
+Své postřehy sepsala i jedna z účastnic, Michaela Šebestová: [Můj první datový hackathon](https://medium.com/@misasebestova/můj-prvn%C3%AD-datový-hackathon-6f753a4730cf)
 
 ![Vítězný tým]({filename}/images/img_1505.jpg)
 
