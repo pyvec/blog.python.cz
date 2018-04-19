@@ -40,3 +40,10 @@ V první řadě poděkování, všem! Na kurzu panovala příjemná a přátelsk
 Těší mě, že kurz měl úspěch nejen u účastníků, ale také u koučů, kterým se jejich role líbila a odnesli si nové zkušenosti a zážitky. Obvykle je těžké se rozloučit, ale myslím, že  v tomto případě se vlastně o loučení a závěr tak úplně nejedná. Z ohlasů na obou stranách totiž soudím, že tenhle závěr by mohl odstarotvat něco nového.
 
 Držte nám palce!
+
+
+![ilustrační obrázek]({filename}/images/imgl9364.jpg)
+
+![ilustrační obrázek]({filename}/images/imgl9395.jpg)
+
+![ilustrační obrázek]({filename}/images/imgl9403.jpg)
