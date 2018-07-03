@@ -8,8 +8,6 @@ About: Visit [Josef's blog](https://medium.com/@damnpepe) on Medium.
 > [2](https://medium.com/@damnpepe/pyconcz-2018-addenum-9f1f28fd695e)),
 > and is re-posted here with kind permission. Thank you!
 
----
-
 When I first met the Python guys as they visited our Ruby meetups, I thought – what a cute young people, who like to party hard. As I slowly moved from Ruby and meetups in general, I have lost contact with most of them. Only once I had talked about a library on the Pyvo meetup. It was mostly a rant on Ruby on Rails, and the library died soon after. However, there I first met Stařenka, who had a rant on Django in his talk. So a friendship was made. Next time I have met him on the very first [PolyConf in Poznań], where he introduced me to my later conference colleague Míšo. As PolyConf seems to be missing this year, I decided to join both of the guys on PyCon CZ, and I hardly could choose better. Please bear in mind, that I know next to nothing about any advanced Python, and I mostly look at the conference from the point of the community and its mood.
 
 [PolyConf in Poznań]: https://15.polyconf.com/
