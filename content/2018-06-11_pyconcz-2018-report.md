@@ -1,4 +1,4 @@
-Title:  PyConCz 2018 — Report
+Title:  PyCon CZ 2018 — Report
 Date: 2018-06-11 00:00:00
 Author: Josef Pospíšil
 About: Visit [Josef's blog](https://medium.com/@damnpepe) on Medium.
