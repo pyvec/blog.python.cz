@@ -15,7 +15,7 @@ For info about this specific event, jump to “The Saturday” below.
 
 ## PyLadies CZ Beginners' courses
 
-PyLadies CZ is an informal group of people that (among other things) organize
+[PyLadies CZ](https://pyladies.cz/) is an informal group of people that (among other things) organize
 3-month Python courses for women (mostly beginners).
 These courses have been going on for about 5 years in Brno, and have heavily
 influenced the workshop, so let me write a bit on how they're organized.
@@ -62,7 +62,7 @@ Organization in each city is relatively independent.
 
 The full-day event we had on Saturday is a relatively new addition to the
 “curriculum”.
-It's modeled after the very successful Django Girls workshops, where attendees
+It's modeled after the very successful [Django Girls](https://djangogirls.org/) workshops, where attendees
 who haven't programmed before build a web application (a blog) in just one day.
 The Snake workshop has beginners make a *game* ([Snake]) in just one day.
 
