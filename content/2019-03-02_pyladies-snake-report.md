@@ -22,8 +22,8 @@ influenced the workshop, so let me write a bit on how they're organized.
 
 The *organizers* are alumni of past courses – the very people that want to
 learn make the courses happen possible.
-They coordinate sign-ups, make sure they have room with Internet, respond
-to questions, and so on.
+They coordinate sign-ups, make sure they have a room with internet access,
+respond to questions, and so on.
 
 The *lecturer* knows the material deeply and comes to teach.
 Often, this is done by external people – often it's my role,
@@ -77,7 +77,7 @@ everyone: organizers, teachers, and attendees. Specifically:
   databases, there's Python and a bit of graphics.
 * With a single lecturer rather than small coach-led groups, it's not
   a problem if a coach doesn't show up.
-  Also, and the coaches can be relative beginners.
+  Also, the coaches can be relative beginners.
   (This format does introduce a single point of failure, though.)
 
 It's still impossible to learn (and remember) programming in a single day,
@@ -106,8 +106,10 @@ This was the 4th run so far (after the first trial for PyLadies in
 Hradec Králové in March 2018, one for PyLadies Brno in September
 2018, and one open for anyone in October 2018).
 
-For this workshop, Red Hat provided the venue (Plutonium & Neptunium meeting
+For this workshop, [Red Hat] provided the venue (Plutonium & Neptunium meeting
 rooms in the TPB-C office) and food (of which there was a lot; thank you!).
+
+[Red Hat]: https://www.redhat.com/en/global/czech-republic
 
 I was the lecturer and I handled the Red Hat sponsorship.
 
@@ -139,7 +141,7 @@ Also, there was too much food in the end.
 We had a generous sponsorship from Red Hat *and* people ordered their own
 lunches.
 This one is entirely on me as the link between the sponsor and the organizers;
-next time I will be coordinate better.
+next time I will coordinate better.
 
 Finally, I did not request spare laptops in time.
 Usually, Red Hat Regional IT is happy to lend a few out-of-warranty machines,
@@ -156,9 +158,9 @@ atmosphere of the workshop.
 
 I think I'm addicted to this workshop.
 
-It ticks the tree factors of intrinsic motivation are autonomy (deciding what
+It ticks the tree factors of intrinsic motivation: autonomy (deciding what
 to teach and what to leave out in a time-limited workshop),
-mastery (working on something that improvement) and purpose (helping
+mastery (working on something that can always be improved) and purpose (helping
 people understand my passion, not to mention the whole “underrepresented
 minorities” thing that I'm not really going into here).
 
