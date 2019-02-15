@@ -3,8 +3,9 @@ Date: 2019-02-12 00:00:00
 Author: Petr Viktorin
 
 > Další příspěvek v angličtině!
-> Píšu to pro širší publikum než pro naše obvyklé čtenáře, a nechce se mi to
-> překládat :)
+> Píšu to pro širší publikum než pro naše obvyklé čtenáře (článek nakonec vyšel
+> i na blogu [community.redhat.com](https://community.redhat.com/blog/2019/02/building-snakes-to-learn-code/)).
+> A nechce se mi to překládat :)
 
 
 On Saturday, February 2, PyLadies Brno organized a “Snake workshop”.
