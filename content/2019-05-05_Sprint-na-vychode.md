@@ -13,7 +13,9 @@ K hlavním sprintovým tématům patřily:
 - organizace **[PyConu](https://cz.pycon.org/2019/)** (již v červnu v Ostravě - dojeďte!), 
 - aktualizace webových stránek pod záštitou Pyvce, jako jsou pyladies.cz, python.cz, pyvo.cz, pyvec.org  (tyto úkoly byly jak na míru šité pro nováčky),
 - úpravy **zpětnovazebníku** PyLadies, aby se dal lehce použít v jiných městech a na různé typy akcí,
-- propagace **PyLadies** na různých eventech napříč republikou.
+- propagace **PyLadies** na různých eventech napříč republikou,
+- menší starší úkoly ze stránek [zapojse](https://python.cz/zapojse/), plných nápadů na vylepšení.
+Nechyběla ani dokumentace, díky čemuž víme, že jsme dohromady vyřešili téměř 20 úloh. 
 
 
 ## Budoucnost
