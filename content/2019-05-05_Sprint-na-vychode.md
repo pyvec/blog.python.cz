@@ -9,7 +9,8 @@ Jarní, komornější sedmičlenná akce se konala v Lískovci u Frýdku-Místku
 
 ## Co jsme (vy)řešili?
 
-K hlavním sprintovým tématům patřily: 
+K hlavním sprintovým tématům patřily:
+
 - organizace **[PyConu](https://cz.pycon.org/2019/)** (již v červnu v Ostravě - dojeďte!), 
 - aktualizace webových stránek pod záštitou Pyvce, jako jsou pyladies.cz, python.cz, pyvo.cz, pyvec.org  (tyto úkoly byly jak na míru šité pro nováčky),
 - úpravy **zpětnovazebníku** PyLadies, aby se dal lehce použít v jiných městech a na různé typy akcí,
