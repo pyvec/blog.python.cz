@@ -23,6 +23,6 @@ Nechyběla ani dokumentace, díky čemuž víme, že jsme dohromady vyřešili t
 
 Víkendové soustředění, které viditelně posouvá komunitní projekty, je skvělá volba pro všechny, kdo se zajímají o pythonní dění v Česku. Z perspektivy nováčka oceňuji především možnost seznámit se s aktivisty z ostatních měst, nahlédnutí do něčeho nového a výpomoc s těžšími úlohami. Je to taky praktická ukázka fungování open source projektů, které se sice v kurzu PyLadies zmiňují, ale mnohé a mnozí z nás nemají představu, jak do nich můžou přispívat. 
 
-Další sprint se bude konat na konci srpna v Čechách. Sledujte informace a nechte se tentokrát přesvědčit k příjezdu. :) Účast je po nahlášení zdarma, vítáni jsou všichni. 
+Další sprint se bude konat na konci srpna v Čechách. [Sledujte informace](https://python.cz/akce/) a nechte se tentokrát přesvědčit k příjezdu. :) Účast je po nahlášení zdarma, vítáni jsou všichni. 
 
 
