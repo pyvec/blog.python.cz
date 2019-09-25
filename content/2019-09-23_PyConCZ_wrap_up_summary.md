@@ -29,7 +29,7 @@ If you’d be interested in joining our org team, don’t hesitate to write to u
 
 There were 457 registered attendees (or 498 including organizers, sponsors’ booths staff etc.) and 94 % of them have checked in at the conference.
 
-Like last year, we offered a limited number of “Early bird” tickets. This year, we did so more than 6 weeks sooner than in 2018 and kept the “Regular” prices until 3 weeks before the event. Despite a larger venue, we sold out all tickets again, this time a few days after the “Late bird” period would have started.
+Like last year, we offered a limited number of “Early bird” tickets. This year, we did so more than 6 weeks sooner than in 2018 and kept the “Regular” prices until 3 weeks before the event. Despite a larger venue, we sold out all tickets again, this time a few days after the “Late bird” period started.
 
 ### Attendees
 
