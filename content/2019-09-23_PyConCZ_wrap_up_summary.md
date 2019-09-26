@@ -145,9 +145,9 @@ After the conference, we published an online form to gather feedback from attend
 
 The three most popular talks were:
 
-1. Petr Viktorin – Building an async event loop
-2. Miro Hrončok – #! Bang, bang!
-3. Miroslav Šedivý – A Day Has Only 24±1 Hours
+1. Petr Viktorin – [Building an async event loop](https://cz.pycon.org/2019/programme/talks/18/)
+2. Miro Hrončok – [#! Bang, bang!](https://cz.pycon.org/2019/programme/talks/11/)
+3. Miroslav Šedivý – [A Day Has Only 24±1 Hours](https://cz.pycon.org/2019/programme/talks/17/)
 
 ### Most positive mentions
 
