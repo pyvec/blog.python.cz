@@ -48,6 +48,7 @@ Těší mě, že kurz měl úspěch nejen u účastníků, ale také u koučů, 
 
 Držte nám palce!
 
+Máte-li zájem získávat více informací o pythoním dění v Hradci Králové můžete nás sledovat na [stránkách Facebooku](https://www.facebook.com/groups/pythonhradeckralove/).
 
 ![ilustrační obrázek]({filename}/images/imgl9364.jpg)
 
