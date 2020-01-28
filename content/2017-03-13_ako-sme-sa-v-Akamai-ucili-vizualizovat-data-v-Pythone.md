@@ -19,7 +19,7 @@ si vykreslovala, boli určené iba mne, nehrala som sa s detailmi a
 zobrazením a ak mal byť výstup prezentovateľný koncovému užívateľovi,
 vždy som automaticky siahla po Reacte.
 
-![Ukážka môjho bežného grafu]({filename}/images/table.png)
+![Ukážka môjho bežného grafu]({static}/images/table.png)
 Ukážka môjho bežného grafu
 
 V Akamai nám lektori ukázali, ako však s dátami (vo forme JSONu)
@@ -28,7 +28,7 @@ informácie zrozumiteľné. Po prvotných problémoch s rôznymi operačnými
 systémami a verziami Pythonu sme sa hneď pustili do tvorby vizualizácií
 zobrazovaných vo webovom prehliadači.
 
-![Všichni z workshopu]({filename}/images/94849416-0963-11e7-8616-ca8148e71dab.jpg)
+![Všichni z workshopu]({static}/images/94849416-0963-11e7-8616-ca8148e71dab.jpg)
 Foto od Veroniky Gabrielovej
 
 ## Grafy, grafy, samé grafy
@@ -73,7 +73,7 @@ elegantné riešenie, kde bolo možné uplatiť napríklad:
         patches[mi].set_color("#283891")
     ```
 
-![Maximálna, minimálna, priemerná hodnota]({filename}/images/rtt.png)
+![Maximálna, minimálna, priemerná hodnota]({static}/images/rtt.png)
 Maximálna, minimálna, priemerná hodnota
 
 Následne sme si ukázali ďalšie typy grafov a okrem práce v Pythone sme
@@ -82,23 +82,23 @@ sa naučili aj niečo o
 protokoloch a vzájomného prepojenia medzi oboma veličinami, aká je bežná
 hodnota v realite a kde sa približne ukazovatele pohybujú.
 
-![Závislosť rýchlosti na RTT pre protokol U - graf 1]({filename}/images/rychlost.png)
+![Závislosť rýchlosti na RTT pre protokol U - graf 1]({static}/images/rychlost.png)
 Závislosť rýchlosti na RTT pre protokol U - graf 1
 
-![Ukážka scatter grafu]({filename}/images/rtt_scatter.png)
+![Ukážka scatter grafu]({static}/images/rtt_scatter.png)
 Ukážka scatter grafu
 
-![Závislosť rýchlosti na RTT pre protokol U - graf 2]({filename}/images/rychlost2.png)
+![Závislosť rýchlosti na RTT pre protokol U - graf 2]({static}/images/rychlost2.png)
 Závislosť rýchlosti na RTT pre protokol U - graf 2
 
 Okrem iného sme zistili aj to, že rovnaký graf, z rovnakých dát,
 vykreslený rovnakým kódom môže vyzerať na dvoch počítačoch v závislosti
 od operačného systému trochu inak.
 
-![Foto od Veroniky Gabrielovej]({filename}/images/img.jpg)
+![Foto od Veroniky Gabrielovej]({static}/images/img.jpg)
 Foto od Veroniky Gabrielovej
 
-![Darí sa!]({filename}/images/94846086-0963-11e7-8268-a8d338c72990.jpg)
+![Darí sa!]({static}/images/94846086-0963-11e7-8268-a8d338c72990.jpg)
 Foto od Veroniky Gabrielovej
 
 ## K čomu to celé bolo dobré?
@@ -116,7 +116,7 @@ prevodom cez formát na percentá, alebo výpis príspevkov z RSS feedov v 5
 jazykoch, indikujúci chýbajúce príspevky za daný deň a namiesto tabuľky
 už posielam klientovi graf plný červeno-modrých stĺpcov.
 
-![Koláčový graf]({filename}/images/graf1.png)
+![Koláčový graf]({static}/images/graf1.png)
 Koláčový graf
 
 Bola by som rada, ak by bolo pokračovanie, kde by nám ukázali chalani z

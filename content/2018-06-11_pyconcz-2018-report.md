@@ -14,7 +14,7 @@ When I first met the Python guys as they visited our Ruby meetups, I thought –
 
 When I came in the morning, I have met Stařenka and couple guys from the oldest group of Pythonistas, namely Dan Srb and Kvbik. Even as they were solving the usual problems of every conference I have ever been to, there were good laughs, and I hadn’t noticed any discontent of the visitors. Well guys behind me were calling with their company and uttered some swear words about their boss in the process.
 
-![Pythonistas]({filename}/images/medium_cjfouhan5gCpfdbz8wg.jpeg)
+![Pythonistas]({static}/images/medium_cjfouhan5gCpfdbz8wg.jpeg)
 
 Then I moved to the back chill zone for chit-chat with Míšo before the start. The theme for the [first keynote] was some of the hottest in our industry these days: to remote or not remote. One of those rare duet talks and I enjoyed it a lot. Especially the notion that this problem is reducible to: to wear pants or not to wear pants. I took away some advice, even as I am moving to an office after quite a long time.
 
@@ -29,7 +29,7 @@ Strengthened by this success, I decided to visit the [DataFrames talk]. However,
 [DataFrames talk]: https://cz.pycon.org/2018/programme/detail/talk/4/
 [dunder methods talk]: https://cz.pycon.org/2018/programme/detail/talk/25/
 
-![Spot the difference]({filename}/images/medium_e7nA35DAtyfYnEeWHCv8Ug.jpeg)
+![Spot the difference]({static}/images/medium_e7nA35DAtyfYnEeWHCv8Ug.jpeg)
 
 Also, the beer kiosk opened. The rest of the day I spent in the spirit of the lobby conference life. I have met many people I knew from other communities and many new ones. I have talked about my contemporary point of view, and to my surprise, people were listening and thinking about what I was saying without any flame wars. One of this kind of discussion was with David Majda, whom I consider one of the best computer scientists, at least Czech ones. I missed the [board games night], but when I visited it, I was smitten by how many people were having good fun there. As the midnight approached, we packed up and went to sleep.
 
@@ -39,7 +39,7 @@ Saturday morning fresh and new, we again gathered in MeetFactory and started the
 
 [how and why to teach kids programming]: https://cz.pycon.org/2018/programme/detail/talk/13/
 
-![Teach them]({filename}/images/medium_vQtaium-TrnSTN3EPcRJ3A.jpeg)
+![Teach them]({static}/images/medium_vQtaium-TrnSTN3EPcRJ3A.jpeg)
 
 The second talk I went was about [security and how to use marketing techniques for the higher success rate of the account hacking][darkpy]. Python was in the second plane again. Still, the love for the language was everywhere. If I would be hacking some account, I would first watch this talk again. Especially e-shop hacking part was gorgeous.
 
@@ -53,7 +53,7 @@ One last talk I wanted to see, and I managed it, even when it ran long after the
 
 I stayed for the lightning talks, and for the glorious end, where the big group played Always look on the Bright Side of Life on all the ukuleles and some guitars and other instruments on stage, and all the attendees sang along. It was like a spark of that cosmic power. “Tears in my eyes 2.0”. Goodbye from the organizers, and afterparty till the morning. I wish I had a better recollection of it, but suffice to say I found myself in the morning light playing a small drum – if that even means anything.
 
-![Always look on the bright side]({filename}/images/medium_g4AehfBMUivtViSd44DPGg.jpeg)
+![Always look on the bright side]({static}/images/medium_g4AehfBMUivtViSd44DPGg.jpeg)
 
 You may wonder where is the part about food, venue or diversity as staples in this kind of reports. Well, those were great, any of them. Most of all, I loved the atmosphere! I have been to quite a number of the conferences in my life, but never experienced anything like this. Big love to all the people involved, you are the best!
 
@@ -65,7 +65,7 @@ One week after the thing, many forgotten pieces appeared in my mind.
 
 ### The Diversity
 
-![No gender left behind]({filename}/images/medium_kdAIo5hsaKfimZ-nWE0PeQ.jpeg)
+![No gender left behind]({static}/images/medium_kdAIo5hsaKfimZ-nWE0PeQ.jpeg)
 
 The ratio of all the genders was almost on the level of the last Polyconf, and that was made diverse by design. Here it was much more organic. On PyCon you could meet people from all over the spectrum. Big love for this! <br>
 We are all equal, and here it showed.
@@ -73,7 +73,7 @@ We are all equal, and here it showed.
 
 ### The Food
 
-![Delicious]({filename}/images/medium_b80we0lVygI_O-aN9OieHA.jpeg)
+![Delicious]({static}/images/medium_b80we0lVygI_O-aN9OieHA.jpeg)
 
 The food was abundant on the first floor, and it was there all the time, or at least until the main programme ran. What I liked the most: it was just ordinary food, nothing too fancy. Still, it was delicious, well prepared, well served. Pasta salads, nom nom, and cookies. And from what I gathered it was made in a [protected workshop] (sorry if it is not the right word for chráněná dílna, blame Google Translate). So eating there, you were helping some people in need, now you can see why I ate so much! <br>
 Same for the tea and coffee. And when the pizza came, it was by two cars, no less! <br>
@@ -85,7 +85,7 @@ We are all in this together, see?
 
 ### Not talks
 
-![Zoom Box Boy]({filename}/images/medium_fnztTVGc3As9ygjpVSYrKw.jpeg)
+![Zoom Box Boy]({static}/images/medium_fnztTVGc3As9ygjpVSYrKw.jpeg)
 
 Another thing I appreciate on confs was what happened in the lobby, chillouts and everywhere outside of the Main and Theatre rooms. Everybody was talking, laughing, hacking, playing musical instruments. I made more new friends in two days that in the last year. And made the old friendships last for life.<br>
 You say toys? Oh, boy have seen all the people in the zoom boxes? Playing exotic instruments, electronic or small drums?<br>
@@ -94,7 +94,7 @@ Meet the people, cause they are diamonds in the rocks.
 
 ### The Music
 
-![Two ukuleles are better than one]({filename}/images/medium_jaY8sRvQT9BeRewKAoCq5A.jpeg)
+![Two ukuleles are better than one]({static}/images/medium_jaY8sRvQT9BeRewKAoCq5A.jpeg)
 
 I am a music lover. I cannot work efficiently without my Mixcloud stream, and my kids cannot fell asleep without my lullabies. I know I already raved about this in the report, but who cares. If the music average in the world were as it was here, it would be a much better place. All kinds of music: live played instruments, reproduced or generated on the spot.<br>
 So always look on the bright side of life!

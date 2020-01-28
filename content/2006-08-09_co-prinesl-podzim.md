@@ -21,11 +21,11 @@ Takže jsem již asi dost naznačila, že v Brně je prostě dostatek úžasnýc
 
 > ¯\\\_(ツ)\_/¯
 
-Pyvo. Pyvo bylo a bude! V Ostravě se Pyvo odchýlilo od zvyklostí a rozjelo malinkato jiný formát. Krásně to sepsal Lumír v článku [Ostravské Pyvo – co teď? A co potom?]({filename}/2016-09-11_ostravske-pyvo-co-ted-a-co-potom.md)
+Pyvo. Pyvo bylo a bude! V Ostravě se Pyvo odchýlilo od zvyklostí a rozjelo malinkato jiný formát. Krásně to sepsal Lumír v článku [Ostravské Pyvo – co teď? A co potom?]({static}/2016-09-11_ostravske-pyvo-co-ted-a-co-potom.md)
 V Praze se Pyvo poslední dobou plnilo novými zájemci a bývá na něm plno. Pokaždé nás překvapí, že vidíme několik úplně nových tváří. A stejně jako my jsme nadšení z nich, oni jsou nadšení z nás.
 V Brně je Pyvo stále skvělým Pyvem a přes veškeré snahy rejpalů se daří vždy zaručit místo pro velký či nepředvídatelný počet lidí. Letos se bylo Pyvo v Brně dokonce den před PyConem CZ, takže na něj dorazila velká posádka z Prahy. A že to byla pěkná cesta!
 
-![Cesta z města do Brna by ruční selfie tyč Honza Král]({filename}/images/co_prinesl_podzim_001.png){:width="350px" :center}
+![Cesta z města do Brna by ruční selfie tyč Honza Král]({static}/images/co_prinesl_podzim_001.png){:width="350px" :center}
 
 Shrneme si to:
 
@@ -53,7 +53,7 @@ Shrneme si to:
     - [Usertech](https://usertechnologies.com/)
     - [Pyvec, o.s.](http://pyvec.org/)
 
--   Organizátoři LinuxDays nám nabídli možnost postavit si na konferenci stánek a tak jsme postavili rovnou stan. To by bylo vyprávění i na dva články, ale držela jsem se. [Můžeš si to třeba přečíst.]({filename}/2016-12-26_komunitni-python-stanek-na-linuxdays.md)
+-   Organizátoři LinuxDays nám nabídli možnost postavit si na konferenci stánek a tak jsme postavili rovnou stan. To by bylo vyprávění i na dva články, ale držela jsem se. [Můžeš si to třeba přečíst.]({static}/2016-12-26_komunitni-python-stanek-na-linuxdays.md)
 -   Advanced PyLadies v Praze slavily celkem úspěch, nicméně se k nám doneslo, že by se rádi přidali i kluci a rozvíjeli své spíš začátečnické dovednosti. A tak jsme se v Praze hecli a zkoušíme udělat měsíční srazy i pro všechny začátečníky.
     V Praze se tedy Advanced PyLadies jmenují PyWorking a z týdenních srazů se stal měsíční celodenní sraz s prostorem na práci na projektech a workshopem či přednáškami. Týdenní srazy na pár hodin odpoledne jsou i nadále k mání.
 -   V Brně se místo Advanced PyLadies rozjelo Nepyvo a Pythonistky i Pythonisti se schází každý čtvrtek v Nekavárně, kde upevňují a rozvíjejí znalosti Pythonu.

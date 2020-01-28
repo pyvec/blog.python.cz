@@ -11,7 +11,7 @@ aby si povídali o Pythonu. Tak nevinně to začalo! Na druhé PyVo jsme se
 přemístili jinam a připravili už dokonce i přednášky.
 
 <small>Mimochodem, našel jsem o tom
-[zápisek na blogu]({filename}2011-06-14_druhe-brnenske-pyvo.md), který
+[zápisek na blogu]({static}2011-06-14_druhe-brnenske-pyvo.md), který
 stojí za připomenutí - např. ona "návštěva z Finska", tedy Petr Viktorin,
 je dnes už spolupořadatelem celé akce. V komentářích zase Věroš zmiňuje
 telefonní ústřednu, kterou jsme zrovna teď v březnu viděli v akci přímo

@@ -39,13 +39,13 @@ Jednotlivé lekce se věnovaly cyklům, Gitu, funkcím, řetězcům, testování
 Bylo pro mne nesmírně motivační vidět, jak si maminka se dvěma dětmi poradí s domácím úkolem na kreslení pomocí želvy – zeptala se synka, co by to mělo být? A protože si poručil auto, nakreslila ve for cyklech auta. Fakt i takhle může vypadat mateřská? Paráda.
 
 
-![micropython]({filename}/images/05.png)
+![micropython]({static}/images/05.png)
 
 ###Miluju naše kouče. Všechny!
 Celé PyLadies jsou postavené na dobrovolnické práci a skvělé atmosféře. Martina Antalovová zajistila, že kurz vůbec proběhl. Firma [Experis](https://www.experis.cz/) nám půjčila prostory. Ježíšek nám po [Red Hatu](https://www.redhat.com/en/global/czech-republic) poslal součástky na programování v MicroPythonu (blikají a pípají!). Petr Viktorin jako hlavní kouč ukazoval, jak má vypadat srozumitelná, věcná, perfektně promyšlená lekce. 
 
 
-![micropython]({filename}/images/09.jpg)
+![micropython]({static}/images/09.jpg)
 
 Pavel Dedík, Jirka Zapletal, Jarka Hladká, Jenda Král, Zuzka Piskořová a Manka Stará se o nás starali jak o kuřátka. Celou dobu se jen třásli na to, kdy se nám povede se v něčem zamotat, aby nám mohli pomoct a všechno vysvětlit. Koučům jsme také mohly kdykoli napsat nebo se přijít poradit na čtvrteční NePyvo do [Nekavárny](https://www.facebook.com/nekavarna/events).
 

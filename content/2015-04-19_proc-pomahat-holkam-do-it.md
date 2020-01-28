@@ -7,6 +7,6 @@ About: [Honza](http://honzajavorek.cz) je programátor. Od roku 2011 buduje čes
 
 Pomáhám při organizaci [Django Girls v Praze](http://djangogirls.org/prague/). Jak už to tak u mě bývá, dělám hlavně maskota a snažím se akci propagovat na sociálních sítích a podobně.
 
-Django Girls jsou jednodenní workshop pro dámy, na kterém se mohou zadarmo naučit úplné základy programování a udělat si svou první webovou stránku v Djangu, resp. v [programovacím jazyce Python]({filename}/2014-05-29_proc-python.md). Je to koncept převzatý ze zahraničí, všechno je připravené a nachystané, [existují manuály i pro organizátory](http://djangogirls.org/resources/), takže proto pro nás bylo jednodušší se pustit do něčeho takového, než něco stavět na koleně. A i tak je to dost velká fuška!
+Django Girls jsou jednodenní workshop pro dámy, na kterém se mohou zadarmo naučit úplné základy programování a udělat si svou první webovou stránku v Djangu, resp. v [programovacím jazyce Python]({static}/2014-05-29_proc-python.md). Je to koncept převzatý ze zahraničí, všechno je připravené a nachystané, [existují manuály i pro organizátory](http://djangogirls.org/resources/), takže proto pro nás bylo jednodušší se pustit do něčeho takového, než něco stavět na koleně. A i tak je to dost velká fuška!
 
 **Tento článek je z dob kdy [blog.python.cz](http://blog.python.cz) ještě neexistoval a původně vyšel na Honzově blogu. [Můžete si ho dočíst tam!](http://honzajavorek.cz/blog/proc-pomahat-holkam-do-it.html)**

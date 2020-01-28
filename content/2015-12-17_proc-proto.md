@@ -5,7 +5,7 @@ Twitter: honzajavorek
 Gravatar: mail@honzajavorek.cz
 About: [Honza](http://honzajavorek.cz) je programátor. Od roku 2011 buduje českou komunitu kolem jazyka [Python](http://python.cz/). V současnosti pomáhá hlavně s propagací aktivit, jako jsou [PyLadies](http://pyladies.cz/), [Pyvo](http://pyvo.cz/), nebo [PyCon CZ](https://cz.pycon.org/). Přes den jej najdete v [Apiary](https://apiary.io/), kde se stará o [Dredd](https://github.com/apiaryio/dredd), framework na testování API. Občas taky radí lidem jak mají API dělat a přednáší o tom na konferencích.
 
-Před rokem a půl jsem napsal článek [Proč Python?]({filename}2014-05-29_proc-python.md) Je o tom, proč by si měl člověk vybrat Python jako svůj hlavní programovací jazyk. V textu naznačuji, že Python je jazyk jako každý jiný, a tak se na některé věci hodí víc, na některé míň, ale že bych si přál, aby se tím hlavním důvodem pro jeho výběr stala jeho skvělá, aktivní komunita.
+Před rokem a půl jsem napsal článek [Proč Python?]({static}2014-05-29_proc-python.md) Je o tom, proč by si měl člověk vybrat Python jako svůj hlavní programovací jazyk. V textu naznačuji, že Python je jazyk jako každý jiný, a tak se na některé věci hodí víc, na některé míň, ale že bych si přál, aby se tím hlavním důvodem pro jeho výběr stala jeho skvělá, aktivní komunita.
 
 Když máme ten konec roku, dovolím si tady trochu bilancovat a zhodnotit, jak se nám tato mise daří. Co se v roce 2015 událo?
 

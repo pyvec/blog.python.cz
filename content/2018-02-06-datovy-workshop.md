@@ -27,12 +27,12 @@ Petra Vondrová, Pavlína Froňková a Petr Messner
 
 Své postřehy sepsala i jedna z účastnic, Michaela Šebestová: [Můj první datový hackathon](https://medium.com/@misasebestova/můj-prvn%C3%AD-datový-hackathon-6f753a4730cf)
 
-![Vítězný tým]({filename}/images/img_1505.jpg)
+![Vítězný tým]({static}/images/img_1505.jpg)
 
-![2. místo]({filename}/images/img_1518.jpg)
+![2. místo]({static}/images/img_1518.jpg)
 
-![Ilustrační foto z hackathonu]({filename}/images/img_1507.jpg)
+![Ilustrační foto z hackathonu]({static}/images/img_1507.jpg)
 
-![Ilustrační foto z hackathonu]({filename}/images/img_1513.jpg)
+![Ilustrační foto z hackathonu]({static}/images/img_1513.jpg)
 
-![Ilustrační foto z hackathonu]({filename}/images/img_1508.jpg)
+![Ilustrační foto z hackathonu]({static}/images/img_1508.jpg)
