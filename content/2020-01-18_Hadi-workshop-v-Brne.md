@@ -17,7 +17,7 @@ Kromě místnosti jsme od Red Hatu dostali i sponzorované občerstvení na cel�
 
 Celý workshop je vlastně ukázkou toho, jak vypadá programování a co je možné se v Pythonu za relativně krátkou dobu naučit.
 Je primárně určen pro ty, kdo přemýšlí o programování, ale nevědí, kde začít.
-Případně pro ty, kteří si nejsou jistí, zda by to pro ně programování vůbec mohlo být zajímavé.
+Případně pro ty, kteří si nejsou jistí, zda by pro ně programování vůbec mohlo být zajímavé.
 Hadí workshop během jednoho dne shrnuje ukázky toho, co je v mnohem podrobnější míře obsahem semestrálního začátečnického kurzu.
 Už po tomto workshopu by tedy účastnice měly být schopné odhadnout, zda chtějí investovat poměrně velké množství času a energie do dlouhodobého kurzu.
 
@@ -38,10 +38,10 @@ Stejně jako organizátorky, i on se snaží každé další uvedení vylepšit,
 Petr sám o sobě [vtipkuje](https://blog.python.cz/pyladies-snake-report), že si na tomto workshopu vypěstoval závislost.
 
 Bez koho by se akce ještě neobešla jsou pomocní koučové.
-Zvlášť na začátečnických akcích je potřeba, aby se mezi publikem pohyboval dostatek lidí schopných pomoci, pokud se někdo během výkladu zasekne, něčemu nerozumí, nebo něco nefunguje.
+Zvlášť na začátečnických akcích je potřeba, aby se mezi účastníky pohyboval dostatek lidí schopných pomoci, pokud se někdo během výkladu zasekne, něčemu nerozumí, nebo něco nefunguje.
 Protože bývá Hadí workshop jednou z prvních akcí po skončení kurzů v předcházejícím semestru, je to první příležitost nejen pro nové organizátorky, ale i pro případné nové kouče.
 To mohou být nejen zkušené programátorky a programátoři, ale také absolventky začátečnických kurzů, které se rozhodly být i nadále součástí PyLadies komunity.
-Nové PyLadies mohou být skvělé koučky, protože se na probíranou látku dokáží velmi jednoduše dívat pohledem aktuálních účastnic.
+Z nových PyLadies mohou být skvělé koučky, protože se na probíranou látku dokáží velmi jednoduše dívat pohledem aktuálních účastnic.
 Většina našich akcí je zaměřená na úplné začátečníky nejen v Pythonu, ale v IT obecně, jedná se tedy o velmi specifické publikum a zvlášť pro zkušené programátory může být někdy obtížné osvojit si srozumitelný přístup, oprostit se od zavedené terminologie a odolat pokušení vyřešit problém mnohem rychleji sám.
 Pro všechny nové kouče je to tedy ideální příležitost vyzkoušet si nejen to, jak celkově přistupovat k začátečníkům, ale také si osahat principy koučování specifické na našich akcích.
 
