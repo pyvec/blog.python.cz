@@ -8,7 +8,7 @@ About: [Honza](http://honzajavorek.cz) is a software engineer. Since 2011, he ha
 
 In June this year we held the [third annual PyCon in the Czech Republic](https://cz.pycon.org/2017/), for the first time held in Prague. We’d like to take this opportunity to wrap up the 2017 conference so we can kick things off for 2018!
 
-![Backyard chill out]({filename}/images/pyconcz2016_d1-56.jpg)
+![Backyard chill out]({static}/images/pyconcz2016_d1-56.jpg)
 
 ## Thank you!
 
@@ -25,10 +25,10 @@ Today, we can say that the hand-over was successful and the Prague team is very 
 
 We did not manage to have dedicated mobile apps for the event as last year. On the other hand, we had a UX-aware DTP-capable frontend designer as part of the core team, which resulted in many improvements in the presentation of the conference, especially the usability of the website on mobile devices.
 
-![In front of MeetFactory]({filename}/images/pyconcz2016_d1-19.jpg)
+![In front of MeetFactory]({static}/images/pyconcz2016_d1-19.jpg)
 In front of [MeetFactory](http://meetfactory.cz/)
 
-![Lumír Balhar speaking in the main room]({filename}/images/pyconcz2016_d1-27.jpg)
+![Lumír Balhar speaking in the main room]({static}/images/pyconcz2016_d1-27.jpg)
 [Lumír Balhar](https://cz.pycon.org/2017/speakers/detail/talk/14/)
 
 ## Content Stats
@@ -55,7 +55,7 @@ In front of [MeetFactory](http://meetfactory.cz/)
     - 4 tickets for PyCon PL and PyCon SK organizers
 - 27 people did not come (4 Django Girls, 3 Django Girls coaches, 6 Early Bird student/teachers, 2 student/teachers, 5 self-funded, 3 employer-funded, 3 sponsors, 1 PyCon SK organizer)
 
-![Audience]({filename}/images/pyconcz2016_d1-38.jpg)
+![Audience]({static}/images/pyconcz2016_d1-38.jpg)
 
 ## Feedback
 
@@ -89,7 +89,7 @@ We carried out a feedback survey during and after the event. We’ve got 39 resp
     - 5.1% – Bratislava, Slovakia
     - 5.1% – other places, Czech Republic
 
-![People during breaks]({filename}/images/pyconcz2016_d1-21.jpg)
+![People during breaks]({static}/images/pyconcz2016_d1-21.jpg)
 
 ## Videos & Photos
 
@@ -121,7 +121,7 @@ The videos of talks were uploaded by the end of August. The numbers below were c
     - [Naomi Ceder: What lies ahead? Python’s future strengths and challenges](https://cz.pycon.org/2017/speakers/detail/talk/34/)
     - [Karla Fejfarová & Petr Šimeček: Python alternatives to R/Shiny](https://cz.pycon.org/2017/speakers/detail/talk/8/)
 
-![Why is formatting an issue?]({filename}/images/pyconcz2017_d2-12.jpg)
+![Why is formatting an issue?]({static}/images/pyconcz2017_d2-12.jpg)
 [Sebastian Hillig](https://cz.pycon.org/2017/speakers/detail/talk/32/)
 
 ## Socially Responsible Catering
@@ -149,7 +149,7 @@ Vojtěch Polášek, author of the [Blind attendee about PyCon CZ 2016](http://bl
 >
 > I am looking forward to visiting PyCon CZ next year as well and to finally attend some workshops.
 
-![Kareřina Falk]({filename}/images/pyconcz2017_d2-46.jpg)
+![Kareřina Falk]({static}/images/pyconcz2017_d2-46.jpg)
 [Kateřina Falk](https://cz.pycon.org/2017/speakers/detail/talk/35/)
 
 ### Diversity Stats
@@ -173,7 +173,7 @@ In the past years, the Czech Python community has made a big leap towards attrac
 - For the same reason, the Django Girls workshop had to be on Sunday, after the whole conference. That’s why many attendees of the workshop did not come to the conference, although they were given a free ticket.
 - We did not manage to pursue more partnerships. E.g. last year we invited [VODICÍ PES](http://www.vycvikvodicichpsu.cz).
 
-![Armin Ronacher]({filename}/images/pyconcz2017_d2-26.jpg)
+![Armin Ronacher]({static}/images/pyconcz2017_d2-26.jpg)
 [Armin Ronacher](https://cz.pycon.org/2017/speakers/detail/talk/30/)
 
 ## Code of Conduct Report
@@ -192,7 +192,7 @@ The organization team agrees that all PyCon events should be accessible and welc
 - There was no easy way to report an incident other than to write an e-mail or to talk to the CoC contact person.
 - Czech language version of the Code was not accessible on the website.
 
-![Coding during talks]({filename}/images/pyconcz2016_d1-33.jpg)
+![Coding during talks]({static}/images/pyconcz2016_d1-33.jpg)
 
 ## Budget
 
@@ -226,7 +226,7 @@ In the past, Pyvec had only limited funds to reimburse community expenses such a
 
 Should funding prevent you from organizing a Python-related event, or should you miss any equipment needed to promote Python, please let us know at [info@pyvec.org](mailto:info@pyvec.org). The funds are a great opportunity for the Czech community to thrive – which means not only more beginners, but also a healthier job market.
 
-![Robot workshop buzz]({filename}/images/workshops.gif)
+![Robot workshop buzz]({static}/images/workshops.gif)
 [Robot workshop](https://cz.pycon.org/2017/speakers/detail/workshop/1/)
 
 ## 2018
@@ -242,5 +242,5 @@ Send an email to [info@pycon.cz](mailto:info@pycon.cz) if you’d like to reques
 
 See you in 2018!
 
-![Always look on the bright side of life]({filename}/images/pyconcz2017_d2-72.jpg)
+![Always look on the bright side of life]({static}/images/pyconcz2017_d2-72.jpg)
 [Closing ceremony](https://www.youtube.com/watch?v=RV5h0voNg6U)

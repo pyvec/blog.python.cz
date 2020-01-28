@@ -25,7 +25,7 @@ Pyvo. Pyvo bylo a bude! V Ostravě se Pyvo odchýlilo od zvyklostí a rozjelo ma
 V Praze se Pyvo poslední dobou plnilo novými zájemci a bývá na něm plno. Pokaždé nás překvapí, že vidíme několik úplně nových tváří. A stejně jako my jsme nadšení z nich, oni jsou nadšení z nás.
 V Brně je Pyvo stále skvělým Pyvem a přes veškeré snahy rejpalů se daří vždy zaručit místo pro velký či nepředvídatelný počet lidí. Letos se bylo Pyvo v Brně dokonce den před PyConem CZ, takže na něj dorazila velká posádka z Prahy. A že to byla pěkná cesta!
 
-![Cesta z města do Brna by ruční selfie tyč Honza Král]({filename}/images/co_prinesl_podzim_001.png){:width="350px" :center}
+![Cesta z města do Brna by ruční selfie tyč Honza Král]({static}/images/co_prinesl_podzim_001.png){:width="350px" :center}
 
 Shrneme si to:
 

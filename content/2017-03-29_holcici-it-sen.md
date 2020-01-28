@@ -14,7 +14,7 @@ Webová aplikace bude sloužit studentům a lektorům Czechitas jako interní wi
 Uživatelé systému, jsou lektoři a studenti Czechitas. Lektor bude mít právo vytvářet jednotlivá vlákna týkající se oblastí, které vyučuje. Každé vlákno může mít několik dalších stránek a stránky pak několik dalších podstránek. Stránky a podstránky pak budou moci vytvářet jak lektoři, tak také studenti. Systém bude také propojený s kurzy na webu Czechitas a automaticky se v administraci vytvoří nové vlákno s názvem kurzu, pokud ještě vlákno neexistuje.
 
 ## Schéma postupu
-![Schéma postupu]({filename}/images/schema.jpg)
+![Schéma postupu]({static}/images/schema.jpg)
 
 ## Krok za krokem
 **1. Návrh datového modelu**
@@ -22,7 +22,7 @@ Uživatelé systému, jsou lektoři a studenti Czechitas. Lektor bude mít práv
 
 Základem pro tvorbu datového modelu jsou funkční požadavky aplikace (vytvořit vlákno, vložit stánku do vlákna, přihlášení, registrace, správa uživatelů, přidání souboru k předmětu, přidat komentář) a jednotlivá podstatná jména tvoří objekty a slovesa tvoří vazby mezi těmito objekty v datovém modelu.
 
-![Datový model]({filename}/images/datovy_model.jpg)
+![Datový model]({static}/images/datovy_model.jpg)
 
 ** 2. Správa uživatelů**
 
@@ -32,10 +32,10 @@ Základem pro tvorbu datového modelu jsou funkční požadavky aplikace (vytvo�
 
 ** 3. User interface aplikace **
 
-![UI]({filename}/images/UI-wiki.jpg)
+![UI]({static}/images/UI-wiki.jpg)
 
 
-** 4. Django ** 
+** 4. Django **
 
 Přicházíme k přípravě vývojového prostředí. V tomto kroku vytváříme projekt, superusera a nastartujeme projekt na localhostu. Dalším krokem je si otevřít projekt ve vývojovém prostředí, já jsem zvolila Atom. Pak už můžeme přejít k vytvoření modelových entit v Djangu, vycházíme z navrženého datového modelu výše. Nesmíme zapomenout se připojit k databázovému serveru, budeme pracovat s databází PostgreSQL. Je tedy potřeba mít nainstalovaný databázový server a pro správu databáze potřebujeme mít nainstalovaný pgAdmin. V pgAdmin registrujeme nový server a připojíme se k němu. Teď nám zbývá vymyslet, jak bude fungovat správa vláken a správa článků.
 
@@ -50,16 +50,16 @@ Třetí částí je propojení Czechitas wiki s fotkami z Instagramu, kde se ve 
 ## Podívejme se nyní, jak projekt vypadá :)
 * Přihlášení uživatele
 
-![Přihlášení uživatele]({filename}/images/okno_prihlaseni.jpg)
+![Přihlášení uživatele]({static}/images/okno_prihlaseni.jpg)
 * Vlákna
 
-![Vlákna]({filename}/images/vlakna.jpg)
+![Vlákna]({static}/images/vlakna.jpg)
 * Články
 
-![Články]({filename}/images/clanek.jpg)
+![Články]({static}/images/clanek.jpg)
 * Dashboard
 
-![Dashboard]({filename}/images/dashboard.jpg)
+![Dashboard]({static}/images/dashboard.jpg)
 
-Tak to je ona první verze projektu po měsíci práce 🎉. Těším se na další pokračování a věřím, že z toho někdy bude plnohodnotná webová aplikace, která bude plnit svůj úkol. Jaký je tedy můj holčičí IT sen? Naučit se všechny ty super věci v Pythonu. 
+Tak to je ona první verze projektu po měsíci práce 🎉. Těším se na další pokračování a věřím, že z toho někdy bude plnohodnotná webová aplikace, která bude plnit svůj úkol. Jaký je tedy můj holčičí IT sen? Naučit se všechny ty super věci v Pythonu.
 

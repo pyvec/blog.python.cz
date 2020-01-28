@@ -8,7 +8,7 @@ About: Long-time Pythonista and [Red Hat](https://www.redhat.com/en/global/czech
 
 In November last year we held the [second annual PyCon in the Czech Republic](https://cz.pycon.org/2016/) (October 28–30, Brno). We’d like to take this opportunity to wrap-up the 2016 conference so we can kick things off for 2017 planning!
 
-![PyCon CZ]({filename}/images/pycon2016cz-32.jpg)
+![PyCon CZ]({static}/images/pycon2016cz-32.jpg)
 
 First off, while the 2016 conference was a lot of work for all the volunteer organizers, it was a ton of fun to organize as well! Over the three conference event days we had:
 
@@ -23,13 +23,13 @@ First off, while the 2016 conference was a lot of work for all the volunteer org
 
 Not to mention all the incredible community networking that took place during the event!
 
-![coffee]({filename}/images/pycon2016cz-14.jpg)
+![coffee]({static}/images/pycon2016cz-14.jpg)
 
 ## Videos & Photos
 
 Videos from the event are [available on YouTube](https://www.youtube.com/channel/UCRC2Vu7p4SJxhhuRdl8rQ6g/videos). Official selection of photos from the event is [available on Google Photos](https://photos.google.com/share/AF1QipPv3NOTKQNyWagjYq-5z9wGKb30SBZpynDoMUukz5IGXo4n1zu_n4_v6RMO_CU8CA?key=aVpTRURGQmVLdWdvQW9vSDZ3ZlhlZF9lcUVHR2RB).
 
-![beer]({filename}/images/pycon2016cz-310.jpg)
+![beer]({static}/images/pycon2016cz-310.jpg)
 
 ## Community organizations
 
@@ -37,14 +37,14 @@ The core organizing team had grand expectations for this year’s event and it�
 
 With that said, we’d like to take a moment to thank everyone involved – all the CfP submission authors, the invited and accepted speakers, the sponsors, the fine folks at [Faculty of Information Technology, Brno University of Technology](http://www.fit.vutbr.cz/.en) who provided the venue space, the [Czech Python community](https://python.cz) in general and all the attendees who joined us to make PyCon CZ the amazing event it was.
 
-![people clapping, yay]({filename}/images/pycon2016cz-280.jpg)
+![people clapping, yay]({static}/images/pycon2016cz-280.jpg)
 
 While we’re at it, we’d like to call out two special groups which could use your help – participation as well as sponsorships; groups whose ongoing work enabled this conference and will hopefully enable others like it in the future:
 
 - [Pyvec](http://pyvec.org/) – the formal backers of the PyCon CZ events and so many other Python events in the Czech Republic, whose continuous activity and monthly [Pyvo meetups](https://pyvo.cz/) are the lifeblood of the [Czech Python community](https://python.cz/), and
 - the [Python Software Foundation](https://www.python.org/psf/). They are the good people who take care of the ongoing development of the Python language and the global activities around it. The PSF sponsored PyCon CZ 2016, as it does many such events.
 
-![recording]({filename}/images/pycon2016cz-140.jpg)
+![recording]({static}/images/pycon2016cz-140.jpg)
 
 ## Diversity
 
@@ -52,7 +52,7 @@ We put a lot of effort in to make the conference more welcoming to diverse popul
 
 We did not collect the general statistics of visitor gender, but we have reason to believe it was significantly more balanced than usual, especially with respect to high profile speakers.
 
-![Magdalena rocks the stage]({filename}/images/pycon2016cz-120.jpg)
+![Magdalena rocks the stage]({static}/images/pycon2016cz-120.jpg)
 
 ## Code of Conduct Report
 
@@ -74,7 +74,7 @@ The organization team agrees that all PyCon events should be accessible and welc
 - During one of the keynotes, inappropriate image was used in a slideshow. The speaker was reminded, that a Code of Conduct applies to keynotes as well. No further action was taken.
 - During one of the lightning talks, speaker used disrespectful language towards different initiatives that aim to include underrepresented groups into IT. In his presentation he also used a slide that could be offensive to some groups. One of the attendees reacted to this by angrily leaving the venue. The speaker posted an apology in public group chat and also admitted his mistake in private discussion with one of the CoC contacts. The attendee apologized for his behavior in e-mail to one of the CoC contacts and in private discussion with head conference organizer. No video or slides will be published from this lightning talk.
 
-![FIT BUT]({filename}/images/pycon2016cz-73.jpg)
+![FIT BUT]({static}/images/pycon2016cz-73.jpg)
 
 ## Budget
 
@@ -101,7 +101,7 @@ In the spirit of Open Source and transparency, we’re happy to share a summary 
 
 As you can see, we ended with a positive balance of close to 50 000 CZK. All these surplus funds will be applied to next year’s event budget.
 
-![recording]({filename}/images/pycon2016cz-278.jpg)
+![recording]({static}/images/pycon2016cz-278.jpg)
 
 ## 2017
 
@@ -116,4 +116,4 @@ Send an email to [info@pycon.cz](mailto:info@pycon.cz) if you’d like to reques
 
 See you in 2017!
 
-![ORGs]({filename}/images/pycon2016cz-113.jpg)
+![ORGs]({static}/images/pycon2016cz-113.jpg)

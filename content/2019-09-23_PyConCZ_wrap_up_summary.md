@@ -8,11 +8,11 @@ PyCon CZ, the Czech Python community conference, took place on June 13-16, 2019.
 
 As every year, we had a blast! I hope you really enjoyed the talks, workshops, networking and the atmosphere.
 
-![Thank you!]({filename}/images/2019-09-23_PyConCZ_DSC_3946.jpg)
+![Thank you!]({static}/images/2019-09-23_PyConCZ_DSC_3946.jpg)
 
 ## Community Organization
 
-![Organizers]({filename}/images/2019-09-23_PyConCZ_DSC_3925.jpg)
+![Organizers]({static}/images/2019-09-23_PyConCZ_DSC_3925.jpg)
 
 Our conference is made for the community by the community. We are all volunteers doing this in our free time, and as you can imagine, it’s quite a challenge. We like to move the conference to a new city every two years, to breathe to it a breath of fresh air. And so we moved it to Ostrava this year, under a mostly new team of organizers! As usual, many but not all of us were from Ostrava, so the organization took place mostly on Slack and over video calls. The organization usually takes as long as half a year, so now we’re enjoying a brief break until the wheel starts up again next year. :)
 
@@ -40,13 +40,13 @@ Here are some of the answers:
 
 Of those that answered, around 8 % of attendees hailed from the Ostrava region where the conference took place. A further 70 % were from other parts of the Czech Republic and around 8 % from the nearby Poland. The remaining 14 % were from other EU countries and the wider world.
 
-![where do you come from]({filename}/images/2019-09-23_PyConCZ_graph_come_from.png)
+![where do you come from]({static}/images/2019-09-23_PyConCZ_graph_come_from.png)
 
 #### What is your current position?
 
 More than 50 % of the attendees were developers. Other significant categories (over 5 %) were students, analysts, data scientists, QA engineers and DevOps engineers.
 
-![current position]({filename}/images/2019-09-23_PyConCZ_graph_position.png)
+![current position]({static}/images/2019-09-23_PyConCZ_graph_position.png)
 
 #### How did you hear about the conference?
 
@@ -56,15 +56,15 @@ Of those that answered, 57 % have heard about PyCon CZ from their local Python 
 
 From the 82 Educational ticket holders that attended, almost 44 % were attendees of PyLadies community courses and 38 % were university students.
 
-![edu tickets]({filename}/images/2019-09-23_PyConCZ_graph_edu_tickets.png)
+![edu tickets]({static}/images/2019-09-23_PyConCZ_graph_edu_tickets.png)
 
 ## Workshops
 
-Workshop registrations were available to everyone who bought a ticket. We started registration a week before the conference. We successfully implemented a new system of voiding registrations 10 minutes before the start of the workshop, allowing walk-ins to fill the remaining places. 
+Workshop registrations were available to everyone who bought a ticket. We started registration a week before the conference. We successfully implemented a new system of voiding registrations 10 minutes before the start of the workshop, allowing walk-ins to fill the remaining places.
 
 ## Diversity
 
-![attendees]({filename}/images/2019-09-23_PyConCZ_DSC_3520.jpg)
+![attendees]({static}/images/2019-09-23_PyConCZ_DSC_3520.jpg)
 
 As every year, we’ve put an effort into making the conference as welcoming as possible. We had a Code of Conduct in place, offered discounted tickets and financial aid, ensured venue’s wheelchair accessibility and for the first time we offered more diverse food at the event.
 
@@ -92,7 +92,7 @@ Both main and workshop venues were wheelchair-accessible.
 
 ### Languages
 
-Except one talk in Czech, we kept the event international with English as the main language. 
+Except one talk in Czech, we kept the event international with English as the main language.
 
 While almost 70 % of attendees understood Czech (this includes Slovak speakers) we managed to attract 30 % of people from abroad who might not be able to attend otherwise.
 
@@ -120,7 +120,7 @@ One incident regarding tasteless commentary about a different programming langua
 
 ## Catering
 
-![catering]({filename}/images/2019-09-23_PyConCZ_DSC_3669.jpg)
+![catering]({static}/images/2019-09-23_PyConCZ_DSC_3669.jpg)
 
 PyCon CZ considers food as a thing that is needed to survive and not as a something that PyCon CZ would like to be known for. However, even with such a utilitarian attitude we try to improve it every year.
 
@@ -137,7 +137,7 @@ Our plan for 2020:
 
 ## Feedback
 
-![stickers]({filename}/images/2019-09-23_PyConCZ_DSC_3484.jpg)
+![stickers]({static}/images/2019-09-23_PyConCZ_DSC_3484.jpg)
 
 After the conference, we published an online form to gather feedback from attendees. We received over 200 responses. Here are the highlights:
 
@@ -171,7 +171,7 @@ We take attendees’ feedback seriously. In the end, we make PyCon CZ for them. 
 
 ### Photos
 
-![photographer]({filename}/images/2019-09-23_PyConCZ_DSC_3817.jpg)
+![photographer]({static}/images/2019-09-23_PyConCZ_DSC_3817.jpg)
 
 * [Our official conference photos](https://photos.app.goo.gl/dZ4ATCBesNL9cCEy9)
 * [More photos from one of our attendees, Moisés Guimarães de Medeiros](https://photos.app.goo.gl/aAYvp7EdzbKcNVzz8)
@@ -182,7 +182,7 @@ In the spirit of openness and transparency, we’re happy to share a summary of 
 
 ### Income
 
-We started with a 102,000 CZK left over from PyCon CZ 2018. We managed to obtain sponsorships totalling 672,700 CZK and received further 699,900 CZK from ticket sales, together giving us a revenue of 1,372,600 CZK. 
+We started with a 102,000 CZK left over from PyCon CZ 2018. We managed to obtain sponsorships totalling 672,700 CZK and received further 699,900 CZK from ticket sales, together giving us a revenue of 1,372,600 CZK.
 
 ### Expenses
 
@@ -207,7 +207,7 @@ Our total expenses were 1,060,000 CZK.
 
 ### Bottom line
 
-![logo]({filename}/images/2019-09-23_PyConCZ_DSC_3617.jpg)
+![logo]({static}/images/2019-09-23_PyConCZ_DSC_3617.jpg)
 
 We ended with a positive balance of 311 674 CZK. Most of it will be saved as a starting money for PyCon CZ 2020. The rest will be used by our non-profit organization [Pyvec, z.s.](https://pyvec.org/), for other Python community activities (PyLadies, Pyvo, Community sprints, etc.)
 
@@ -215,4 +215,4 @@ We ended with a positive balance of 311 674 CZK. Most of it will be saved as a s
 
 See you in Ostrava again!!!
 
-![2020]({filename}/images/2019-09-23_PyConCZ_DSC_3594.jpg)
+![2020]({static}/images/2019-09-23_PyConCZ_DSC_3594.jpg)
