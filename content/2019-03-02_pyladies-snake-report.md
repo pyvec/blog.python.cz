@@ -56,7 +56,7 @@ Organization in each city is relatively independent.
 
 [available]: https://naucse.python.cz/course/pyladies/
 
-![Beginner PyLadies on the workshop, with coaches in the back]({filename}/images/snake2019-20190202_084911.jpg)
+![Beginner PyLadies on the workshop, with coaches in the back]({static}/images/snake2019-20190202_084911.jpg)
 
 
 ## The Snake workshop
@@ -97,7 +97,7 @@ As a “pilot”, the workshop should serve these purposes:
 
 [Snake]: https://en.wikipedia.org/wiki/Snake_(video_game_genre)
 
-![See the coaches coaching!]({filename}/images/snake2019-20190202_152819.jpg)
+![See the coaches coaching!]({static}/images/snake2019-20190202_152819.jpg)
 
 
 ## The Saturday
@@ -125,7 +125,7 @@ Based on the feedback to date, everyone enjoyed the show.
 There were smiles throughout; the coaches were kind and helpful, and I'd say
 the attendees learned as much as they could in a day.
 
-![The importance of good ol' pen & paper]({filename}/images/snake2019-20190202_162002.jpg)
+![The importance of good ol' pen & paper]({static}/images/snake2019-20190202_162002.jpg)
 
 Of course, nothing is perfect – and there's a lot to improve for next time.
 
@@ -152,7 +152,7 @@ I forgot to request them in a reasonable time, so we didn't have them.
 Thankfully, they weren't needed – but hardware problems could have ruined the
 atmosphere of the workshop.
 
-![Not quite there yet]({filename}/images/snake2019-20190202_173055.jpg)
+![Not quite there yet]({static}/images/snake2019-20190202_173055.jpg)
 
 
 ### And as for me...
@@ -176,7 +176,7 @@ Anyway, I was throroughly exhausted at the end, after ten hours of live coding.
 I think I'll wait a few months before doing this again.
 
 
-![Thanks to the sponsor & organizers]({filename}/images/snake2019-20190202_084946.jpg)
+![Thanks to the sponsor & organizers]({static}/images/snake2019-20190202_084946.jpg)
 
 Thank you to everyone involved – the organizers, the coaches,
 Red Hat GWS & BIPI, and the attendees.

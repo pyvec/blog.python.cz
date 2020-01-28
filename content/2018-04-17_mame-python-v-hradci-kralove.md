@@ -50,8 +50,8 @@ Držte nám palce!
 
 Máte-li zájem získávat více informací o pythoním dění v Hradci Králové můžete nás sledovat na [stránkách Facebooku](https://www.facebook.com/groups/pythonhradeckralove/).
 
-![ilustrační obrázek]({filename}/images/imgl9364.jpg)
+![ilustrační obrázek]({static}/images/imgl9364.jpg)
 
-![ilustrační obrázek]({filename}/images/imgl9395.jpg)
+![ilustrační obrázek]({static}/images/imgl9395.jpg)
 
-![ilustrační obrázek]({filename}/images/imgl9403.jpg)
+![ilustrační obrázek]({static}/images/imgl9403.jpg)

@@ -13,7 +13,7 @@ To be precise, I participated only during Friday and Saturday, I decided not to 
 
 Basically I didn't observe any really serious problem, which would totally prevent me from gaining information from a talk. However, I would like to propose several recommendations, which may enhance experience of any future potential visually impaired visitors of PyCon CZ.
 
-![Tomáš Ehrlich smiling while petting a dog]({filename}/images/pycon2016cz-105.jpg)
+![Tomáš Ehrlich smiling while petting a dog]({static}/images/pycon2016cz-105.jpg)
 
 ## Speakers, describe what's on your slide
 
@@ -33,6 +33,6 @@ One thing which surprised me was a [method used for posting questions to speaker
 
 What I really liked about Pycon CZ was friendliness of all other people around during talks, breaks and afterparty. I didn't feel isolated and this is not something obvious while attending larger events. I found new friends, heard interesting stories and gained invaluable information.
 
-![Jakub, Stařenka, and Vladimír, all of them playing ukulele]({filename}/images/pycon2016cz-147.jpg)
+![Jakub, Stařenka, and Vladimír, all of them playing ukulele]({static}/images/pycon2016cz-147.jpg)
 
 Let's sum it up. PyCon CZ was really great and inspiring experience for me and I am looking forward to attend upcoming PyCon CZ or other similar conferences. I would like to thank [Red Hat](https://www.redhat.com/) for providing me, Honza, and Sísa with free tickets for PyCon CZ 2016.

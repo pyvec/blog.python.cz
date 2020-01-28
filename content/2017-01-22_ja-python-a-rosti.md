@@ -17,7 +17,7 @@ Hrajete nějakou online strategii a nechce se vám klikat na něco ve stylu "Seb
 
 Bohužel, nemohu si z rodinných důvodů dovolit odstěhovat se do většího města, ať Prahy nebo Brna, jsem omezen na Hradec Králové. A to není zrovna IT velmoc (s čestnými výjimkami). Tou dobou jsem byl už v kontaktu s [Honzou Javorkem](http://honzajavorek.cz), se kterým jsem leccos konzultoval. A byl tak nějak činný na [Pyonýrech](https://www.facebook.com/groups/pyonieri/) (činný = spamoval nepříliš inteligentníma otázkama). Jednou jsem v záchvatu deprese nad svou situací vytvořil [příspěvek pokorně prosící o šanci](https://www.facebook.com/groups/pyonieri/permalink/1168570359821806/), příležitost za takřka libovolnou částku. Honza už se na to nejspíš nemohl dál koukat a napsal pod to komentář vyzdvihují mé zkušenosti a projekty, za což mu patří velké díky.
 
-![šance]({filename}/images/marcus1.png){:width="500px":center}
+![šance]({static}/images/marcus1.png){:width="500px":center}
 [Můj příspěvek prosící o šanci](https://www.facebook.com/groups/pyonieri/permalink/1168570359821806/)
 
 A pak to přišlo ([po menších komplikacích s FB, který filtruje zprávy](https://www.facebook.com/groups/pyonieri/permalink/1178763112135864/)) - "Ahoj, nechtěl by si to zkusit u nás na Roští?". Chtěl.
@@ -28,5 +28,5 @@ Pro kluky jsem byl také první "zaměstnanec", takže čas od času se stávalo
 
 Ale samozřejmě má to i své zápory. Pokud jste dosud pracovali manuálně, navíc někde, kde byla reálná možnost, že vaše chyba může někoho zabít (zkuste zapomenout dát do střechy pár šroubů a klidně se vám spát nebude), tak budete překvapeni a budete dost ve stresu. Neberte to tak vážně, od toho jste nováček a chyby se očekávají, tak se s tím smiřte. Je to téměř nekonečný běh, kde se maximálně můžete snažit zlepšovat. Taky to, že teoreticky můžete pracovat pořád, alespoň tam, kde je PC, nutně neznamená, že musíte (jinak vám to volno výslovně nařídí, fakt!). Na závěr - děkuji za existenci [Pyonýrů](https://www.facebook.com/groups/pyonieri/) a vůbec lidí stojící za tím vším (nejen za FB skupinou). Dostal jsem jak rady, tak motivaci, vlastně vše, co jsem potřeboval. A hlavně děkuji klukům z [Roští](https://rosti.cz/), že měli a mají tu odvahu, trpělivost, snahu a příležitost. Po mých životních zkušenostech je tohle práce snů. Místo, kde si člověka váží a snaží se mu vyjít vstříc jak jen to jde (pod tímto se skrývá tisíce věcí, od drobností až po úžasné věci).
 
-![děkování]({filename}/images/marcus2.png){:width="500px":center}
+![děkování]({static}/images/marcus2.png){:width="500px":center}
 [Poděkování na Silvestra](https://www.facebook.com/groups/pyonieri/permalink/1343136619031845/)
