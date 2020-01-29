@@ -13,4 +13,4 @@ A já jsem moc rád, že to včera proběhlo, že to byla zábava, že se to l�
 
 Předně bych chtěl poděkovat už zmiňovanému [Michalovi](http://www.michaljanik.cz/), který mi pomohl s organizací. Rozdělili jsme si úlohy asi tak, že on zajistil infrastrukturu a já dělal propagaci a zajistil přednášky.
 
-**Tento článek je z dob kdy [blog.python.cz](http://blog.python.cz) ještě neexistoval a původně vyšel na Honzově blogu. [Můžete si ho dočíst tam!](http://honzajavorek.cz/blog/druhe-brnenske-pyvo.html)**
+**Tento článek je z dob kdy [blog.python.cz](http://blog.python.cz) ještě neexistoval a původně vyšel na Honzově blogu. [Můžete si ho dočíst tam!](http://honzajavorek.cz/blog/druhe-brnenske-pyvo/)**

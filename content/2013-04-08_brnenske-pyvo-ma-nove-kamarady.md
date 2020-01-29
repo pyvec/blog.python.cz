@@ -21,4 +21,4 @@ Rok poté jsme v lednu 2012 hostili **zatím nejúspěšnější akci** -
 [NoSQL PyVo](http://lanyrd.com/2012/pyvo-january/), kde se nás sešlo přes
 třicet a přijeli návštěvníci ze Slovenska i z Prahy.
 
-**Tento článek je z dob kdy [blog.python.cz](http://blog.python.cz) ještě neexistoval a původně vyšel na Honzově blogu. [Můžete si ho dočíst tam!](http://honzajavorek.cz/blog/brnenske-pyvo-ma-nove-kamarady.html)**
+**Tento článek je z dob kdy [blog.python.cz](http://blog.python.cz) ještě neexistoval a původně vyšel na Honzově blogu. [Můžete si ho dočíst tam!](http://honzajavorek.cz/blog/brnenske-pyvo-ma-nove-kamarady/)**

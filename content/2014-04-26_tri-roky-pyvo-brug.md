@@ -16,4 +16,4 @@ Ve čtvrtek proběhlo další brněnské Pyvo + BRUG, tentokrát s podtitulem "p
 - **[Zdeněk Němec](http://zdne.org/)** ([Apiary](http://apiary.io/)): Jak jsem vyráběl [Snowcrash](https://github.com/apiaryio/snowcrash)
 - **[Petr Viktorin](http://encukou.cz/)** ([Red Hat](http://www.redhat.com/)): [import ast](https://docs.python.org/3.5/library/ast.html)
 
-**Tento článek je z dob kdy [blog.python.cz](http://blog.python.cz) ještě neexistoval a původně vyšel na Honzově blogu. [Můžete si ho dočíst tam!](http://honzajavorek.cz/blog/tri-roky-pyvo-brug.html)**
+**Tento článek je z dob kdy [blog.python.cz](http://blog.python.cz) ještě neexistoval a původně vyšel na Honzově blogu. [Můžete si ho dočíst tam!](http://honzajavorek.cz/blog/tri-roky-pyvo-brug/)**

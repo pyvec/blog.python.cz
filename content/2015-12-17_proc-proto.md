@@ -19,4 +19,4 @@ Když máme ten konec roku, dovolím si tady trochu bilancovat a zhodnotit, jak 
 
     *Věčnou slávu si zaslouží hlavně Petr Viktorin.*
 
-**Tento článek je z dob kdy [blog.python.cz](http://blog.python.cz) ještě neexistoval a původně vyšel na Honzově blogu. [Můžete si ho dočíst tam!](http://honzajavorek.cz/blog/proc-proto.html)**
+**Tento článek je z dob kdy [blog.python.cz](http://blog.python.cz) ještě neexistoval a původně vyšel na Honzově blogu. [Můžete si ho dočíst tam!](http://honzajavorek.cz/blog/proc-proto/)**
