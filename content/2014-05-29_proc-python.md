@@ -11,4 +11,4 @@ Můžete mít rádi svou zahradní sekačku, ale stejně ji nepoužijete, když 
 
 Jenže pak máme ještě hromadu aplikací, kde to tak vyhraněné není, nebo je to minimálně sporné. Potom většinou nastupují emoce a sympatie. Řekněme třeba web. Web můžete udělat v PHP, Ruby, Pythonu, JavaScriptu/Node.js, Haskellu, ... Kvalita ekosystému, rychlost vývoje a podobné argumenty tady moc nehrají roli, protože když se to sečte a podtrhne, tak jsou ty technologie prostě srovnatelné. Áno, Node.js může být asynchronnější a rychlejší než třeba zrovna ten Python, ale zase si u něj nabijete čumák v něčem jiném - všechno má svá pro a proti. Ekonomicky je to prostě jedno - pokud tedy nebudeme uvažovat i to, jak je snadné najít na tu kterou technologii vývojáře, atd.
 
-**Tento článek je z dob kdy [blog.python.cz](http://blog.python.cz) ještě neexistoval a původně vyšel na Honzově blogu. [Můžete si ho dočíst tam!](http://honzajavorek.cz/blog/proc-python.html)**
+**Tento článek je z dob kdy [blog.python.cz](http://blog.python.cz) ještě neexistoval a původně vyšel na Honzově blogu. [Můžete si ho dočíst tam!](http://honzajavorek.cz/blog/proc-python/)**

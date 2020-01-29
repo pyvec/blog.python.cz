@@ -9,4 +9,4 @@ Pomáhám při organizaci [Django Girls v Praze](http://djangogirls.org/prague/)
 
 Django Girls jsou jednodenní workshop pro dámy, na kterém se mohou zadarmo naučit úplné základy programování a udělat si svou první webovou stránku v Djangu, resp. v [programovacím jazyce Python]({filename}/2014-05-29_proc-python.md). Je to koncept převzatý ze zahraničí, všechno je připravené a nachystané, [existují manuály i pro organizátory](http://djangogirls.org/resources/), takže proto pro nás bylo jednodušší se pustit do něčeho takového, než něco stavět na koleně. A i tak je to dost velká fuška!
 
-**Tento článek je z dob kdy [blog.python.cz](http://blog.python.cz) ještě neexistoval a původně vyšel na Honzově blogu. [Můžete si ho dočíst tam!](http://honzajavorek.cz/blog/proc-pomahat-holkam-do-it.html)**
+**Tento článek je z dob kdy [blog.python.cz](http://blog.python.cz) ještě neexistoval a původně vyšel na Honzově blogu. [Můžete si ho dočíst tam!](http://honzajavorek.cz/blog/proc-pomahat-holkam-do-it/)**

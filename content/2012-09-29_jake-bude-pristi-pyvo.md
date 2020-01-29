@@ -13,4 +13,4 @@ Nutně si pak musím položit otázku, co s PyVem zamýšlím. Jestli z něj chc
 
 V následujících odstavcích vám tedy nastíním nějakou svou vizi. Částečně vykrystalizovanou jednotlivými PyVy, částečně založenou na zpětné vazbě, kterou jsem posbíral ve čtvrtek.
 
-**Tento článek je z dob kdy [blog.python.cz](http://blog.python.cz) ještě neexistoval a původně vyšel na Honzově blogu. [Můžete si ho dočíst tam!](http://honzajavorek.cz/blog/jake-bude-pristi-pyvo.html)**
+**Tento článek je z dob kdy [blog.python.cz](http://blog.python.cz) ještě neexistoval a původně vyšel na Honzově blogu. [Můžete si ho dočíst tam!](http://honzajavorek.cz/blog/jake-bude-pristi-pyvo/)**

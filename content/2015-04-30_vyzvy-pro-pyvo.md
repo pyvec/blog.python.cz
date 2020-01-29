@@ -11,4 +11,4 @@ Dnes v Brně slavíme **čtyři roky** od založení místního srazu příznivc
 
 V Brně se za čtyři roky rozhodně podařilo **vytvořit pravidelný sraz**, který sdružuje místní komunitu Pythonistů (a Rubystů). To samo o sobě není tak snadný úkol jak se zdá a je možná vlastně i dílem náhody, že zrovna nám v Brně se to povedlo. Myslel jsem si, že se tento úspěch dá snadno replikovat, ale zpětně vidím, že to není tak jednoduché a za každým funkčním srazem je ohromná spousta práce.
 
-**Tento článek je z dob kdy [blog.python.cz](http://blog.python.cz) ještě neexistoval a původně vyšel na Honzově blogu. [Můžete si ho dočíst tam!](http://honzajavorek.cz/blog/vyzvy-pro-pyvo.html)**
+**Tento článek je z dob kdy [blog.python.cz](http://blog.python.cz) ještě neexistoval a původně vyšel na Honzově blogu. [Můžete si ho dočíst tam!](http://honzajavorek.cz/blog/vyzvy-pro-pyvo/)**
