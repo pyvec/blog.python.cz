@@ -14,7 +14,7 @@ Víc čas nedovolil, když jsem měla další kurzy. Ale byla to velmi příjemn
 například absolventky začátečnických kurzů a předat nabyté znalosti dál. Jiní si tam chodí upevňovat základy, 
 protože nemusíte každou hodinu jen koučovat, ale být tam jako pozorovatel a opakovat si látku, ve které si nejste jistí. 
 A největší motivace – šířit Python! 😀 Ale hlavně ta milá společnost na kurzech a příjemné prostředí, 
-celá python komunita je neskutečná, tu nemůžete nemilovat.
+celá Python komunita je neskutečná, tu nemůžete nemilovat.
 
 Moje **motivace** byla kombinací výše zmíněných. Co bylo nejdůležitější, tak ta atmosféra na kurzech, 
 chodila jsem si tam odpočinout. Nevadí různé všetečné otázky, protože jak víte, žádná otázka není hloupá! 🙂 
