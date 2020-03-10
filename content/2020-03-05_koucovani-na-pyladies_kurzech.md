@@ -2,7 +2,7 @@ Title: Koučování na Pyladies kurzech
 Date: 2020-03-05 11:00:00
 Author: Iveta Česalová
 Gravatar: cesalova.iveta@seznam.cz
-About: Iveta je bývalá účetní, má dvě děti a po absolvování několika Pyladies kurzů se jí podařilo získat vysvěnou práci v IT.
+About: Iveta je bývalá účetní, má dvě děti a po absolvování několika PyLadies kurzů se jí podařilo získat vysvěnou práci v IT.
 
 *Text vyšel původně na [autorčině blogu](https://ivet1987.wz.cz/2020/03/koucovani-na-pyladies-kurzech/).*
 
