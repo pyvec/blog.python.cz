@@ -21,7 +21,7 @@ chodila jsem si tam odpočinout. Nevadí různé všetečné otázky, protože j
 Není tam žádný stres, spěch, tempo se přizpůsobí vždy individuálně. Každý je ochoten pomoci se sebemenším problémem. 
 Přeci jen nejblíže k účastníkům kurzů mají právě ostatní absolventky a můžou jim případně vysvětlit látku více lidsky. 
 Tím nechci říct, že by hlavní kouč přednášel nesrozumitelně, ale je to přeci jen programátor profesionál a my, 
-obyčejní smrtelníci to asi vysvětlíme úplně laicky neaťácky 🙂 Někdy jsem si všimla, že holky tápou, nezeptají se, 
+obyčejní smrtelníci to asi vysvětlíme úplně laicky neajťácky 🙂 Někdy jsem si všimla, že holky tápou, nezeptají se, 
 i když neví. Není nic jednoduššího, než se zeptat sama, i když to vlastně víte, ale je super, že to pak pochopí i ostatní.
 
 Na začátku to byly hrozné pocity, že si mě někdo zavolá a bude mít problém, se kterým nedokáži pomoci, 
