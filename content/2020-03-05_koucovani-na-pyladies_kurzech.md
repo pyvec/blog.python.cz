@@ -1,4 +1,4 @@
-Title: Koučování na Pyladies kurzech
+Title: Koučování na PyLadies kurzech
 Date: 2020-03-05 11:00:00
 Author: Iveta Česalová
 Gravatar: cesalova.iveta@seznam.cz
@@ -26,7 +26,7 @@ i když neví. Není nic jednoduššího, než se zeptat sama, i když to vlastn
 
 Na začátku to byly hrozné pocity, že si mě někdo zavolá a bude mít problém, se kterým nedokáži pomoci, 
 a budu za trubku. No jistě, občas taková situace nastala, ale jednoduše se zavolal druhý, více zkušenější kouč, 
-a byli jsme chytřejší všichni 🙂 Ale nakonec to nebylo tak složité. Jistě, objevil se červený lísteček, znamení pro kouče, 
+a byli jsme chytřejší všichni 🙂 Nakonec to nebylo tak složité. Jistě, objevil se červený lísteček, znamení pro kouče, 
 a ve vás hrkne – *Jejda, mám tam jít? Nebo budu dělat, že to nevidím a počkám, až tam půjde někdo jiný?* 😀 
 Průběžně jsem sledovala jak postupují holky s úkoly a dopředu již tušila, kde se objeví papírek, 
 no sebrala jsem odvahu a šla tam. Nakonec to byly obyčejné jednoduché problémy, se kterými jsem dokázala pomoci, 
