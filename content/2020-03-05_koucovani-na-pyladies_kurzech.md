@@ -35,7 +35,7 @@ a pak jsem byla fakt ráda. Hele, něco vím, pomohla jsem, **nejsem tu zbytečn
 Na několika hodinách jsem taky jen seděla s počítačem a opakovala si témata, co mě zajímala a potřebovala jsem si upevnit 
 znalosti. Na tom není nic špatného! Bylo tam vždy dost ostatních koučů, takže to nevadilo a něco nevědět není ostuda.
 
-Jestli **váháte**, zda se taky přihlásit na koučování, ať už Pyladies či jiných kurzů, už se nerozmýšlejte! Když se vám to 
+Jestli **váháte**, zda se taky přihlásit na koučování, ať už PyLadies či jiných kurzů, už se nerozmýšlejte! Když se vám to 
 nebude líbit, můžete kdykoli odejít a přestat, nikdo se zlobit nebude. Ale po osobní zkušenosti myslím, že si to tam 
 **zamilujete**. Všichni organizátoři, koučové, kteří jsou součástí těchto kurzů, jsou skvělí lidi a je příjemné se toho 
 účastnit, být užitečný, a po kurzu si zajít spolu sednout do hospody a povídat si o čemkoli.
