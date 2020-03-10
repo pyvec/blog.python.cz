@@ -11,7 +11,7 @@ Jako vedlejší koučka na začátečnických kurzech jsem byla zatím pouze jed
 Víc čas nedovolil, když jsem měla další kurzy. Ale byla to velmi příjemná zkušenost.
 
 **Proč začít koučovat?** Co k tomu lidi vede? Někoho baví učit, někdo se chce odvděčit pyladies, 
-například absolventky začátečnických kurzů a předat nabyté znalosti dál. Jiní si tam chodí upevňovat základy, 
+- například absolventky začátečnických kurzů - a předat nabyté znalosti dál. Jiní si tam chodí upevňovat základy, 
 protože nemusíte každou hodinu jen koučovat, ale být tam jako pozorovatel a opakovat si látku, ve které si nejste jistí. 
 A největší motivace – šířit Python! 😀 Ale hlavně ta milá společnost na kurzech a příjemné prostředí, 
 celá Python komunita je neskutečná, tu nemůžete nemilovat.
