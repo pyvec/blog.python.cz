@@ -2,7 +2,7 @@ Title: Koučování na PyLadies kurzech
 Date: 2020-03-05 11:00:00
 Author: Iveta Česalová
 Gravatar: cesalova.iveta@seznam.cz
-About: Iveta je bývalá účetní, má dvě děti a po absolvování několika PyLadies kurzů se jí podařilo získat vysvěnou práci v IT.
+About: Iveta je bývalá účetní, má dvě děti a po absolvování několika PyLadies kurzů se jí podařilo získat vysněnou práci v IT.
 
 *Text vyšel původně na [autorčině blogu](https://ivet1987.wz.cz/2020/03/koucovani-na-pyladies-kurzech/).*
 
@@ -28,6 +28,7 @@ Na začátku to byly hrozné pocity, že si mě někdo zavolá a bude mít probl
 a budu za trubku. No jistě, občas taková situace nastala, ale jednoduše se zavolal druhý, více zkušenější kouč, 
 a byli jsme chytřejší všichni 🙂 Nakonec to nebylo tak složité. Jistě, objevil se červený lísteček, znamení pro kouče, 
 a ve vás hrkne – *Jejda, mám tam jít? Nebo budu dělat, že to nevidím a počkám, až tam půjde někdo jiný?* 😀 
+(Na vysvětlenou, v průběhu lekce jsou různé úkoly, pokud máte hotovo, vylepíte si na monitor zelený lísteček, pokud problém a chcete pomoci od kouče, tak červený.)
 Průběžně jsem sledovala jak postupují holky s úkoly a dopředu již tušila, kde se objeví papírek, 
 no sebrala jsem odvahu a šla tam. Nakonec to byly obyčejné jednoduché problémy, se kterými jsem dokázala pomoci, 
 a pak jsem byla fakt ráda. Hele, něco vím, pomohla jsem, **nejsem tu zbytečně**, prostě fajn pocit.
