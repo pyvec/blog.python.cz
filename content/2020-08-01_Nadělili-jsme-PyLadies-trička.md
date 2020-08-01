@@ -10,6 +10,6 @@ Asi není potřeba psát, že rok 2020 je z hlediska pořádání kurzů PyLadie
 A dnes už se aktivně řeší příprava na podzimní kurzy, i když stále bohužel musíme počítat s bojovými podmínkami a nebudeme zdaleka moci pokrýt poptávku zájemkyň o další (prezenční) kurzy.
 
 Protože se v posledních letech tempo našich kurzů pozvolna zvyšovalo a komunita koučů, organizátorek i absolventek úspěšně rostla, měli jsme na přelomu roku poptávku po nové várce triček s logem PyLadies. A tak jsme se rozhodli s finančním přispěním Pyvce trička nechat vyrobit. Díky hromadné objednávce jsme i ušetřili pár korun.
-Byla to blesková předvánoční akce, do které se stihlo přihlásit cca 100 zájemců, kterým jsme našimi tričky mohli udělat radost. Určitě nás v nich potkáte/poznáte na PyConu nebo třeba na komunitním sprintu, kde vznikl tento článek ;)
+Byla to blesková předvánoční akce, do které se stihlo přihlásit cca 100 zájemců, kterým jsme našimi tričky mohli udělat radost. Určitě nás v nich potkáte/poznáte na českém PyConu nebo třeba na komunitním sprintu, kde vznikl tento článek ;)
 
 ![Fotka triček]({static}/images/pyladies-trika.jpg)
