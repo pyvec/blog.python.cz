@@ -42,7 +42,7 @@ Nevadí. Já si poradím sám. Jsem samostatný. Ostatně byl jsem to já, kdo s
 ![Košťata musela ustoupit]({static}/images/20200420_112700.jpg)
 Košťata musela ustoupit a na téměř půl roku jsem vládl v naší komoře já (a zavírám se tam před ženou dodnes).
 
-Konečně mám hotovou aplikaci, za kterou jsem původně vyhodil oknem tolik peněz, že byste za to dojeli vlakem 2.500 krát z Prahy do Brna a zpět, a nebo koupili 16.700 pytlíků kečupových POM-BÄR. Konečně je má aplikace taková, jakou jsem ji vždy potřeboval a toužil mít. Konečně mohu okamžitě reagovat na požadavky zákazníků a provádět změny, a to zadarmo, jen za můj vlastní čas. Představuji vám [eshop.toptrika.cz](https://eshop.toptrika.cz/). Na oko jednoduchý, uvnitř však důmyslný systém :)
+Konečně mám hotovou aplikaci, za kterou jsem původně vyhodil oknem tolik peněz, že byste za to dojeli vlakem 2.500 krát z Prahy do Brna a zpět, a nebo koupili 16.700 pytlíků kečupových POM-BÄR. Konečně je má aplikace taková, jakou jsem ji vždy potřeboval a toužil mít. Konečně mohu okamžitě reagovat na požadavky zákazníků a provádět změny, a to zadarmo, jen za můj vlastní čas. Představuji vám [eshop.toptrika.cz](https://eshop.toptrika.cz/). Na oko jednoduchý, uvnitř však důmyslný systém :) Jelikož ale tiskneme trička hlavně na různé akce, tak nyní svádíme těžký boj s covidem a vypadá to, že asi budeme muset zavřít krám.
 
 ![Papírky]({static}/images/20201014_100729.jpg)
 Při vývoji aplikace jsem si oblíbil pravěkou metodu řízení projektů, tj. psát chaoticky úkoly na papírky.
