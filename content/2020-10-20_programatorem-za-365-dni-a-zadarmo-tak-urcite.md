@@ -6,11 +6,11 @@ About: ???
 
 Být závislý na programátorech? To nechceš. Kdo má stejnou zkušenost s vlastním byznysovým projektem jako já, tak ví, že vývojářům musíte neustále sypat hromadu zlaťáků, a pokud je náhodou venku hezky, tak se termíny dodání jejich práce natahují úměrně k teplotě vody na koupalištích. Navíc jsem po 8 letech podnikání, kdy jsem se chtěl v důsledku krize nechat zaměstnat, zjistil, že pro zaměstnavatele nemá podnikatel téměř žádnou hodnotu. Podnikání je totiž takové abstraktní nic.
 
-Na chvíli se tedy pozastavím, zauvažuji a říkám si: “Z pohledu ostatních lidí vlastně nic neumím a štve mě závislost na programátorech. Co s tím? - Už vím! Stanu se programátorem a začnu štvát ostatní lidi.”
+Na chvíli se tedy pozastavím, zauvažuji a říkám si: „Z pohledu ostatních lidí vlastně nic neumím a štve mě závislost na programátorech. Co s tím? - Už vím! Stanu se programátorem a začnu štvát ostatní lidi.“
 
 ## Vyplatí se mi kvůli tomu vůbec vstávat z postele?
 
-Na pár dní jsem zasedl k vyhledávači a začal si oťukávat tuto oblast tak důkladně, jako slepec holí před eskalátorem. Jeden z prvních dotazů, na který mi musel Google dát odpověď, zněl: “kolik si vydělá programátor”. A že prej dobrý. Ale člověk se musí trochu ohánět.
+Na pár dní jsem zasedl k vyhledávači a začal si oťukávat tuto oblast tak důkladně, jako slepec holí před eskalátorem. Jeden z prvních dotazů, na který mi musel Google dát odpověď, zněl: „kolik si vydělá programátor“. A že prej dobrý. Ale člověk se musí trochu ohánět.
 
 To, že budu muset pracovat, abych se měl líp, mě zprvu trochu vyplašilo. Vydal jsem se proto ven mezi programátory, abych zjistil, jak se věci skutečně mají. Jestli mám i já šanci stát se programátorem navzdory tomu, že jsme se jako děti namísto hackování školní sítě na ulici s klukama řezali klackama po hlavě.
 
@@ -29,9 +29,9 @@ Junior.guru už mi blíže naservíroval podrobnější info a odkazy, kde se d�
 
 ## Už jsem programátor? … a teď?
 
-Po čtvrt roce učení se základům a neustálého dotazování se Googlu: “za jak dlouho se stanu  programátorem”, jsem se pustil do dvou odvážných věcí, přičemž jedna z nich byla naprosto naivní. Začal jsem se učit Django framework pro vývoj webových aplikací, a to zejména proto, že jsem chtěl napsat aplikaci pro mou vlastní firmu [Toptrika](https://toptrika.cz/). Přesněji e-shop, který bude z větší části interním informačním systémem, který nám bude řídit výrobu ve firmě. Ano, přesně tu samou aplikaci, kterou už mi naprogramovala jistá firma. Ale já byl s výsledkem jejich práce nespokojen a z ceny vývoje diplomaticky řečeno překvapen. Mým cílem se tedy stalo napsat to znovu a lépe.
+Po čtvrt roce učení se základům a neustálého dotazování se Googlu: „za jak dlouho se stanu  programátorem“, jsem se pustil do dvou odvážných věcí, přičemž jedna z nich byla naprosto naivní. Začal jsem se učit [Django framework](https://www.djangoproject.com/) pro vývoj webových aplikací, a to zejména proto, že jsem chtěl napsat aplikaci pro mou vlastní firmu [Toptrika](https://toptrika.cz/). Přesněji e-shop, který bude z větší části interním informačním systémem, který nám bude řídit výrobu ve firmě. Ano, přesně tu samou aplikaci, kterou už mi naprogramovala jistá firma. Ale já byl s výsledkem jejich práce nespokojen a z ceny vývoje diplomaticky řečeno překvapen. Mým cílem se tedy stalo napsat to znovu a lépe.
 
-A teď ta druhá věc. Ze všemožných příběhů lidí, které jsem našel pod dotazem: “za jak dlouho se stanu  programátorem” jsem vyčetl, že je možné najít si job v nejlepším případě už za 3 měsíce. Paráda. Jdu tedy s kůží na trh, kde už netrpělivě čekají, až mi za můj 12 týdenní skill a schopnost otočit želvu doleva utrhaj ruce. Tušíte, jak to dopadlo?
+A teď ta druhá věc. Ze všemožných příběhů lidí, které jsem našel pod dotazem: „za jak dlouho se stanu programátorem“ jsem vyčetl, že je možné najít si job v nejlepším případě už za 3 měsíce. Paráda. Jdu tedy s kůží na trh, kde už netrpělivě čekají, až mi za můj 12 týdenní skill a schopnost otočit želvu doleva utrhaj ruce. Tušíte, jak to dopadlo?
 
 I když věřím, že dnes, po roce intenzivního psaní kódu, už by mě ti samí lidé pravděpodobně přijali, tak tenkrát to bylo ještě příliš brzy. Domnívám se, že problémem nebyl ani tak nedostatek zkušeností, ale spíš to, že si dotyční nebyli jisti, zda u programování dlouhodobě vydržím, a jestli tak má cenu do mě investovat čas a zaučit mě.
 
@@ -59,5 +59,4 @@ Uvidím, jak se bude moje cesta vyvíjet. Plány a cíle samozřejmě mám. Ale 
 
 Přeji vám hodně štěstí a vytrvalosti na vaší cestě za první prací a ještě jednou velmi děkuji všem zkušeným vývojářům, kteří mi pomohli na té mojí cestě! Bůh ...
 
-Pokud vás napadá nějaké otázka, klidně mi napište: kovandah@gmail.com
-Můj LinkedIn, kde se dozvíte i o mých dalších aktivitách z oblasti podnikání: https://www.linkedin.com/in/honzakovanda/
+Pokud vás napadá nějaká otázka, klidně mi napište na [kovandah@gmail.com](mailto:kovandah@gmail.com) nebo na [LinkedIn](https://www.linkedin.com/in/honzakovanda/), kde se dozvíte i o mých dalších aktivitách z oblasti podnikání.
