@@ -16,7 +16,7 @@ To, že budu muset pracovat, abych se měl líp, mě zprvu trochu vyplašilo. Vy
 
 Míst, kde můžete potkat vývojáře ve skutečném světě, je překvapivě mnoho. Ať jsem šel na jakoukoliv networkingovou akci, vždy se tam našel alespoň jeden. A díky tomu, že jsem o programování začal mluvit, se najednou začali objevovat i v řadách mých známých, u kterých jsem do té doby nevěděl, co vlastně dělají za práci. Srazy typu [Pyvo](https://pyvo.cz/), kde se organizovaně shlukují, jsem samozřejmě vymetl taky.
 
-???
+![Pyvo]({static}/images/IMG_20191016_210725.jpg)
 Autentická fotografie z mého prvního srazu Pyvo. Nerozuměl jsem tam tehdy nikomu a ničemu.
 
 ## Zpovídám 2 a půl programátora týdně a objevuji junior.guru
@@ -39,12 +39,12 @@ I když věřím, že dnes, po roce intenzivního psaní kódu, už by mě ti sa
 
 Nevadí. Já si poradím sám. Jsem samostatný. Ostatně byl jsem to já, kdo si ve školce jako první dokázal zavázat tkaničky bez pomoci úči. A tak nakupuji velkou zásobu mražených hranolek a na následujících 5 měsíců se zavírám před okolním světem. Po 5 měsících vylézám s hotovou aplikací a se zvýšeným množstvím podkožního tuku a rizikem srdečních chorob. Dokázal jsem to!
 
-???
+![Košťata musela ustoupit]({static}/images/20200420_112700.jpg)
 Košťata musela ustoupit a na téměř půl roku jsem vládl v naší komoře já (a zavírám se tam před ženou dodnes).
 
 Konečně mám hotovou aplikaci, za kterou jsem původně vyhodil oknem tolik peněz, že byste za to dojeli vlakem 2.500 krát z Prahy do Brna a zpět, a nebo koupili 16.700 pytlíků kečupových POM-BÄR. Konečně je má aplikace taková, jakou jsem ji vždy potřeboval a toužil mít. Konečně mohu okamžitě reagovat na požadavky zákazníků a provádět změny, a to zadarmo, jen za můj vlastní čas. Představuji vám [eshop.toptrika.cz](https://eshop.toptrika.cz/). Na oko jednoduchý, uvnitř však důmyslný systém :)
 
-???
+![Papírky]({static}/images/20201014_100729.jpg)
 Při vývoji aplikace jsem si oblíbil pravěkou metodu řízení projektů, tj. psát chaoticky úkoly na papírky.
 
 ## Práce si našla mě
