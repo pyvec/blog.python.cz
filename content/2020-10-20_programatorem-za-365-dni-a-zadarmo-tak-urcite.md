@@ -1,5 +1,5 @@
 Title: Programátorem za 365 dní a zadarmo? Tak určitě!
-Date: 2020-08-01
+Date: 2020-10-20
 Author: Honza Kovanda
 Gravatar: kovandah@gmail.com
 About: ???
