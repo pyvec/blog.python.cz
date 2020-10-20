@@ -2,7 +2,7 @@ Title: Programátorem za 365 dní a zadarmo? Tak určitě!
 Date: 2020-10-20
 Author: Honza Kovanda
 Gravatar: kovandah@gmail.com
-About: ???
+About: Už na střední škole založil firmu [Toptrika.cz](https://toptrika.cz/). Dnes mentoruje začínající podnikatele, přednáší a učí studenty na vysoké škole základy podnikání. Naučil se Python, aby si napsal aplikaci pro svou vlastní firmu. A natolik ho to chytlo, že u programování už zůstal.
 
 Být závislý na programátorech? To nechceš. Kdo má stejnou zkušenost s vlastním byznysovým projektem jako já, tak ví, že vývojářům musíte neustále sypat hromadu zlaťáků, a pokud je náhodou venku hezky, tak se termíny dodání jejich práce natahují úměrně k teplotě vody na koupalištích. Navíc jsem po 8 letech podnikání, kdy jsem se chtěl v důsledku krize nechat zaměstnat, zjistil, že pro zaměstnavatele nemá podnikatel téměř žádnou hodnotu. Podnikání je totiž takové abstraktní nic.
 
