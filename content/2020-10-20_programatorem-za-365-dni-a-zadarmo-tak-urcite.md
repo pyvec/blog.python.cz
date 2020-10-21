@@ -42,7 +42,7 @@ Nevadí. Já si poradím sám. Jsem samostatný. Ostatně byl jsem to já, kdo s
 ![Košťata musela ustoupit]({static}/images/20200420_112700.jpg)
 Košťata musela ustoupit a na téměř půl roku jsem vládl v naší komoře já (a zavírám se tam před ženou dodnes).
 
-Konečně mám hotovou aplikaci, za kterou jsem původně vyhodil oknem tolik peněz, že byste za to dojeli vlakem 2.500 krát z Prahy do Brna a zpět, a nebo koupili 16.700 pytlíků kečupových POM-BÄR. Konečně je má aplikace taková, jakou jsem ji vždy potřeboval a toužil mít. Konečně mohu okamžitě reagovat na požadavky zákazníků a provádět změny, a to zadarmo, jen za můj vlastní čas. Představuji vám [eshop.toptrika.cz](https://eshop.toptrika.cz/). Na oko jednoduchý, uvnitř však důmyslný systém :) Jelikož ale tiskneme trička hlavně na různé akce, tak nyní svádíme těžký boj s covidem a vypadá to, že asi budeme muset zavřít krám.
+Konečně mám hotovou aplikaci, za kterou jsem původně vyhodil oknem tolik peněz, že byste za to dojeli vlakem 2.500 krát z Prahy do Brna a zpět, a nebo koupili 16.700 pytlíků kečupových POM-BÄR. Konečně je má aplikace taková, jakou jsem ji vždy potřeboval a toužil mít. Konečně mohu okamžitě reagovat na požadavky zákazníků a provádět změny, a to zadarmo, jen za můj vlastní čas. Představuji vám [eshop.toptrika.cz](https://eshop.toptrika.cz/). Na oko jednoduchý, uvnitř však důmyslný systém :) Jelikož ale tiskneme trička převážně na různé akce, tak v současné době svádíme těžký boj s covidem a vypadá to, že možná budeme muset zavřít krám :(
 
 ![Papírky]({static}/images/20201014_100729.jpg)
 Při vývoji aplikace jsem si oblíbil pravěkou metodu řízení projektů, tj. psát chaoticky úkoly na papírky.
@@ -52,6 +52,14 @@ Při vývoji aplikace jsem si oblíbil pravěkou metodu řízení projektů, tj.
 Ačkoliv jsem se zrovna v tomto období, 8 měsíců od napsání prvního řádku kódu, do práce nijak nehrnul (byl jsem totiž dost zabraný do své aplikace), oslovil mě inzerát na Facebookové stránce [Pyonieri - Python SR & ČR](https://www.facebook.com/groups/pyonieri/) od malé firmy [CreatiWeb](https://creatiweb.cz/). A to zejména tím, že hledali juniorního programátora jen na 2 dny v týdnu. To je velmi vzácné. Vždy jsem se totiž setkával jen s tím, že začátečníky brali pouze na full-time nebo vůbec.
 
 Okamžitě odepisuji na inzerát, okamžitě jdu na pohovor a okamžitě jsem přijat. Dobrý dost! Ukázal jsem jim kód své aplikace Toptrika, ze kterého bylo patrné, že už jsem toho naprogramoval dost na to, než abych od programování zbaběle utekl. Dnes jsou tomu už 4 měsíce co ve firmě CreatiWeb pomáhám psát e-shop, a pod vedením dvou seniorních vývojářů se učím asi tak 10 krát rychleji než sám doma, a hlavně se učím psát kód kvalitně, což vás žádný tutorial na internetu nenaučí.
+
+## Co si myslím o programátorech dnes…
+
+Dnes už vím, že napsat pořádně aplikaci není hračka, protože jsem si to vyzkoušel na vlastní kůži. Získal jsem tím pokoru i respekt k programátorům a celé této profesi obecně. Takže až budete příště programátora kárat za to, proč mu změna toho blbého políčka trvala 6 hodin, dejte si bacha, aby vám jednu nelísknul.
+
+I tak ale nemohu tvůrcům aplikace, kterou jsem si nechal vytvořit, odpustit určité věci. Programátor zřejmě napsal čistý kód (to si netroufám hodnotit ani teď), ale asi nikdy nenakupoval přes internet. Logika a funkčnost našeho e-shopu byla katastrofa.
+
+Z toho plyne rčení: „Programátora raděj improvizovat nenech, sic na tom kalhoty tratit budeš.“ Vždy je nezbytné mít do puntíku přesné a opravdu velmi detailní zadání toho, co chcete vytvořit. Já měl zpracované celkem jasné zadání, ale netušil jsem, že je potřeba myslet doslova na každý puntík.
 
 ## Moudro na závěr
 
