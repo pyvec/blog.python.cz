@@ -1,8 +1,8 @@
-Title: TBD
-Date: 2020-04-14 08:08:08
+Title: PyLadies to začalo, Kanadou to (ne)skončilo
+Date: 2020-10-21 08:08:08
 Author: Barbora Kacerovská
 Twitter: BaruZKanady
-Gravatar: baruzkanady@example.com
+Gravatar: barbora.kacerovska@gmail.com
 About: „Baru z Kanady“, jak si říká na Twitteru, je vítězkou Lady Business Moravskoslezského kraje v roce 2019 v kategorii Výjimečná studentka ([video](https://www.youtube.com/watch?v=JkszlXTrHOs)).
 
 
@@ -31,3 +31,5 @@ Té šance, kterou mi dali, a jejich přístupu jsem si vážila natolik, že js
 Na stáži jsem původně měla být jen čtyři měsíce, ty mi ale prodloužily na osm a pak, když jsem odcházela, jsem dostala nabídku hlavního pracovního poměru. Tu jsem bohužel musela odmítnout, nicméně větší ocenění mojí práce se mi nemohlo dostat. Odcházela jsem se slzami v očích.
 
 Když se teď podívám zpátky, vidím, jak absurdní byl strach, že pro ně nejsem dost dobrá. Sama na sobě jsem poznala, jak výkonný je člověk, který je správně motivován a kterého jeho práce baví. Často bývá ochota učit se více než umět. Doufám, že si to budu příště, až zase budu před pohovorem stresovat, pamatovat.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JkszlXTrHOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
