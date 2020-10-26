@@ -1,5 +1,5 @@
 Title: PyLadies to začalo, Kanadou to (ne)skončilo
-Date: 2020-10-21 08:08:08
+Date: 2020-10-26 08:08:08
 Author: Barbora Kacerovská
 Twitter: BaruZKanady
 Gravatar: barbora.kacerovska@gmail.com
