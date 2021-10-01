@@ -10,7 +10,7 @@ Několikrát jsme se více či méně úspěšně sešli v [prostorech HUB 2.0](
 
 Rozhodli jsme se proto poohlédnout po něčem trochu jiném – po něčem kulturnějším, kde najdeme občerstvení i slušné zázemí pro přednášky. Konkrétně pro zářijové Pyvo padla volba na plzeňskou [Moving Station](https://www.johancentrum.cz/moving-station-ag3/nabidka-prostor-a969), což je velice vkusný prostor, ve kterém se děje spousta kulturních akcí / divadel / koncertů / výstav / atd. Domluva se naštěstí zdařila a nakonec jsme měli možnost tam Pyvo uspořádat.
 
-![IMG_20210908_183315913_PORTRAIT](https://user-images.githubusercontent.com/4974343/134723450-caee5268-b7de-4ab0-b84c-13213cc065bc.jpg)
+![Prostor to byl vskutku na úrovni]({static}/images/pyvo-plzen-2021-09.jpg)
 
 Za sebe musím říct, že ten prostor má _genius loci_. Naše setkání to pozvedlo na úplně jinou úroveň – měli jsme velice hezký a kvalitní prostor pro přednášky oddělený od prostoru pro konzumaci a networking. Bohužel, našlo se i několik věcí, které by bylo třeba doladit: např. zážitek ze streamingu a zvuk přednášek na záznamu si úplně nesedl s novou akustikou prostoru. Také nabídka občerstvení neobsahovala nic většího k jídlu, na což jsme nebyli připraveni.
 
