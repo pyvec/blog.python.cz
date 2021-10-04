@@ -2,8 +2,7 @@ name: Deploy blog
 
 on:
   push:
-    branches:
-      - master
+  pull_request:
 
 jobs:
   deploy:
@@ -20,5 +19,6 @@ jobs:
         python -m pip install -r requirements.txt
     - name: Lint
       run: blog lint
-    - name: Deploy
+    - if: ${{ github.ref == 'refs/heads/master' }}
+      name: Deploy
       run: blog deploy
