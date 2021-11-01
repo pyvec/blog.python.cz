@@ -25,7 +25,7 @@ if PRODUCTION:  # NOQA
 
 # Theming
 DISQUS_SITENAME = 'blog-python-cz'
-GOOGLE_ANALYTICS = 'UA-1316071-20'
+SIMPLE_ANALYTICS = True
 GOOGLE_FONTS = ['Arbutus Slab']
 
 
