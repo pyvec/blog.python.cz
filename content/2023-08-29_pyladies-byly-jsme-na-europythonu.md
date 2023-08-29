@@ -1,12 +1,12 @@
-Title: PyLadies - Byly jsme na EuroPythonu
+Title: PyLadies & Pyvo - Byly jsme na EuroPythonu
 Date: 2023-08-29 18:00:00
-Author: Karolina Surma
+Author: Karolina Surma, Mia Bajic
 
 Do Prahy letos poprvé doputovala konference EuroPython.
 Mezi 17. 7. a 23. 7. 2023 jste tam mohli potkat velkou část české Python komunity.
 EuroPython nám poskytl jak možnost posílit vazby v naší komunitě, tak rozšířit sítě do mezinárodních vod.
 
-S PyLadies jsme to nemohly zmeškat!
+S PyLadies a s Pyvem jsme to nemohly zmeškat!
 
 ![samolepky_pyladies]({static}/images/samolepky_pyladies_2023.jpg)
 
@@ -34,8 +34,11 @@ Někteří s námi koučovali vůbec poprvé, vítáme v komunitě :)
 ### PyLadies Social Event
 
 **21. 7. 2023**, tentokrát na zakončení konference, jsme pozvaly všechny PyLadies a příznivce na [večerní společenský event](https://ep2023.europython.eu/pyladies-social-event).
-Do Hospůdky na Hradbách dorazilo přes 80 účastnic a účastníků konference. 
+Do Hospůdky na Hradbách dorazilo přes 80 účastnic a účastníků konference.
 Akce sklidila velký úspěch.
+
+## Pyvo
+V Praze už přes 10 let každou třetí středu v měsíci probíhá pražské Pyvo a EuroPython se konalo přesně v tomto týdnu. Ve spolupráci se spolupořadateli EuroPythonu jsme naplánovaly společné Pyvo, abychom daly naší místní komunitě příležitost pokecat s účastníky EuroPythonu. Na Pyvo přišlo kolem 150 lidí a bylo to zatím největší a organizačně nejnáročnější Pyvo, co kdy bylo. Jsem velmi rády, že se nám podařilo vytvořit skvělý program a dát místní komunitě příležitost potkat se s lidmi z celého světa a zároveň jsme udělaly skvělé promo české komunity pro lidi ze zahraničí.
 
 ## OSS stůl
 
