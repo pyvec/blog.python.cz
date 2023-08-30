@@ -38,7 +38,10 @@ Do Hospůdky na Hradbách dorazilo přes 80 účastnic a účastníků konferenc
 Akce sklidila velký úspěch.
 
 ## Pyvo
-V Praze už přes 10 let každou třetí středu v měsíci probíhá pražské Pyvo a EuroPython se konalo přesně v tomto týdnu. Ve spolupráci se spolupořadateli EuroPythonu jsme naplánovaly společné Pyvo, abychom daly naší místní komunitě příležitost pokecat s účastníky EuroPythonu. Na Pyvo přišlo kolem 150 lidí a bylo to zatím největší a organizačně nejnáročnější Pyvo, co kdy bylo. Jsem velmi rády, že se nám podařilo vytvořit skvělý program a dát místní komunitě příležitost potkat se s lidmi z celého světa a zároveň jsme udělaly skvělé promo české komunity pro lidi ze zahraničí.
+V Praze už přes 10 let každou třetí středu v měsíci probíhá pražské Pyvo a EuroPython se konal přesně v tomto týdnu.
+Ve spolupráci se pořadateli EuroPythonu jsme naplánovaly společné Pyvo, abychom daly naší místní komunitě příležitost pokecat s účastníky EuroPythonu.
+Na Pyvo přišlo kolem 150 lidí a bylo to zatím největší a organizačně nejnáročnější Pyvo, co jsme v našich dějinách organizovaly.
+Jsem velmi rády, že se nám podařilo vytvořit skvělý program a dát místní komunitě příležitost potkat se s lidmi z celého světa, a zároveň jsme udělaly skvělé promo české komunity pro lidi ze zahraničí.
 
 ## OSS stůl
 
