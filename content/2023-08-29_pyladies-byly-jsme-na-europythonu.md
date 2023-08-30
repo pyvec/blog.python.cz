@@ -1,10 +1,10 @@
-Title: PyLadies & Pyvo - Byly jsme na EuroPythonu
+Title: PyLadies & Pyvo – Byly jsme na EuroPythonu
 Date: 2023-08-29 18:00:00
 Author: Karolina Surma, Mia Bajic
 
 Do Prahy letos poprvé doputovala konference EuroPython.
 Mezi 17. 7. a 23. 7. 2023 jste tam mohli potkat velkou část české Python komunity.
-EuroPython nám poskytl jak možnost posílit vazby v naší komunitě, tak rozšířit sítě do mezinárodních vod.
+EuroPython nám poskytl jak možnost posílit vazby v naší komunitě, tak šanci rozšířit sítě do mezinárodních vod.
 
 S PyLadies a s Pyvem jsme to nemohly zmeškat!
 
@@ -16,7 +16,7 @@ S PyLadies a s Pyvem jsme to nemohly zmeškat!
 S nápadem, že oslovíme organizátory EuroPythonu, přišla **Monika Bláhová** z brněnských PyLadies.
 Vděčíme jí za rozhýbání a finální rozsah prezentace PyLadies na EuroPythonu.
 Původně byl v plánu pouze večerní sraz PyLadies a příznivců, z něhož se postupně vyklubaly další aktivity.
-Realizace dopadla na výbornou díky nasazení, jaké do příprav vložila **Mia Bajić**. Díky!
+Realizace dopadla na výbornou díky nasazení, které do příprav vložila **Mia Bajić**. Díky!
 
 ![aktivity_Python_komunity_na_EuPy]({static}/images/czech_python_at_eupy.jpg)
 
@@ -24,10 +24,10 @@ Realizace dopadla na výbornou díky nasazení, jaké do příprav vložila **Mi
 ### Hadí workshop
 
 **17. 7. 2023**, hned na začátku konference, se konal celodenní [Hadí workshop](https://ep2023.europython.eu/pyladies-workshop)
-(zmiňován již zde na blogu [v roce 2019](https://blog.python.cz/pyladies-snake-report) a [2020](https://blog.python.cz/Hadi-workshop-v-Brne]).
+(zmiňován již zde na blogu [v roce 2019](https://blog.python.cz/pyladies-snake-report) a [2020](https://blog.python.cz/Hadi-workshop-v-Brne])).
 Ovšem letos to bylo poprvé **anglicky**.
 Workshop opět nachystal a bravurně přednesl **Petr Viktorin** s výpomocí party **kouček a koučů** z Prahy, Plzně a Brna.
-Někteří s námi koučovali vůbec poprvé, vítáme v komunitě :)
+Někteří s námi koučovali vůbec poprvé, vítáme je v komunitě :)
 
 ![snake_workshop]({static}/images/snake-workshop-eupy-2023.jpg)
 
@@ -39,9 +39,10 @@ Akce sklidila velký úspěch.
 
 ## Pyvo
 V Praze už přes 10 let každou třetí středu v měsíci probíhá pražské Pyvo a EuroPython se konal přesně v tomto týdnu.
-Ve spolupráci se pořadateli EuroPythonu jsme naplánovaly společné Pyvo, abychom daly naší místní komunitě příležitost pokecat s účastníky EuroPythonu.
-Na Pyvo přišlo kolem 150 lidí a bylo to zatím největší a organizačně nejnáročnější Pyvo, co jsme v našich dějinách organizovaly.
-Jsem velmi rády, že se nám podařilo vytvořit skvělý program a dát místní komunitě příležitost potkat se s lidmi z celého světa, a zároveň jsme udělaly skvělé promo české komunity pro lidi ze zahraničí.
+Ve spolupráci s pořadateli EuroPythonu jsme naplánovaly společné Pyvo, abychom daly naší místní komunitě příležitost pokecat s účastníky EuroPythonu.
+Na Pyvo přišlo kolem 150 lidí a bylo to zatím největší a organizačně nejnáročnější Pyvo, jaké jsme v našich dějinách organizovaly.
+Jsme velmi rády, že se nám podařilo vytvořit skvělý program a dát místní komunitě příležitost potkat se s lidmi z celého světa.
+Zároveň jsme udělaly skvělé promo české komunity pro lidi ze zahraničí.
 
 ## OSS stůl
 
@@ -54,4 +55,4 @@ Dohodly jsme se na společné propagaci PyLadies, meetupů Pyvo, PyData a letoš
 
 Díky grantu, který PyLadies udělil Pyvec, nezisková organizace naší komunity, jsme mohly nabídnout návštěvnicím a návštěvníkům kvalitní samolepky s naším logem ve čtyřech barvách.
 
-Opět nás najdete na konferenci PyCon CZ, samolepky využíjeme také na lokálních eventech a všude, kde se budou konat aktivity pod naší hlavičkou.
+Příště nás najdete na konferenci PyCon CZ 2023. Samolepky využíjeme také na lokálních eventech a všude, kde se budou konat aktivity pod naší hlavičkou.
