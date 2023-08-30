@@ -13,8 +13,8 @@ S PyLadies a s Pyvem jsme to nemohly zmeškat!
 
 ## Aktivity PyLadies
 
-S nápadem, že oslovíme organizátory EuroPythonu přišla **Monika Bláhová** z brněnských PyLadies.
-Vděčíme jí rozhýbání a finální rozsah prezentace PyLadies na EuroPythonu.
+S nápadem, že oslovíme organizátory EuroPythonu, přišla **Monika Bláhová** z brněnských PyLadies.
+Vděčíme jí za rozhýbání a finální rozsah prezentace PyLadies na EuroPythonu.
 Původně byl v plánu pouze večerní sraz PyLadies a příznivců, z něhož se postupně vyklubaly další aktivity.
 Realizace dopadla na výbornou díky nasazení, jaké do příprav vložila **Mia Bajić**. Díky!
 
@@ -42,8 +42,8 @@ V Praze už přes 10 let každou třetí středu v měsíci probíhá pražské 
 
 ## OSS stůl
 
-Česká komunita byla pozvaná k vystavení stolu v prostoru pro projekty Open Source.
-Dohodli jsme se na společné propagaci PyLadies, meetupů Pyvo, PyData a letošní edice konference [PyCon CZ](https://cz.pycon.org/2023/) (již od 15. září!).
+Česká komunita byla pozvaná k vystavení stolu v prostoru pro Open Source projekty.
+Dohodly jsme se na společné propagaci PyLadies, meetupů Pyvo, PyData a letošní edice konference [PyCon CZ](https://cz.pycon.org/2023/) (již od 15. září!).
 
 ![OSS_stul_Python_komunity]({static}/images/oss_table_at_eupy_2023.jpg)
 
@@ -51,4 +51,4 @@ Dohodli jsme se na společné propagaci PyLadies, meetupů Pyvo, PyData a letoš
 
 Díky grantu, který PyLadies udělil Pyvec, nezisková organizace naší komunity, jsme mohly nabídnout návštěvnicím a návštěvníkům kvalitní samolepky s naším logem ve čtyřech barvách.
 
-Budeme opět přítomné na konferenci PyCon CZ, samolepky využíjeme také na lokálních eventech všude, kde se budou konat aktivity pod naší hlavičkou.
+Opět nás najdete na konferenci PyCon CZ, samolepky využíjeme také na lokálních eventech a všude, kde se budou konat aktivity pod naší hlavičkou.
