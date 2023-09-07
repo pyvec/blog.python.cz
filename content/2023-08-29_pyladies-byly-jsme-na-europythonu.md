@@ -51,8 +51,10 @@ Dohodly jsme se na společné propagaci PyLadies, meetupů Pyvo, PyData a letoš
 
 ![OSS_stul_Python_komunity]({static}/images/oss_table_at_eupy_2023.jpg)
 
-## Poděkování Pyvci
+## Poděkování 
 
-Díky grantu, který PyLadies udělil Pyvec, nezisková organizace naší komunity, jsme mohly nabídnout návštěvnicím a návštěvníkům kvalitní samolepky s naším logem ve čtyřech barvách.
+Díky grantu, který PyLadies udělil Pyvec, nezisková organizace naší komunity, jsme mohly nabídnout návštěvnicím a návštěvníkům kvalitní samolepky s naším logem ve čtyřech barvách. Díky!
+
+Rády bychom také poděkovaly členům [EuroPython Society Boardu](https://www.europython-society.org/) za pozvánku na konferenci, volné lístky pro členy naší komunity a za skvělou spolupráci! Díky!
 
 Příště nás najdete na konferenci PyCon CZ 23. Samolepky využíjeme také na lokálních eventech a všude, kde se budou konat aktivity pod naší hlavičkou.
