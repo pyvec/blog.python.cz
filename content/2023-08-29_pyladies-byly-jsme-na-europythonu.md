@@ -55,4 +55,4 @@ Dohodly jsme se na společné propagaci PyLadies, meetupů Pyvo, PyData a letoš
 
 Díky grantu, který PyLadies udělil Pyvec, nezisková organizace naší komunity, jsme mohly nabídnout návštěvnicím a návštěvníkům kvalitní samolepky s naším logem ve čtyřech barvách.
 
-Příště nás najdete na konferenci PyCon CZ 2023. Samolepky využíjeme také na lokálních eventech a všude, kde se budou konat aktivity pod naší hlavičkou.
+Příště nás najdete na konferenci PyCon CZ 23. Samolepky využíjeme také na lokálních eventech a všude, kde se budou konat aktivity pod naší hlavičkou.
