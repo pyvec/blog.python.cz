@@ -53,7 +53,7 @@ Dohodly jsme se na společné propagaci PyLadies, meetupů Pyvo, PyData a letoš
 
 ## Poděkování 
 
-Díky grantu, který PyLadies udělil Pyvec, nezisková organizace naší komunity, jsme mohly nabídnout návštěvnicím a návštěvníkům kvalitní samolepky s naším logem ve čtyřech barvách. Díky!
+Díky [grantu](https://docs.pyvec.org/operations/support-money.html), který PyLadies udělil Pyvec, nezisková organizace naší komunity, jsme mohly nabídnout návštěvnicím a návštěvníkům kvalitní samolepky s naším logem ve čtyřech barvách. Díky!
 
 Rády bychom také poděkovaly členům [EuroPython Society Boardu](https://www.europython-society.org/) za pozvánku na konferenci, volné lístky pro členy naší komunity a za skvělou spolupráci! Díky!
 
