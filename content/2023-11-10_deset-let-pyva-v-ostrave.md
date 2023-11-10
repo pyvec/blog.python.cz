@@ -22,7 +22,7 @@ Vlastně ani nevím, jestli jsem se v té době chtěl více věnovat Pythonu a 
 
 Od té doby to šlo někdy nahoru a někdy dolů. Několikrát jsem měl chuť toho nechat a párkrát jsme si dali kratší nebo delší pauzu, ale vydrželi jsme to celou dekádu. Jak vlastně vypadalo těch deset let v číslech?
 
-Za deset let jsme zorganizovali celkem 106 srazů. Nejdéle jsme to bez přestávky vydrželi 32 měsíců od září 2016 do dubna 2019. Naopak nejdelší pauzu nám způsobil Covid a trvala pět měsíců. Protože se Pyvo konalo v prvním týdnu každého měsíce, nejčastěji jsme vynechávali v květnu a lednu kvůli státním svátkům. Nejdále od Ostravy jsme Pyvo vyvezli až na Ostravici, kde se sraz konal v Beskydském pivovárku. Celkem jsme Pyvo uspořádali na třinácti různých místech ve čtyřech městech. Sport club, kde se konalo druhé Pyvo se za tu dobu stihl přetvořit na Palouk, kde se konají Pyva dnes.
+Za deset let jsme zorganizovali celkem 106 srazů. Nejdéle jsme to bez přestávky vydrželi 32 měsíců od září 2016 do dubna 2019. Naopak nejdelší pauzu nám způsobil Covid a trvala pět měsíců. Protože se Pyvo konalo v prvním týdnu každého měsíce, nejčastěji jsme vynechávali v květnu a lednu kvůli státním svátkům. Nejdále od Ostravy jsme Pyvo vyvezli až na Ostravici, kde se sraz konal v Beskydském pivovárku. Celkem jsme Pyvo uspořádali na třinácti různých místech ve čtyřech městech. Sport club, kde se konalo druhé Pyvo, se za tu dobu stihl přetvořit na Palouk, kde se konají Pyva dnes.
 
 ## Retrospektiva
 
