@@ -26,7 +26,7 @@ Nejprve jsme na [Pyvu v Ostravě](https://pyvo.cz/ostrava-pyvo/) udělali o naš
 
 A světe div se, našlo se dost lidí ochotných věnovat část svého volného času o víkendu dobré věci. Den D nastal v neděli 12. ledna v 9 ráno. Sešli jsme se v úctyhodném počtu patnácti dobrovolníků v prostorách GALILEO SCHOOL, usedli do lavic a hned se vrhli do práce. Mladší z nás byli v dobře známém prostředí, ti starší se do školních lavic vrátili po mnoha letech. Někteří montovali, jiní instalovali a do hodiny nabrala celá práce nevídaných obrátek. Notebooky na hardwarovou část postupně docházely a instalaci se dařilo dělat na mnoha strojích paralelně.
 
-![ukazka ve skole]({static}/images/ukazka_ve_skole.jpg)
+![ukázka ve škole]({static}/images/ukazka_ve_skole.jpg)
 
 ![prace ve skole]({static}/images/prace_ve_skole.jpg)
 
