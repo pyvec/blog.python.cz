@@ -12,7 +12,7 @@ V moderní době výkonného a kvalitního hardware není výjimkou, když telef
 
 Nejiná byla situace i na GALILEO SCHOOL - bilingvní mateřské škole a základní škole, s.r.o. ve Frýdku-Místku, kde měli k dispozici téměř čtyři desítky skoro deset let starých chromebooků Thinkpad. Jejich baterie byla stále ve skvělé kondici, procesor a další komponenty na kancelářskou práci dostačující, ale v zastaralém prohlížeči už moderní kancelářské balíky odmítly fungovat. Místní učitelku a absolventku začátečnického kurzu programování v komunitě PyLadies Ostrava Zuzku Grosmanovou napadlo, že tento problém musí mít nějaké řešení, a tak se ozvala ostravské komunitě a započalo hledání řešení.
 
-V tuto chvíli by se mohlo zdát, že reinstalaci operačního systému nebude nic bránit a nebude tedy ani o čem referovat. Opak je pravdou. Chromebooky mají firmware na základní desce chráněn proti přepisu a nelze jej jednoduše nahradit. Bez nového fimware ale nejde provést reinstalaci operačního systému, jak jsme zvyklí z obyčejných počítačů.
+V tuto chvíli by se mohlo zdát, že reinstalaci operačního systému nebude nic bránit, a nebude tedy ani o čem referovat. Opak je pravdou. Chromebooky mají firmware na základní desce chráněn proti přepisu, a proto jej nelze jednoduše nahradit. Bez nového fimware ale nejde provést reinstalaci operačního systému, jak jsme zvyklí z obyčejných počítačů.
 
 O nějakých pár hodin hledání na internetu a mnoha vyšroubovaných šroubcích později jsme se dostali do stavu, kdy šroubek zajišťující hardwarovou ochranu firmwaru proti přepisu konečně opustil své místo na základní desce a nic nebránilo aktualizaci firmwaru a reinstalaci operačního systému.
 
