@@ -24,7 +24,7 @@ Nejprve jsme na [Pyvu v Ostravě](https://pyvo.cz/ostrava-pyvo/) udělali o naš
 
 ![chromebook na Pyvu]({static}/images/pyvo.jpg)
 
-A světe div se, našlo se dost lidí ochotných věnovat část svého volného času o víkendu dobré věci. Den D nastal v neděli 12. ledna v 9 ráno. Sešli jsme se v úctyhodném počtu patnácti dobrovolníků v prostorách GALILEO SCHOOL, usedli do lavic a hned se vrhli do práce. Mladší z nás byli v dobře známém prostředí, ti starší se do školních lavic vrátili po mnoha letech. Někteří montovali, jiní instalovali a do hodiny nabrala celá práce nevídaných obrátek. Notebooky na hardwarovou část postupně docházely a instalaci se dařilo dělat na mnoha strojích paralelně.
+A světe div se, našlo se dost lidí ochotných věnovat část svého volného času o víkendu dobré věci. Den D nastal v neděli 12. ledna 2024 v 9 ráno. Sešli jsme se v úctyhodném počtu patnácti dobrovolníků v prostorách GALILEO SCHOOL, usedli do lavic a hned se vrhli do práce. Mladší z nás byli v dobře známém prostředí, ti starší se do školních lavic vrátili po mnoha letech. Někteří montovali, jiní instalovali a do hodiny nabrala celá práce nevídaných obrátek. Notebooky na hardwarovou část postupně docházely a instalaci se dařilo dělat na mnoha strojích paralelně.
 
 ![ukázka ve škole]({static}/images/ukazka_ve_skole.jpg)
 
@@ -34,7 +34,7 @@ Předem připravený návod na reinstalaci, ochota si maximálně pomáhat, dobr
 
 ![práce ve škole]({static}/images/prace_ve_skole_fisheye.jpg)
 
-Chvílemi se zdálo, že ani nebude třeba řešit oběd. Pracovníci bohatě předčili naše očekávání a krátce po jedné hodině odpoledne už skoro nebylo co dělat. Až na pár strojů, které budou ještě vyžadovat speciální péči se celá akce vydařila na výbornou a co bylo zbytečným těžítkem ve skříni už opět slouží žákům.
+Chvílemi se zdálo, že ani nebude třeba řešit oběd. Pracovníci bohatě předčili naše očekávání a krátce po jedné hodině odpoledne už skoro nebylo co dělat. Až na pár strojů, které budou ještě vyžadovat speciální péči, se celá akce vydařila na výbornou a co bylo zbytečným těžítkem ve skříni, už opět slouží žákům.
 
 ![plnící se přepravky]({static}/images/plnici_se_bedny.jpg)
 
