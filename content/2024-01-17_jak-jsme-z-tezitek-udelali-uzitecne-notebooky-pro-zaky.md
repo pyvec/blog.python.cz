@@ -28,7 +28,7 @@ A světe div se, našlo se dost lidí ochotných věnovat část svého volného
 
 ![ukázka ve škole]({static}/images/ukazka_ve_skole.jpg)
 
-![prace ve skole]({static}/images/prace_ve_skole.jpg)
+![práce ve škole]({static}/images/prace_ve_skole.jpg)
 
 Předem připravený návod na reinstalaci, ochota si maximálně pomáhat, dobrá káva a skvělá organizace celé akce udělaly z různorodé skupinky lidí, z nichž se někteří viděli úplně poprvé, dobře organizovanou pracovní sílu s jasným cílem, který se dařilo velice rychle plnit.
 
