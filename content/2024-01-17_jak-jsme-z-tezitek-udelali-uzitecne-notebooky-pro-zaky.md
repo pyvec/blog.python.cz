@@ -32,7 +32,7 @@ A světe div se, našlo se dost lidí ochotných věnovat část svého volného
 
 Předem připravený návod na reinstalaci, ochota si maximálně pomáhat, dobrá káva a skvělá organizace celé akce udělaly z různorodé skupinky lidí, z nichž se někteří viděli úplně poprvé, dobře organizovanou pracovní sílu s jasným cílem, který se dařilo velice rychle plnit.
 
-![prace ve skole]({static}/images/prace_ve_skole_fisheye.jpg)
+![práce ve škole]({static}/images/prace_ve_skole_fisheye.jpg)
 
 Chvílemi se zdálo, že ani nebude třeba řešit oběd. Pracovníci bohatě předčili naše očekávání a krátce po jedné hodině odpoledne už skoro nebylo co dělat. Až na pár strojů, které budou ještě vyžadovat speciální péči se celá akce vydařila na výbornou a co bylo zbytečným těžítkem ve skříni už opět slouží žákům.
 
