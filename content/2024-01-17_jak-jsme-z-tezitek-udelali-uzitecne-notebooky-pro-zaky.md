@@ -36,6 +36,6 @@ Předem připravený návod na reinstalaci, ochota si maximálně pomáhat, dobr
 
 Chvílemi se zdálo, že ani nebude třeba řešit oběd. Pracovníci bohatě předčili naše očekávání a krátce po jedné hodině odpoledne už skoro nebylo co dělat. Až na pár strojů, které budou ještě vyžadovat speciální péči se celá akce vydařila na výbornou a co bylo zbytečným těžítkem ve skříni už opět slouží žákům.
 
-![plnici se prepravky]({static}/images/plnici_se_bedny.jpg)
+![plnící se přepravky]({static}/images/plnici_se_bedny.jpg)
 
 Poděkování patří všem, kteří neváhali a zapojili se do prospěšné činnosti. Věřím, že jsme si z toho všichni odnesli nejen dobrý pocit.
