@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+        <title>PyLadies Snake Workshop - Python v ČR bloguje</title>
+
+            <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css">
+            <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arbutus+Slab:400,700&amp;subset=latin,latin-ext">
+
+        <link rel="stylesheet" href="https://blog.python.cz/theme/css/code.css">
+        <link rel="stylesheet" href="https://blog.python.cz/theme/css/main.css">
+            <link rel="stylesheet" href="https://blog.python.cz/theme/css/site.css">
+
+                <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje - všechny články" href="https://blog.python.cz/feed.xml">
+                <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje - všechny komentáře" href="http://blog-python-cz.disqus.com/latest.rss">
+
+        <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje – komentáře ke článku PyLadies Snake Workshop" href="http://blog-python-cz.disqus.com/pyladies_snake_report/latest.rss">
+
+        <link rel="shortcut icon" type="image/x-icon" href="https://blog.python.cz/favicon.ico">
+
+    <meta property="og:title" content="PyLadies Snake Workshop - Python v ČR bloguje">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="og:description" content="PyLadies Snake Workshop - Python v ČR bloguje">
+        <meta property="og:image" content="https://blog.python.cz/images/snake2019-20190202_084911.jpg">
+    </head>
+    <body>
+        <div class="container article">
+<div class="site-navigation">
+    <a href="https://blog.python.cz" class="btn btn-primary">
+        <i class="fa fa-home"></i> Python v ČR bloguje
+    </a>
+</div>
+
+<div class="article-container">
+    <div class="header">
+        <h1>PyLadies Snake Workshop</h1>
+        <p class="supressed">
+            <time datetime="2019-02-12T00:00:00+01:00" pubdate>02/12/19</time>
+            <br>
+            <a href="#about">Petr Viktorin</a>
+        </p>
+    </div>
+
+    <div class="content">
+        <div><blockquote>
+<p>Další příspěvek v angličtině!
+Píšu to pro širší publikum než pro naše obvyklé čtenáře (článek nakonec vyšel
+i na blogu <a href="https://community.redhat.com/blog/2019/02/building-snakes-to-learn-code/">community.redhat.com</a>).
+A nechce se mi to překládat :)</p>
+</blockquote>
+<p>On Saturday, February 2, PyLadies Brno organized a “Snake workshop”.</p>
+<p>Let me first write a bit about the overall concept.
+For info about this specific event, jump to “The Saturday” below.</p>
+<h2 id="pyladies-cz-beginners-courses">PyLadies CZ Beginners' courses<small class="permalink"><a href="#pyladies-cz-beginners-courses" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p><a href="https://pyladies.cz/">PyLadies CZ</a> is an informal group of people that (among other things) organize
+3-month Python courses for women (mostly beginners).
+These courses have been going on for about 5 years in Brno, and have heavily
+influenced the workshop, so let me write a bit on how they're organized.</p>
+<p>The <em>organizers</em> are alumni of past courses – the very people that want to
+learn make the courses happen possible.
+They coordinate sign-ups, make sure they have a room with internet access,
+respond to questions, and so on.</p>
+<p>The <em>lecturer</em> knows the material deeply and comes to teach.
+Often, this is done by external people – often it's my role,
+and I'm not a PyLady :)
+Thanks to the organizers, the lecturer doesn't need to deal with logistics,
+registration or catering, and can focus on transferring knowledge.</p>
+<p>And then there are <em>coaches</em>, something like teaching assistants – people who
+help attendees with individual problems.
+These can be experienced programmers, or people who have gone through
+the last semester's course and are just a bit ahead.
+Most of what the coaches do is trivial: finding mismatched parentheses,
+files saved in wrong directories (or not saved at all), or typos.
+Since it's perfectly OK for a coach to not know something (they can always
+ask someone more experienced), this is a great opportunity for alumni to
+see how much they learned since <em>they</em> were complete beginners.
+And since the role needs no preparation, it's a great way for anyone to give
+a few hours back to the community.</p>
+<p>The whole thing is free for attendees, volunteer-organized, and budget-less
+(companies are happy to provide a venue with internet, and while there are
+minor expenses like sticky notes or candy for prizes, they usually aren't
+worth the paperwork to get expensed).
+It's also fully open – teaching materials are <a href="https://naucse.python.cz/course/pyladies/">available</a> to anyone to go
+through or adapt.
+This semester, PyLadies CZ are planning to run 7 forks of the beginners' course
+in 4 cities (see <a href="https://pyladies.cz/">pyladies.cz</a>).
+Organization in each city is relatively independent.</p>
+<figure class="figure"><a href="https://blog.python.cz/images/snake2019-20190202_084911.jpg" target="_blank" title="Beginner PyLadies on the workshop, with coaches in the back"><img alt="Beginner PyLadies on the workshop, with coaches in the back" src="https://blog.python.cz/images/snake2019-20190202_084911.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<h2 id="the-snake-workshop">The Snake workshop<small class="permalink"><a href="#the-snake-workshop" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p>The full-day event we had on Saturday is a relatively new addition to the
+“curriculum”.
+It's modeled after the very successful <a href="https://djangogirls.org/">Django Girls</a> workshops, where attendees
+who haven't programmed before build a web application (a blog) in just one day.
+The Snake workshop has beginners make a <em>game</em> (<a href="https://en.wikipedia.org/wiki/Snake_(video_game_genre)">Snake</a>) in just one day.</p>
+<p>Similarly to Django Girls workshops, the Snake workshop targets complete
+beginners – prerequisites are on the level of installing Python, unzipping
+an archive or sending an e-mail.</p>
+<p>Unlike Django Girls, the Snake workshop tries to make things easier for
+everyone: organizers, teachers, and attendees. Specifically:</p>
+<ul>
+<li>There are less technologies to learn: rather than Python, HTML, CSS and
+  databases, there's Python and a bit of graphics.</li>
+<li>With a single lecturer rather than small coach-led groups, it's not
+  a problem if a coach doesn't show up.
+  Also, the coaches can be relative beginners.
+  (This format does introduce a single point of failure, though.)</li>
+</ul>
+<p>It's still impossible to learn (and remember) programming in a single day,
+so the workshop is positioned as a “pilot episode” for a regular 3-month
+course.
+As a “pilot”, the workshop should serve these purposes:</p>
+<ul>
+<li>Give people an overview of what learning programming looks like – hopefully,
+  the message is that it's fun and rewarding, but that it will require lots
+  of time.</li>
+<li>Filter out people who'd drop out after the first few lessons of the course.</li>
+<li>Give an overview of Python's the basic data types and building blocks,
+  which should be helpful because the 3-month course is “bottom-up” (introduces
+  elementary concepts and builds on them), so the “big picture” only reveals
+  itself near the end.</li>
+</ul>
+<figure class="figure"><a href="https://blog.python.cz/images/snake2019-20190202_152819.jpg" target="_blank" title="See the coaches coaching!"><img alt="See the coaches coaching!" src="https://blog.python.cz/images/snake2019-20190202_152819.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<h2 id="the-saturday">The Saturday<small class="permalink"><a href="#the-saturday" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p>The last instance of the Snake workshop happened on Saturday, February 2nd.
+This was the 4th run so far (after the first trial for PyLadies in
+Hradec Králové in March 2018, one for PyLadies Brno in September
+2018, and one open for anyone in October 2018).</p>
+<p>For this workshop, <a href="https://www.redhat.com/en/global/czech-republic">Red Hat</a> provided the venue (Plutonium &amp; Neptunium meeting
+rooms in the TPB-C office) and food (of which there was a lot; thank you!).</p>
+<p>I was the lecturer and I handled the Red Hat sponsorship.</p>
+<p>We had an almost full house – more than 39 attendees plus 8
+coaches/organizers.
+(The listed capacity of the rooms is 40, but we fit comfortably.)</p>
+<p>We spent the morning (well, until 14:00) explaining basic concepts (numbers,
+expressions, strings, functions, conditions, lists, dicts, imports, loops, …)
+and the afternoon with the game.
+Based on the feedback to date, everyone enjoyed the show.
+There were smiles throughout; the coaches were kind and helpful, and I'd say
+the attendees learned as much as they could in a day.</p>
+<figure class="figure"><a href="https://blog.python.cz/images/snake2019-20190202_162002.jpg" target="_blank" title="The importance of good ol' pen &amp; paper"><img alt="The importance of good ol' pen &amp; paper" src="https://blog.python.cz/images/snake2019-20190202_162002.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<p>Of course, nothing is perfect – and there's a lot to improve for next time.</p>
+<h3 id="what-didnt-work">What didn't work<small class="permalink"><a href="#what-didnt-work" title="Trvalý odkaz na tento nadpis">#</a></small></h3>
+<p>I didn't manage time well, and I'd need about 30 more minutes at the end.
+Some people were already leaving, so I rushed through the end – which didn't
+help either the attendees or the coaches.
+(For next time, I already have a plan to shuffle the materials around and
+drop 30 minutes of less interesting stuff.)</p>
+<p>Also, there was too much food in the end.
+We had a generous sponsorship from Red Hat <em>and</em> people ordered their own
+lunches.
+This one is entirely on me as the link between the sponsor and the organizers;
+next time I will coordinate better.</p>
+<p>Finally, I did not request spare laptops in time.
+Usually, Red Hat Regional IT is happy to lend a few out-of-warranty machines,
+which are very helpful when some attendee's computer stops working, turns
+out to be too slow, or has glitchy graphics.
+I forgot to request them in a reasonable time, so we didn't have them.
+Thankfully, they weren't needed – but hardware problems could have ruined the
+atmosphere of the workshop.</p>
+<figure class="figure"><a href="https://blog.python.cz/images/snake2019-20190202_173055.jpg" target="_blank" title="Not quite there yet"><img alt="Not quite there yet" src="https://blog.python.cz/images/snake2019-20190202_173055.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<h3 id="and-as-for-me">And as for me...<small class="permalink"><a href="#and-as-for-me" title="Trvalý odkaz na tento nadpis">#</a></small></h3>
+<p>I think I'm addicted to this workshop.</p>
+<p>It ticks the tree factors of intrinsic motivation: autonomy (deciding what
+to teach and what to leave out in a time-limited workshop),
+mastery (working on something that can always be improved) and purpose (helping
+people understand my passion, not to mention the whole “underrepresented
+minorities” thing that I'm not really going into here).</p>
+<p>I have a hard time interacting with people, and I've found that it's mostly
+because I don't think I have anything to say that would be interesting to them.
+But that disappears in front of a class, with a clear expectations of what to
+explain and a clear level of pre-requisites I can build on.
+I know a few introverts who had similar experiences as lecturers/coaches,
+and I'd recommend any geek to try teaching an <em>interested</em> audience :)</p>
+<p>Anyway, I was throroughly exhausted at the end, after ten hours of live coding.
+I think I'll wait a few months before doing this again.</p>
+<figure class="figure"><a href="https://blog.python.cz/images/snake2019-20190202_084946.jpg" target="_blank" title="Thanks to the sponsor &amp; organizers"><img alt="Thanks to the sponsor &amp; organizers" src="https://blog.python.cz/images/snake2019-20190202_084946.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<p>Thank you to everyone involved – the organizers, the coaches,
+Red Hat GWS &amp; BIPI, and the attendees.
+Let's do more of these!</p></div>
+    </div>
+
+        <hr>
+
+        <div id="about" class="about">
+            <h2 class="supressed">
+                    Petr Viktorin
+
+            </h2>
+            <div class="about-box">
+                <div class="about-image">
+                    <div class="about-image-crop img-rounded">
+                            <img src="https://blog.python.cz/images/about.png">
+                    </div>
+                </div>
+                <div class="about-text">
+                    <p>Tento blog píše <a href="https://python.cz/">česká komunita kolem programovacího jazyka Python</a>.
+I ty sem můžeš napsat článek! Chceš oznámit nějakou akci, zamyslet se nad budoucností
+<a href="https://pyvo.cz/">srazů</a> nebo sepsat, co se ti líbilo na <a href="https://cz.pycon.org">konferenci</a>?
+Stačí <a href="https://github.com/pyvec/blog.python.cz/#write-an-article-in-5-steps">postupovat podle návodu</a>.</p>
+                </div>
+            </div>
+        </div>
+
+    <hr>
+
+    <div id="share" class="share">
+        <a href="//www.facebook.com/sharer.php?u=https%3A//blog.python.cz/pyladies-snake-report&amp;t=Python%C2%A0v%C2%A0%C4%8CR%20bloguje%3A%20PyLadies%20Snake%20Workshop" target="_blank" class="btn btn-primary-outline">
+            <i class="fa fa-facebook-square"></i> Facebook
+        </a>
+        <a href="//twitter.com/share?url=https%3A//blog.python.cz/pyladies-snake-report&amp;text=Python%C2%A0v%C2%A0%C4%8CR%20bloguje%3A%20PyLadies%20Snake%20Workshop" target="_blank" class="btn btn-info-outline">
+            <i class="fa fa-twitter-square"></i> Twitter
+        </a>
+    </div>
+
+        <hr>
+
+        <div class="article-comments" id="comments">
+            <div id="disqus_thread"></div>
+            <script>
+                var disqus_sitename = "blog-python-cz";
+                var disqus_config = function () {
+                    this.page.identifier = "\/home\/runner\/work\/blog.python.cz\/blog.python.cz\/content\/2019-03-02_pyladies-snake-report.md";
+                    this.page.title = "PyLadies Snake Workshop";
+                };
+                (function() {
+                    var d = document, s = d.createElement('script');
+                    s.src = '//' + disqus_sitename + '.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();
+            </script>
+            <noscript>
+                <p class="noscript">Bez JavaScriptu se komentáře nezobrazí.</p>
+            </noscript>
+        </div>
+</div>
+
+    <hr>
+
+    <div id="feeds" class="feeds">
+        <a href="http://blog-python-cz.disqus.com/pyladies_snake_report/latest.rss" class="btn btn-primary-outline">
+            <i class="fa fa-feed"></i> Komentáře
+        </a>
+    </div>
+        </div>
+
+        <hr>
+
+        <div class="footer">
+            <p>© 2011—2024 <a href="https://blog.python.cz">Python v ČR</a></p>
+        </div>
+
+        <script async src="//platform.twitter.com/widgets.js"></script>
+            <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+            <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"></noscript>
+    </body>
+</html>

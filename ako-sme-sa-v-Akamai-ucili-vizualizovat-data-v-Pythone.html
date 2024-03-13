@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+        <title>Ako sme sa v Akamai učili vizualizovať dáta v Pythone - Python v ČR bloguje</title>
+
+            <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css">
+            <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arbutus+Slab:400,700&amp;subset=latin,latin-ext">
+
+        <link rel="stylesheet" href="https://blog.python.cz/theme/css/code.css">
+        <link rel="stylesheet" href="https://blog.python.cz/theme/css/main.css">
+            <link rel="stylesheet" href="https://blog.python.cz/theme/css/site.css">
+
+                <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje - všechny články" href="https://blog.python.cz/feed.xml">
+                <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje - všechny komentáře" href="http://blog-python-cz.disqus.com/latest.rss">
+
+        <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje – komentáře ke článku Ako sme sa v Akamai učili vizualizovať dáta v Pythone" href="http://blog-python-cz.disqus.com/ako_sme_sa_v_Akamai_ucili_vizualizovat_data_v_Pythone/latest.rss">
+
+        <link rel="shortcut icon" type="image/x-icon" href="https://blog.python.cz/favicon.ico">
+
+    <meta property="og:title" content="Ako sme sa v Akamai učili vizualizovať dáta v Pythone - Python v ČR bloguje">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="og:description" content="Ako sme sa v Akamai učili vizualizovať dáta v Pythone - Python v ČR bloguje">
+        <meta property="og:image" content="https://blog.python.cz/images/table.png">
+        <meta name="twitter:creator" content="@Mandragora258">
+    </head>
+    <body>
+        <div class="container article">
+<div class="site-navigation">
+    <a href="https://blog.python.cz" class="btn btn-primary">
+        <i class="fa fa-home"></i> Python v ČR bloguje
+    </a>
+</div>
+
+<div class="article-container">
+    <div class="header">
+        <h1>Ako&nbsp;sme&nbsp;sa&nbsp;v Akamai učili vizualizovať dáta&nbsp;v Pythone</h1>
+        <p class="supressed">
+            <time datetime="2017-03-13T10:49:00+01:00" pubdate>03/13/17</time>
+            <br>
+            <a href="#about">Sveťa Margetová</a>
+        </p>
+    </div>
+
+    <div class="content">
+        <div><p>V piatok 3. 3. 2017 sa konal v <a href="https://www.akamai.com/">Akamai
+Technologies</a> workshop zameraný na vizualizáciu
+dát v Pythone. Bežne v rámci PyLadies komunity pôsobím ako kouč, no v
+tomto prípade som bola v roli opačnej a naozaj som sa tešila, že sa
+môžem niečo nové z Pythonu a dátovej oblasti naučiť. Tešila som sa o to
+viac, lebo s dátami denne pracujem na projektoch v rôznych oblastiach,
+pracujem v <a href="http://pandas.pydata.org/">Pandas</a> a
+<a href="http://matplotlib.org/">Matplotlib</a> je súčasťou každého môjho importu v
+Jupyter notebookoch. No mala som pocit, že ho nevyužívam naplno a
+celkovo sa vizualizácii dát nevenujem. Väčšina mojich grafov, ktoré som
+si vykreslovala, boli určené iba mne, nehrala som sa s detailmi a
+zobrazením a ak mal byť výstup prezentovateľný koncovému užívateľovi,
+vždy som automaticky siahla po Reacte.</p>
+<figure class="figure"><img alt="Ukážka môjho bežného grafu" src="https://blog.python.cz/images/table.png" class="figure-img img-fluid img-rounded"><figcaption class="figure-caption">
+Ukážka môjho bežného grafu</figcaption></figure>
+<p>V Akamai nám lektori ukázali, ako však s dátami (vo forme JSONu)
+pracovať a vizualizovať ich v podobe, v akej sú prínosné a jasne z nich
+informácie zrozumiteľné. Po prvotných problémoch s rôznymi operačnými
+systémami a verziami Pythonu sme sa hneď pustili do tvorby vizualizácií
+zobrazovaných vo webovom prehliadači.</p>
+<figure class="figure"><a href="https://blog.python.cz/images/94849416-0963-11e7-8616-ca8148e71dab.jpg" target="_blank" title="Všichni z workshopu"><img alt="Všichni z workshopu" src="https://blog.python.cz/images/thumbnails/94849416-0963-11e7-8616-ca8148e71dab.jpg" class="figure-img img-fluid img-rounded"></a><figcaption class="figure-caption">
+Foto od Veroniky Gabrielovej</figcaption></figure>
+<h2 id="grafy-grafy-same-grafy">Grafy, grafy, samé grafy<small class="permalink"><a href="#grafy-grafy-same-grafy" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p>Prešli sme základnými typmi grafov, ktoré vidím takmer v každej
+manažérskej a marketingovej prezentácii, ako napríklad:</p>
+<ol>
+<li>stĺpcový graf,</li>
+<li>koláčový graf,</li>
+<li>histogram.</li>
+</ol>
+<p>Pri tvorbe grafov som zistila, že to môže byť naozaj aj zábava, je tam
+priestor pre programovanie, matematiku, možnosti vlastného dizajnu a
+podobne. Hneď ako som vykreslila jeden graf, som sa pustila do
+modifikácie úlohy, kedy okrem maximálnej hodnoty som chcela pridať
+minimálnu hodnotu a priemernú hodnotu. Páčilo sa mi v tomto prípade
+použitie
+<a href="https://docs.python.org/2/library/collections.html#collections.Counter">Counter()</a>
+- užitočná vec v Pythone. Síce moje grafické cítenie v tejto oblasti nie
+je bohviečo, lebo keby mne niekto pošle ružovo-fialový graf so žltou
+krikľavou čiarou v strede, asi dostanem z toho epileptický záchvat, na
+jeho vykreslenie sme nepotrebovali ani veľa kódu a páčilo sa mi jeho
+elegantné riešenie, kde bolo možné uplatiť napríklad:</p>
+<ul>
+<li>
+<p>list comprehensions</p>
+<p><code>python
+temp = enumerate([abs(j - avg) for j in n])</code></p>
+</li>
+<li>
+<p>anonymnú funkciu lambda</p>
+<p><code>python
+mi = sorted(temp, key=lambda a : a[1])[0][0]</code></p>
+</li>
+<li>
+<p>for cyklom prechádzať rôznymi agregačnými funkciami</p>
+<p><code>python
+for f in [min, max]:
+    mi = list(n).index(f(n))
+    patches[mi].set_color("#283891")</code></p>
+</li>
+</ul>
+<figure class="figure"><a href="https://blog.python.cz/images/rtt.png" target="_blank" title="Maximálna, minimálna, priemerná hodnota"><img alt="Maximálna, minimálna, priemerná hodnota" src="https://blog.python.cz/images/rtt.png" class="figure-img img-fluid img-rounded"></a><figcaption class="figure-caption">
+Maximálna, minimálna, priemerná hodnota</figcaption></figure>
+<p>Následne sme si ukázali ďalšie typy grafov a okrem práce v Pythone sme
+sa naučili aj niečo o
+<a href="http://searchnetworking.techtarget.com/definition/round-trip-time">RTT</a>,
+protokoloch a vzájomného prepojenia medzi oboma veličinami, aká je bežná
+hodnota v realite a kde sa približne ukazovatele pohybujú.</p>
+<figure class="figure"><a href="https://blog.python.cz/images/rychlost.png" target="_blank" title="Závislosť rýchlosti na RTT pre protokol U - graf 1"><img alt="Závislosť rýchlosti na RTT pre protokol U - graf 1" src="https://blog.python.cz/images/rychlost.png" class="figure-img img-fluid img-rounded"></a><figcaption class="figure-caption">
+Závislosť rýchlosti na RTT pre protokol U - graf 1</figcaption></figure>
+<figure class="figure"><a href="https://blog.python.cz/images/rtt_scatter.png" target="_blank" title="Ukážka scatter grafu"><img alt="Ukážka scatter grafu" src="https://blog.python.cz/images/rtt_scatter.png" class="figure-img img-fluid img-rounded"></a><figcaption class="figure-caption">
+Ukážka scatter grafu</figcaption></figure>
+<figure class="figure"><a href="https://blog.python.cz/images/rychlost2.png" target="_blank" title="Závislosť rýchlosti na RTT pre protokol U - graf 2"><img alt="Závislosť rýchlosti na RTT pre protokol U - graf 2" src="https://blog.python.cz/images/rychlost2.png" class="figure-img img-fluid img-rounded"></a><figcaption class="figure-caption">
+Závislosť rýchlosti na RTT pre protokol U - graf 2</figcaption></figure>
+<p>Okrem iného sme zistili aj to, že rovnaký graf, z rovnakých dát,
+vykreslený rovnakým kódom môže vyzerať na dvoch počítačoch v závislosti
+od operačného systému trochu inak.</p>
+<figure class="figure"><a href="https://blog.python.cz/images/img.jpg" target="_blank" title="Foto od Veroniky Gabrielovej"><img alt="Foto od Veroniky Gabrielovej" src="https://blog.python.cz/images/thumbnails/img.jpg" class="figure-img img-fluid img-rounded"></a><figcaption class="figure-caption">
+Foto od Veroniky Gabrielovej</figcaption></figure>
+<figure class="figure"><a href="https://blog.python.cz/images/94846086-0963-11e7-8268-a8d338c72990.jpg" target="_blank" title="Darí sa!"><img alt="Darí sa!" src="https://blog.python.cz/images/thumbnails/94846086-0963-11e7-8268-a8d338c72990.jpg" class="figure-img img-fluid img-rounded"></a><figcaption class="figure-caption">
+Foto od Veroniky Gabrielovej</figcaption></figure>
+<h2 id="k-comu-to-cele-bolo-dobre">K čomu to celé bolo dobré?<small class="permalink"><a href="#k-comu-to-cele-bolo-dobre" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p>Okrem toho, že som si obnovila opäť pozitívny vzťah k vizualizácii dát,
+som si uvedomila, že nemusím vždy zaťažovať projekt vykresľovaním dát v
+JavaScripte, ale môžem priamo dáta spracovať v Jupyteri, vizualizovať v
+grafe, výstup si uložiť napríklad ako obrázok alebo celú HTML stránku a
+tú následne vložiť do existujúcej HTML šablóny v Djangu, pričom dáta mám
+real time aktualizované na základe zmien v databáze alebo vstupov
+užívateľa nad filtrami a formulármi. Hneď na ďalší deň som si skúsila
+nad reálnym projektom vykresliť top 10 krajín, v ktorých je najväčšie
+zastúpenie produktov s najvyššou mierou popularity s jednoduchým
+prevodom cez formát na percentá, alebo výpis príspevkov z RSS feedov v 5
+jazykoch, indikujúci chýbajúce príspevky za daný deň a namiesto tabuľky
+už posielam klientovi graf plný červeno-modrých stĺpcov.</p>
+<figure class="figure"><img alt="Koláčový graf" src="https://blog.python.cz/images/graf1.png" class="figure-img img-fluid img-rounded"><figcaption class="figure-caption">
+Koláčový graf</figcaption></figure>
+<p>Bola by som rada, ak by bolo pokračovanie, kde by nám ukázali chalani z
+Akamai, ako sa z malej knižnice na prevod SQL príkazov cez Python do
+grafov stal využívaný framework. A samozrejme, ako je v tejto dobe in,
+real-time grafy. Dokým sa to nehýbe, nie je to až tak cool.</p></div>
+    </div>
+
+        <hr>
+
+        <div id="about" class="about">
+            <h2 class="supressed">
+                    Sveťa Margetová
+
+                        &middot; <a href="http://twitter.com/Mandragora258" target="_blank">@Mandragora258</a>
+            </h2>
+            <div class="about-box">
+                <div class="about-image">
+                    <div class="about-image-crop img-rounded">
+                            <img src="http://www.gravatar.com/avatar/c5a58383ce297557eada32447b927fb0?s=200">
+                    </div>
+                </div>
+                <div class="about-text">
+                    <p>Programátorka v Pythone/vo Swifte. Vo voľnom čase rada behám a organizujem IT akcie, workshopy a rôzne druhy pretekov.</p>
+                </div>
+            </div>
+        </div>
+
+    <hr>
+
+    <div id="share" class="share">
+        <a href="//www.facebook.com/sharer.php?u=https%3A//blog.python.cz/ako-sme-sa-v-Akamai-ucili-vizualizovat-data-v-Pythone&amp;t=Python%C2%A0v%C2%A0%C4%8CR%20bloguje%3A%20Ako%20sme%20sa%20v%20Akamai%20u%C4%8Dili%20vizualizova%C5%A5%20d%C3%A1ta%20v%20Pythone" target="_blank" class="btn btn-primary-outline">
+            <i class="fa fa-facebook-square"></i> Facebook
+        </a>
+        <a href="//twitter.com/share?url=https%3A//blog.python.cz/ako-sme-sa-v-Akamai-ucili-vizualizovat-data-v-Pythone&amp;text=Python%C2%A0v%C2%A0%C4%8CR%20bloguje%3A%20Ako%20sme%20sa%20v%20Akamai%20u%C4%8Dili%20vizualizova%C5%A5%20d%C3%A1ta%20v%20Pythone" target="_blank" class="btn btn-info-outline">
+            <i class="fa fa-twitter-square"></i> Twitter
+        </a>
+    </div>
+
+        <hr>
+
+        <div class="article-comments" id="comments">
+            <div id="disqus_thread"></div>
+            <script>
+                var disqus_sitename = "blog-python-cz";
+                var disqus_config = function () {
+                    this.page.identifier = "\/home\/runner\/work\/blog.python.cz\/blog.python.cz\/content\/2017-03-13_ako-sme-sa-v-Akamai-ucili-vizualizovat-data-v-Pythone.md";
+                    this.page.title = "Ako sme sa v Akamai u\u010dili vizualizova\u0165 d\u00e1ta v Pythone";
+                };
+                (function() {
+                    var d = document, s = d.createElement('script');
+                    s.src = '//' + disqus_sitename + '.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();
+            </script>
+            <noscript>
+                <p class="noscript">Bez JavaScriptu se komentáře nezobrazí.</p>
+            </noscript>
+        </div>
+</div>
+
+    <hr>
+
+    <div id="feeds" class="feeds">
+        <a href="http://blog-python-cz.disqus.com/ako_sme_sa_v_Akamai_ucili_vizualizovat_data_v_Pythone/latest.rss" class="btn btn-primary-outline">
+            <i class="fa fa-feed"></i> Komentáře
+        </a>
+    </div>
+        </div>
+
+        <hr>
+
+        <div class="footer">
+            <p>© 2011—2024 <a href="https://blog.python.cz">Python v ČR</a></p>
+        </div>
+
+        <script async src="//platform.twitter.com/widgets.js"></script>
+            <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+            <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"></noscript>
+    </body>
+</html>
