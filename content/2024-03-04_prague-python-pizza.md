@@ -2,8 +2,8 @@ Title: Prague Python Pizza has Arrived to Prague
 Date: 2024-03-04 18:00:00
 Author: Mia Bajic
 
-Python Pizza, an event that unites Python enthusiasts and pizza lovers, started its journey in Italy, the birthplace of pizza. After making its way through many cities, it has finally arrived in Prague. 
-This marks the very first time this unique gathering has taken place here, offering our community a fantastic chance to connect, share knowledge, and eat some delicious pizza!
+[Python Pizza](https://python.pizza/), an event that unites Python enthusiasts and pizza lovers, started its journey in Italy, the birthplace of pizza. After making its way through many cities, it has finally arrived in Prague. 
+This marks the very first time [this unique gathering](https://prague.python.pizza/) has taken place here, offering our community a fantastic chance to connect, share knowledge, and eat some delicious pizza!
 
 ![pizza]({static}/images/ppp/pizza.jpeg)
 ![tshirt]({static}/images/ppp/tshirt.jpeg)
@@ -26,7 +26,7 @@ Remote tickets were for free, and we sold an equal amount of remote tickets - 10
 ![miro]({static}/images/ppp/miro.jpeg)
 
 ## Code of Conduct Report
-We set up a code of conduct and had organizers ready to jump in if needed. We’re happy to report that no code of conduct incidents appeared.
+We set up a [code of conduct](https://prague.python.pizza/#coc) and had organizers ready to jump in if needed. We’re happy to report that no code of conduct incidents appeared.
 
 ## Feedback
 We conducted a survey among all attendees to gather their opinions on the event. We're very pleased to report that we received 35 responses in total, which represents half of the attendees filling in the form.
@@ -52,3 +52,6 @@ Other positive comments focused on the sense of community, relaxed atmosphere, s
 
 ![everyone]({static}/images/ppp/everyone.jpeg)
 ![afterparty]({static}/images/ppp/afterparty.jpeg)
+
+## Stream URL 
+If you'd like to watch the event online, check out [this](https://www.youtube.com/watch?v=KdFXjYURlws) link.
