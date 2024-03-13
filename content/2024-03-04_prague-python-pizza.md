@@ -54,4 +54,4 @@ Other positive comments focused on the sense of community, relaxed atmosphere, s
 ![afterparty]({static}/images/ppp/afterparty.jpeg)
 
 ## Stream URL 
-If you'd like to watch the event online, check out [this](https://www.youtube.com/watch?v=KdFXjYURlws) link.
+If you'd like to watch the event online, check out [the stream recording](https://www.youtube.com/watch?v=KdFXjYURlws).
