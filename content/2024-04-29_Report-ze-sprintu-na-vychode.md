@@ -51,7 +51,7 @@ Díky moc Lumírovi a Hance za zázemí a domáckou pohodu, a taky všem, co vá
 
 Těším se zase za rok!
 
-![sprint_na_vychode_4]({static}/images/vychod4.jpg)
+![sprint_na_vychode_4]({static}/images/vychod4.png)
 
 A kdo by se s námi chtěl potkat dřív, určitě bude příležitost ve Mšeném na letním sprintu. 
 Budeš-li se chtít přidat, napiš na info@pyvec.org a my ti dáme vědět!
