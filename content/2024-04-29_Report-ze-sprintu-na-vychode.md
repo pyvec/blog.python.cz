@@ -44,7 +44,7 @@ Otevírá se tím další příležitost pro Python komunitu setkat se naživo, 
 
 A mimochodem, tento sprint proběhl zcela bez alkoholu, jen na birellech, čaji a kávě. 
 
-Díky moc Lumírovi a Hance za pohostinnost a všem, co vážili cestu na východ, aby s námi strávili prima víkend.
+Díky moc Lumírovi a Hance za zázemí a domáckou pohodu, a taky všem, co vážili cestu na východ, aby s námi strávili prima víkend.
 
 Těším se zase za rok!
 
