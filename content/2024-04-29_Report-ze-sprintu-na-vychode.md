@@ -8,7 +8,7 @@ Letos v dubnu se nám podařilo v Python komunitě obnovit jednu z dříve tradi
 Před časem jste si na blogu mohli přečíst o [letních sprintech](https://blog.python.cz/Letni-sprinty-Python-komunity-v-Msenem).
 Ty probíhají tradičně koncem léta na západě republiky. 
 
-Protože jsou ale Pythonisti a Pythonistky rozesetí pocelé republice, letní sprinty doplňuje jarní sprint na východě, konkrétně v Lískovci u Frýdku.
+Protože jsou ale Pythonisti a Pythonistky rozesetí po celé republice, letní sprinty doplňuje jarní sprint na východě, konkrétně v Lískovci u Frýdku.
 Účastnictvo vděčí za pohostinnost Lumírovi a Hance, kteří mají v Lískovci domek se zahradou, psem, kočkou a hadem, a poskytují tak sprintu základnu a zázemí. 
 
 ![sprint_na_vychode_1]({static}/images/vychod1.jpg)
@@ -25,7 +25,7 @@ Jak tedy vypadala letošní účast?
 * Na sprintu měly zastoupení PyLadies z Brna, Ostravy a Olomouce. 
 * Z různých oblastí byly zastoupeny (drobně zobecněno, omluva všem lokálním patriotům) Ostrava, Hranice na Moravě, Olomouc, Brno a Praha. 
 * Sešli se zde čtyři různé národnosti: česká, slovenská, polská a bosenská.
-* Účastnil se i zástupce Python Software Foundation.
+* Účastnili se i zástupci Python Software Foundation a EuroPython Society.
 
 ### Průběh
 
