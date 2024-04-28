@@ -9,7 +9,7 @@ Před časem jste si na blogu mohli přečíst o [letních sprintech](https://bl
 Ty probíhají tradičně koncem léta na západě republiky. 
 
 Protože jsou ale Pythonisti a Pythonistky rozesetí pocelé republice, letní sprinty doplňuje jarní sprint na východě, konkrétně v Lískovci u Frýdku.
-Účastnictvo vděčí za pohostinnost Lumírovi a Hance, kteří má v Lískovci domek se zahradou, psem, kočkou a hadem, a poskytují tak sprintu základnu a domácké zázemí. 
+Účastnictvo vděčí za pohostinnost Lumírovi a Hance, kteří mají v Lískovci domek se zahradou, psem, kočkou a hadem, a poskytují tak sprintu základnu a zázemí. 
 
 ![sprint_na_vychode_1]({static}/images/vychod1.jpg)
 ![sprint_na_vychode_2]({static}/images/vychod2.jpg)
