@@ -38,6 +38,8 @@ Vytvořili jsme si i [projekt v GitHubu Pyvce](https://github.com/orgs/pyvec/pro
 Během soboty a nedělního dopoledne jsme zvládli dokončit celkem 20 tasků, mezi kterými byly například aktualizace materiálů na [Nauč se Python!](https://naucse.python.cz/), aktualizace [častých dotazů na stránkách PyLadies](https://pyladies.cz/faq/) a celková údržba tohoto webu (pročištění dat, odbavení starších issues z GitHubu), zpracování videí z brněnského Pyva, ale i zajištění wellbeingu účastníků (příprava dřeva, špekáčků a hermelínů na večeři), což je velmi důležitá součást sprintů. 
 Několik úkolů je ještě těsně před dokončením nebo chybí jen reviews, takže se odvážím tvrdit, že se v následujících dnech finální číslo ještě zvýší.
 
+![sprint_na_vychode_2]({static}/images/vychod5.jpg)
+
 ### Závěrem
 
 Osobně jsem moc ráda, že se podařilo po delší pauze opět uspořádat Sprint na východě.
