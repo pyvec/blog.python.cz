@@ -23,7 +23,7 @@ Jak tedy vypadala letošní účast?
 
 * Sešli jsme se v počtu 11 lidí (6 žen, 3 muži, 2 děti).
 * Na sprintu měly zastoupení PyLadies z Brna, Ostravy a Olomouce. 
-* Z různých oblastí byly zastoupeny (drobně zobecněno, omluva všem lokálním patriotům) Ostrava, Hranice na Moravě, Olomouc, Brno a Praha. 
+* Z různých oblastí byly zastoupeny (drobně zobecněno, omluva všem lokálním patriotům) Ostrava, Hranice, Olomouc, Brno a Praha. 
 * Sešli se zde čtyři různé národnosti: česká, slovenská, polská a bosenská.
 * Účastnili se i zástupci Python Software Foundation a EuroPython Society.
 
