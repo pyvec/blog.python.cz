@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+        <title>PyCon CZ 2017 Conference Wrap-Up Summary - Python v ČR bloguje</title>
+
+            <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css">
+            <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arbutus+Slab:400,700&amp;subset=latin,latin-ext">
+
+        <link rel="stylesheet" href="https://blog.python.cz/theme/css/code.css">
+        <link rel="stylesheet" href="https://blog.python.cz/theme/css/main.css">
+            <link rel="stylesheet" href="https://blog.python.cz/theme/css/site.css">
+
+                <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje - všechny články" href="https://blog.python.cz/feed.xml">
+                <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje - všechny komentáře" href="http://blog-python-cz.disqus.com/latest.rss">
+
+        <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje – komentáře ke článku PyCon CZ 2017 Conference Wrap-Up Summary" href="http://blog-python-cz.disqus.com/pycon_cz_2017_conference_wrap_up_summary/latest.rss">
+
+        <link rel="shortcut icon" type="image/x-icon" href="https://blog.python.cz/favicon.ico">
+
+    <meta property="og:title" content="PyCon CZ 2017 Conference Wrap-Up Summary - Python v ČR bloguje">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="og:description" content="PyCon CZ 2017 Conference Wrap-Up Summary - Python v ČR bloguje">
+        <meta property="og:image" content="https://blog.python.cz/images/thumbnails/pyconcz2016_d1-56.jpg">
+        <meta name="twitter:creator" content="@honzajavorek">
+    </head>
+    <body>
+        <div class="container article">
+<div class="site-navigation">
+    <a href="https://blog.python.cz" class="btn btn-primary">
+        <i class="fa fa-home"></i> Python v ČR bloguje
+    </a>
+</div>
+
+<div class="article-container">
+    <div class="header">
+        <h1>PyCon&nbsp;CZ 2017 Conference Wrap-Up Summary</h1>
+        <p class="supressed">
+            <time datetime="2017-11-15T10:00:00+01:00" pubdate>11/15/17</time>
+            <br>
+            <a href="#about">Honza Javorek</a>
+        </p>
+    </div>
+
+    <div class="content">
+        <div><p>In June this year we held the <a href="https://cz.pycon.org/2017/">third annual PyCon in the Czech Republic</a>, for the first time held in Prague. We’d like to take this opportunity to wrap up the 2017 conference so we can kick things off for 2018!</p>
+<figure class="figure"><a href="https://blog.python.cz/images/pyconcz2016_d1-56.jpg" target="_blank" title="Backyard chill out"><img alt="Backyard chill out" src="https://blog.python.cz/images/thumbnails/pyconcz2016_d1-56.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<h2 id="thank-you">Thank you!<small class="permalink"><a href="#thank-you" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p>All the people who organized the PyCon CZ event are volunteers and worked on it in their free time. Big shout out to all the <a href="https://cz.pycon.org/2017/about/team/">core team members</a> as well as all other people who helped with preparation up front or on site. Big thanks to all the CfP submission authors, the invited and accepted speakers, all the attendees who joined us to make PyCon CZ the amazing event it was, the <a href="https://cz.pycon.org/2017/sponsors/">sponsors</a>, and our hosts at both <a href="http://www.meetfactory.cz/">MeetFactory</a> and the <a href="https://fit.cvut.cz/en">Faculty of Information Technology CTU in Prague</a>. Two special thanks also go to:</p>
+<ul>
+<li><a href="http://pyvec.org/">Pyvec</a> – The formal backers of the PyCon CZ events and so many other Python events in the Czech Republic. Continuous activities of people around Pyvec, <a href="http://pyladies.cz/">Czech PyLadies</a>, and monthly <a href="https://pyvo.cz/">Pyvo meetups</a> are the lifeblood of the <a href="https://python.cz/">Czech Python community</a>.</li>
+<li><a href="https://www.python.org/psf/">Python Software Foundation</a> – They are the good people who take care of the ongoing development of the Python language and the global activities around it. The PSF sponsored PyCon CZ 2017, as it does many such events.</li>
+</ul>
+<h2 id="community-organization">Community Organization<small class="permalink"><a href="#community-organization" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p>To acknowledge the heroic achievements of the PyCon CZ founder <a href="https://twitter.com/tomas_ehrlich">Tomáš Ehrlich</a> and to give him some time off after two restless years organizing the conference, we agreed on moving the event to Prague. <a href="https://twitter.com/BaraDrb">Bára Drbohlavová</a> volunteered to become the chair of the conference and a new organizing team started to form.</p>
+<p>Today, we can say that the hand-over was successful and the Prague team is very well capable of organizing PyCon CZ events! Even though the team <a href="http://blog.python.cz/pycon-cz-2017-changes-date-and-venue">was forced by bad luck to change the date and venue at the last minute</a>, at the end there was an amazing atmosphere and a cheerful feedback.</p>
+<p>We did not manage to have dedicated mobile apps for the event as last year. On the other hand, we had a UX-aware DTP-capable frontend designer as part of the core team, which resulted in many improvements in the presentation of the conference, especially the usability of the website on mobile devices.</p>
+<figure class="figure"><a href="https://blog.python.cz/images/pyconcz2016_d1-19.jpg" target="_blank" title="In front of MeetFactory"><img alt="In front of MeetFactory" src="https://blog.python.cz/images/thumbnails/pyconcz2016_d1-19.jpg" class="figure-img img-fluid img-rounded"></a><figcaption class="figure-caption">
+In front of <a href="http://meetfactory.cz/">MeetFactory</a></figcaption></figure>
+<figure class="figure"><a href="https://blog.python.cz/images/pyconcz2016_d1-27.jpg" target="_blank" title="Lumír Balhar speaking in the main room"><img alt="Lumír Balhar speaking in the main room" src="https://blog.python.cz/images/thumbnails/pyconcz2016_d1-27.jpg" class="figure-img img-fluid img-rounded"></a><figcaption class="figure-caption">
+<a href="https://cz.pycon.org/2017/speakers/detail/talk/14/">Lumír Balhar</a></figcaption></figure>
+<h2 id="content-stats">Content Stats<small class="permalink"><a href="#content-stats" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<ul>
+<li>31 talks (4 keynotes), 30 speakers</li>
+<li>9 workshops</li>
+</ul>
+<h2 id="ticket-stats">Ticket Stats<small class="permalink"><a href="#ticket-stats" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<ul>
+<li>361 tickets, 334 attendees (20% women)</li>
+<li>62% of tickets were paid<ul>
+<li>24% (39% of all paid) <strong>Self-funded</strong> (38% of them were Early Bird)</li>
+<li>22% (35% of all paid) <strong>Employer-funded</strong> (40% of them were Early Bird)</li>
+<li>15% (24% of all paid) <strong>Student/Teacher</strong> (49% of them were Early Bird)</li>
+<li>3 tickets for PyLadies</li>
+</ul>
+</li>
+<li>38% of tickets were free<ul>
+<li>11% went to sponsors</li>
+<li>11% for speakers and workshop leaders</li>
+<li>7% for Django Girls (of those 35% were coaches)</li>
+<li>4% for PyCon CZ organizers</li>
+<li>4 tickets were given away in raffles at meetups</li>
+<li>4 tickets as Financial Aid</li>
+<li>3 tickets for GymGeek</li>
+<li>4 tickets for PyCon PL and PyCon SK organizers</li>
+</ul>
+</li>
+<li>27 people did not come (4 Django Girls, 3 Django Girls coaches, 6 Early Bird student/teachers, 2 student/teachers, 5 self-funded, 3 employer-funded, 3 sponsors, 1 PyCon SK organizer)</li>
+</ul>
+<figure class="figure"><a href="https://blog.python.cz/images/pyconcz2016_d1-38.jpg" target="_blank" title="Audience"><img alt="Audience" src="https://blog.python.cz/images/thumbnails/pyconcz2016_d1-38.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<h2 id="feedback">Feedback<small class="permalink"><a href="#feedback" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p>We carried out a feedback survey during and after the event. We’ve got 39 responses in total.</p>
+<ul>
+<li><strong>Have you been satisfied with PyCon CZ 2017?</strong> 94.9% said yes!</li>
+<li><strong>I came to PyCon CZ to/because...</strong><ul>
+<li>53.8% – networking and meeting people</li>
+<li>51.3% – talks and learning about Python</li>
+</ul>
+</li>
+<li><strong>Which talk did you enjoy the most?</strong><ol>
+<li>12.8% – <a href="https://twitter.com/NaomiCeder">Naomi Ceder</a> (<a href="https://cz.pycon.org/2017/speakers/detail/talk/34/">What lies ahead? Python’s future strengths and challenges</a>) and <a href="https://twitter.com/attacus_au">Lilly Ryan</a> (any of the <a href="https://cz.pycon.org/2017/speakers/detail/talk/9/">two</a> <a href="https://cz.pycon.org/2017/speakers/detail/talk/31/">talks</a>)</li>
+<li>10.3% – <a href="https://twitter.com/lumirbalhar">Lumír Balhar</a> &amp; <a href="https://encukou.cz">Petr Viktorin</a> (<a href="https://cz.pycon.org/2017/speakers/detail/talk/14/">How we started teaching Python</a>)</li>
+<li>7.7% – Kateřina Falk (<a href="https://cz.pycon.org/2017/speakers/detail/talk/35/">Science with the world’s biggest lasers</a>)</li>
+</ol>
+</li>
+<li><strong>What were the top 3 things you most enjoyed at the event this year?</strong><ul>
+<li>41.0% – community / people</li>
+<li>35.9% – venue / building / location</li>
+<li>25.6% – talks</li>
+<li>25.6% – atmosphere</li>
+<li>15.4% – coffee</li>
+</ul>
+</li>
+<li><strong>What were the bottom 3 things we could have done better?</strong><ul>
+<li>20.5% – food</li>
+<li>20.5% – Wi-Fi</li>
+<li>12.8% – rooms, chairs</li>
+<li>12.8% – afterparty</li>
+<li>7.7% – venue / building / location</li>
+</ul>
+</li>
+<li><strong>Where did you travel from?</strong><ul>
+<li>38.5% – Prague, Czech Republic</li>
+<li>7.7% – Brno, Czech Republic</li>
+<li>7.7% – Poland</li>
+<li>5.1% – not far from Prague, Czech Republic</li>
+<li>5.1% – Bratislava, Slovakia</li>
+<li>5.1% – other places, Czech Republic</li>
+</ul>
+</li>
+</ul>
+<figure class="figure"><a href="https://blog.python.cz/images/pyconcz2016_d1-21.jpg" target="_blank" title="People during breaks"><img alt="People during breaks" src="https://blog.python.cz/images/thumbnails/pyconcz2016_d1-21.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<h2 id="videos-photos">Videos &amp; Photos<small class="permalink"><a href="#videos-photos" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p>This was the first time we managed to have a live stream from the event. The stream covered both days of the conference talks and both rooms. Thanks to the fact that the Q&amp;A was running on <a href="https://www.sli.do/">Slido</a>, not only people in the rooms, but also anyone watching the stream could ask questions. The stream recordings are still available on YouTube:</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=170uRdCLUPY">Theatre Room, Thu</a></li>
+<li><a href="https://www.youtube.com/watch?v=TAwbeQqN4dI">Main Room, Thu</a></li>
+<li><a href="https://www.youtube.com/watch?v=2Azpwf2LRK0">Theatre Room, Fri</a></li>
+<li><a href="https://www.youtube.com/watch?v=motIB96FI48">Main Room, Fri</a></li>
+</ul>
+<p>Special thanks go to <a href="http://peter.hozak.info/">Peter Hozák</a> who voluntarily posted a comment with time anchors under each of the videos, so soon after the conference anyone could easily scan the recordings to watch what they like.</p>
+<p>Post-processed videos of individual talks are <a href="https://www.youtube.com/playlist?list=PLyde45Tox-NczAxZ7L7_YF9sxOgby8zHR">available on YouTube</a> as well. Each <a href="https://cz.pycon.org/2017/speakers/talks/">talk page</a> was updated with the video embedded right under the talk description.</p>
+<p>An official selection of photos from the event is <a href="https://photos.app.goo.gl/u1QYSBPPoWWerWGp1">available on Google Photos</a>.</p>
+<h3 id="video-stats">Video Stats<small class="permalink"><a href="#video-stats" title="Trvalý odkaz na tento nadpis">#</a></small></h3>
+<p>The videos of talks were uploaded by the end of August. The numbers below were collected on 1 Oct 2017, that means after one month from publishing.</p>
+<ul>
+<li><strong>Stream Thursday</strong><ul>
+<li>Main Room – 962 views, 13172 minutes watch time, 20 likes</li>
+<li>Theatre Room – 563 views, 4662 minutes watch time, 10 likes</li>
+</ul>
+</li>
+<li><strong>Stream Friday</strong><ul>
+<li>Main Room – 794 views, 7717 minutes watch time, 11 likes</li>
+<li>Theatre Room – 359 views, 3780 minutes watch time, 3 likes</li>
+</ul>
+</li>
+<li><strong>Videos with the most views</strong>:<ul>
+<li><a href="https://cz.pycon.org/2017/speakers/detail/talk/30/">Armin Ronacher: A Python and Rust love story</a></li>
+<li><a href="https://cz.pycon.org/2017/speakers/detail/talk/34/">Naomi Ceder: What lies ahead? Python’s future strengths and challenges</a></li>
+<li><a href="https://cz.pycon.org/2017/speakers/detail/talk/8/">Karla Fejfarová &amp; Petr Šimeček: Python alternatives to R/Shiny</a></li>
+</ul>
+</li>
+</ul>
+<figure class="figure"><a href="https://blog.python.cz/images/pyconcz2017_d2-12.jpg" target="_blank" title="Why is formatting an issue?"><img alt="Why is formatting an issue?" src="https://blog.python.cz/images/thumbnails/pyconcz2017_d2-12.jpg" class="figure-img img-fluid img-rounded"></a><figcaption class="figure-caption">
+<a href="https://cz.pycon.org/2017/speakers/detail/talk/32/">Sebastian Hillig</a></figcaption></figure>
+<h2 id="socially-responsible-catering">Socially Responsible Catering<small class="permalink"><a href="#socially-responsible-catering" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p>Catering (except of coffee, which was prepared by <a href="http://www.kofarna.cz/">Kofárna</a>) was provided by coffee shop &amp; bakery <a href="http://www.slunce.info/index.php?option=com_content&amp;view=article&amp;id=178&amp;Itemid=91">Slunce</a>, which employs people with disabilities. The activities of Slunce are formally backed by the <a href="http://www.slunce.info/index.php?option=com_content&amp;view=article&amp;id=576&amp;Itemid=78">Sun for Everyone Endowment Fund</a> (<a href="http://slunce.info/">Czech</a>).</p>
+<h2 id="diversity">Diversity<small class="permalink"><a href="#diversity" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p>We’ve put effort into making the conference as welcoming as possible. We had a <a href="https://cz.pycon.org/2017/about/code/">Code of Conduct</a> in place and we were reaching out to specific communities which are usually underrepresented in technical conferences.</p>
+<p>The women/men ratio of the organizing team was roughly 50:50. After moving the conference from Brno to Prague, the Prague PyLadies course graduate <a href="https://twitter.com/BaraDrb">Bára Drbohlavová</a> volunteered to become the chair of the conference. The <a href="http://pyladies.cz/">PyLadies of Prague, Brno and Ostrava</a> were invited to attend with a discount equal to the student/teacher ticket fare.</p>
+<p><a href="https://github.com/zuzejk">Zuzka Válková</a>, a long-time Prague PyLadies course organizer, joined our team to hold the <a href="https://djangogirls.org/">Django Girls</a> workshop together with the conference. All Django Girls participants received a free ticket for the conference.</p>
+<p>Vojtěch Polášek, author of the <a href="http://blog.python.cz/blind-attendee-about-pycon-cz-2016">Blind attendee about PyCon CZ 2016</a> blog post, came to the conference again this year. His own report follows:</p>
+<blockquote>
+<p>After I had attended PyCon CZ last year, I decided to repeat it as soon as possible. And therefore I arrived in Prague in June to see what's new with Python and to meet old and new friends. Unfortunately, I was able to attend only on Friday so I missed the workshops.</p>
+<p>This year, I didn't manage to find anyone to assist me throughout the conference so I decided to go alone. But time showed that I wouldn't be alone at all. There was literally almost not a single minute when I would feel abandoned at this place. There was always someone around to help me or to talk to me. Whenever I am surrounded by such people, it leaves a long lasting positive feeling in me and PyCon CZ 2017 wasn't an exception.</p>
+<p>Talks were very interesting and mostly accessible. I guess that speakers probably read my <a href="http://blog.python.cz/blind-attendee-about-pycon-cz-2016">short post from previous PyCon CZ</a>, where I suggested some improvements concerning the accessibility of talks. Also this year PyCon CZ was hosted in a somewhat smaller building. I understand that it could be a bit unconfortable but on the other hand after several hours I was able to navigate through the building almost without asistance.</p>
+<p>During the conference I decided to give a lightning talk at the end, where I <a href="https://www.youtube.com/watch?v=Swl8lRe9YNI&amp;t=4m45s">demonstrated very shortly how I can use the computer</a>. I did that because the Linux screenreader <a href="https://en.wikipedia.org/wiki/Orca_(assistive_technology)">Orca</a> is written in Python. Thank you for giving me such opportunity to show that and I hope that it could attract someone who would like to focus their Python skills in this way.
+Finally, I would like to thank <a href="https://www.redhat.com/">Red Hat</a> for providing me with a free ticket. My thanks also go to <a href="https://twitter.com/kejbaly2">Chris Ward</a> who tried to help me as much as possible throughout the whole conference.</p>
+<p>I am looking forward to visiting PyCon CZ next year as well and to finally attend some workshops.</p>
+</blockquote>
+<figure class="figure"><a href="https://blog.python.cz/images/pyconcz2017_d2-46.jpg" target="_blank" title="Kareřina Falk"><img alt="Kareřina Falk" src="https://blog.python.cz/images/thumbnails/pyconcz2017_d2-46.jpg" class="figure-img img-fluid img-rounded"></a><figcaption class="figure-caption">
+<a href="https://cz.pycon.org/2017/speakers/detail/talk/35/">Kateřina Falk</a></figcaption></figure>
+<h3 id="diversity-stats">Diversity Stats<small class="permalink"><a href="#diversity-stats" title="Trvalý odkaz na tento nadpis">#</a></small></h3>
+<p>The selection process for talks and workshops did not take gender into consideration.</p>
+<ul>
+<li><strong>Speakers:</strong> 71% men, 29% women, 3% non-binary</li>
+<li><strong>Workshops leaders:</strong> 89% men, 11% women</li>
+<li><strong>All attendees:</strong> 80% men, 20% women, 0.3% non-binary</li>
+</ul>
+<p>From the detailed analysis of the data we have it seems that women tend to buy cheaper tickets than men, probably mostly because in the context of the Czech Python community they’re often beginners as well, without technology being their full-time day job. The data shows that the ticket price is important for achieving inclusivity. Without the discounts aimed towards women (Django Girls, PyLadies) and without the Financial Aid we would see much fewer women attending the conference.</p>
+<p>Workshops aimed at beginners (<a href="https://cz.pycon.org/2017/speakers/detail/workshop/7/">testing</a>, <a href="https://cz.pycon.org/2017/speakers/detail/workshop/1/">robots</a>, <a href="https://cz.pycon.org/2017/speakers/detail/workshop/4/">programming for kids</a>, Django Girls) significantly raised the number of women as well.</p>
+<p>In the past years, the Czech Python community has made a big leap towards attracting both women and beginners into tech. We think the attendance of women and beginners at PyCon CZ is significantly influenced by the day-to-day work of all who put in the effort, primarily everyone around the activites of <a href="http://pyladies.cz/">PyLadies</a>. We hope to become an inspiration for other Czech tech communities and events.</p>
+<h3 id="what-could-have-been-done">What Could Have Been Done<small class="permalink"><a href="#what-could-have-been-done" title="Trvalý odkaz na tento nadpis">#</a></small></h3>
+<ul>
+<li>Given the fact that we’re a developer-focused conference in the Czech Republic, 20% of women audience is a good number, but in the following years we would like to find and remove as many remaining obstacles for women to attend as possible and to achieve even higher numbers. Experience from abroad shows there’s still a margin.</li>
+<li><a href="http://blog.python.cz/pycon-cz-2017-changes-date-and-venue">Because of last minute changes of the venue</a>, both of the main conference days happened during working days. According to reports, such choice isn’t exactly the best for attracting beginners, who often don’t have a job related to technology or as flexible as is common among Python professionals.</li>
+<li>For the same reason, the Django Girls workshop had to be on Sunday, after the whole conference. That’s why many attendees of the workshop did not come to the conference, although they were given a free ticket.</li>
+<li>We did not manage to pursue more partnerships. E.g. last year we invited <a href="http://www.vycvikvodicichpsu.cz">VODICÍ PES</a>.</li>
+</ul>
+<figure class="figure"><a href="https://blog.python.cz/images/pyconcz2017_d2-26.jpg" target="_blank" title="Armin Ronacher"><img alt="Armin Ronacher" src="https://blog.python.cz/images/thumbnails/pyconcz2017_d2-26.jpg" class="figure-img img-fluid img-rounded"></a><figcaption class="figure-caption">
+<a href="https://cz.pycon.org/2017/speakers/detail/talk/30/">Armin Ronacher</a></figcaption></figure>
+<h2 id="code-of-conduct-report">Code of Conduct Report<small class="permalink"><a href="#code-of-conduct-report" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p>The organization team agrees that all PyCon events should be accessible and welcoming to everyone, regardless of their background. We agree that a clear and specific Code of Conduct is a necessity for any event.</p>
+<ul>
+<li>The <a href="https://cz.pycon.org/2017/about/code/">Code of Conduct</a> was based on Conference anti-harassment policy from <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">Geek feminism wiki</a> and edited to be as specific to our event as possible.</li>
+<li>Agreeing to the Code was mandatory when buying a ticket.</li>
+<li>Two contact persons (male and female) were assigned.</li>
+<li>Attendees were reminded of the Code in the opening speech of each day.</li>
+</ul>
+<h3 id="what-could-have-been-done_1">What Could Have Been Done<small class="permalink"><a href="#what-could-have-been-done_1" title="Trvalý odkaz na tento nadpis">#</a></small></h3>
+<ul>
+<li>Summary of the Code in both languages was not posted around the venue.</li>
+<li>Phone numbers of the contact persons were not posted around the venue.</li>
+<li>There was no easy way to report an incident other than to write an e-mail or to talk to the CoC contact person.</li>
+<li>Czech language version of the Code was not accessible on the website.</li>
+</ul>
+<figure class="figure"><a href="https://blog.python.cz/images/pyconcz2016_d1-33.jpg" target="_blank" title="Coding during talks"><img alt="Coding during talks" src="https://blog.python.cz/images/thumbnails/pyconcz2016_d1-33.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<h2 id="budget">Budget<small class="permalink"><a href="#budget" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p>In the spirit of open source and transparency, we’re happy to share a summary of our budget (all numbers are thousands of Czech Koruna, CZK).</p>
+<h3 id="income">Income<small class="permalink"><a href="#income" title="Trvalý odkaz na tento nadpis">#</a></small></h3>
+<ul>
+<li>Sponsorship: 690</li>
+<li>Ticket sales: 400</li>
+<li><strong>Total: 1090</strong></li>
+</ul>
+<h3 id="expenses">Expenses<small class="permalink"><a href="#expenses" title="Trvalý odkaz na tento nadpis">#</a></small></h3>
+<ul>
+<li>Venue: 215</li>
+<li>Catering: 187</li>
+<li>Robot workshop: 9</li>
+<li>Conference party (food + drinks): 41</li>
+<li>Financial aid (incl. keynote speakers): 130</li>
+<li>Photo/video recording &amp; editing: 97</li>
+<li>Swag, lanyards: 29</li>
+<li>On-site fun (DJ, games): 21</li>
+<li>Stationery, roll-ups: 18</li>
+<li>Various other: 46</li>
+<li><strong>Total: 793</strong></li>
+</ul>
+<h3 id="conclusion">Conclusion<small class="permalink"><a href="#conclusion" title="Trvalý odkaz na tento nadpis">#</a></small></h3>
+<p>We ended with a positive balance of close to 297 500 CZK. That’s because the conference moved from Brno to Prague and the organization team also changed, so we were very defensive about our estimates and spending. All the surplus funds will be available at <a href="http://pyvec.org/">Pyvec</a>’s <a href="https://www.fio.cz/ib2/transparent?a=2600260438">transparent account</a> as support funds to any Python-related activities in the country, and the rest is going to be applied to the next year’s event budget.</p>
+<p>In the past, Pyvec had only limited funds to reimburse community expenses such as stickers, community sprints, <a href="https://twitter.com/lumirbalhar/status/915545723265052673">workshop/meetup equipment</a>, open source educational materials, and more. Thanks to PyCon CZ 2017 surplus funds, the support budget is now much larger, which can be a significant help to the development of the Czech community.</p>
+<p>Should funding prevent you from organizing a Python-related event, or should you miss any equipment needed to promote Python, please let us know at <a href="mailto:info@pyvec.org">info@pyvec.org</a>. The funds are a great opportunity for the Czech community to thrive – which means not only more beginners, but also a healthier job market.</p>
+<figure class="figure"><a href="https://blog.python.cz/images/workshops.gif" target="_blank" title="Robot workshop buzz"><img alt="Robot workshop buzz" src="https://blog.python.cz/images/workshops.gif" class="figure-img img-fluid img-rounded"></a><figcaption class="figure-caption">
+<a href="https://cz.pycon.org/2017/speakers/detail/workshop/1/">Robot workshop</a></figcaption></figure>
+<h2 id="2018">2018<small class="permalink"><a href="#2018" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p>Now, on planning PyCon CZ 2018. For the next year, the conference stays in Prague. Neither the approximate date should change, so count with early summer. You can join the organizing team, or just keep track of our progress via our different channels:</p>
+<ul>
+<li>Twitter: <a href="https://twitter.com/pyconcz">@pyconcz</a></li>
+<li><a href="https://www.facebook.com/events/1271690599641233/">Facebook</a></li>
+<li>E-mail: <a href="mailto:info@pycon.cz">info@pycon.cz</a></li>
+<li>Website: <a href="https://cz.pycon.org/">pycon.cz</a></li>
+</ul>
+<p>Send an email to <a href="mailto:info@pycon.cz">info@pycon.cz</a> if you’d like to request an invite to join our PyCon CZ planning channel on <a href="https://pyvec.slack.com/">Slack</a> (it can also be used through IRC).</p>
+<p>See you in 2018!</p>
+<figure class="figure"><a href="https://blog.python.cz/images/pyconcz2017_d2-72.jpg" target="_blank" title="Always look on the bright side of life"><img alt="Always look on the bright side of life" src="https://blog.python.cz/images/thumbnails/pyconcz2017_d2-72.jpg" class="figure-img img-fluid img-rounded"></a><figcaption class="figure-caption">
+<a href="https://www.youtube.com/watch?v=RV5h0voNg6U">Closing ceremony</a></figcaption></figure></div>
+    </div>
+
+        <hr>
+
+        <div id="about" class="about">
+            <h2 class="supressed">
+                    Honza Javorek
+
+                        &middot; <a href="http://twitter.com/honzajavorek" target="_blank">@honzajavorek</a>
+            </h2>
+            <div class="about-box">
+                <div class="about-image">
+                    <div class="about-image-crop img-rounded">
+                            <img src="http://www.gravatar.com/avatar/7b2e4bf7ecca28e530e1c421f0676c0b?s=200">
+                    </div>
+                </div>
+                <div class="about-text">
+                    <p><a href="http://honzajavorek.cz">Honza</a> is a software engineer. Since 2011, he has been helping to develop the <a href="http://python.cz/">Czech Python user group</a>. He works at <a href="https://apiary.io/">Apiary</a> as a maintainer of <a href="https://github.com/apiaryio/dredd">Dredd</a>, an open source tool for testing web APIs.</p>
+                </div>
+            </div>
+        </div>
+
+    <hr>
+
+    <div id="share" class="share">
+        <a href="//www.facebook.com/sharer.php?u=https%3A//blog.python.cz/pycon-cz-2017-conference-wrap-up-summary&amp;t=Python%C2%A0v%C2%A0%C4%8CR%20bloguje%3A%20PyCon%20CZ%202017%20Conference%20Wrap-Up%20Summary" target="_blank" class="btn btn-primary-outline">
+            <i class="fa fa-facebook-square"></i> Facebook
+        </a>
+        <a href="//twitter.com/share?url=https%3A//blog.python.cz/pycon-cz-2017-conference-wrap-up-summary&amp;text=Python%C2%A0v%C2%A0%C4%8CR%20bloguje%3A%20PyCon%20CZ%202017%20Conference%20Wrap-Up%20Summary" target="_blank" class="btn btn-info-outline">
+            <i class="fa fa-twitter-square"></i> Twitter
+        </a>
+    </div>
+
+        <hr>
+
+        <div class="article-comments" id="comments">
+            <div id="disqus_thread"></div>
+            <script>
+                var disqus_sitename = "blog-python-cz";
+                var disqus_config = function () {
+                    this.page.identifier = "\/home\/runner\/work\/blog.python.cz\/blog.python.cz\/content\/2017-09-19_pycon-cz-2017-conference-wrap-up-summary.md";
+                    this.page.title = "PyCon CZ 2017 Conference Wrap-Up Summary";
+                };
+                (function() {
+                    var d = document, s = d.createElement('script');
+                    s.src = '//' + disqus_sitename + '.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();
+            </script>
+            <noscript>
+                <p class="noscript">Bez JavaScriptu se komentáře nezobrazí.</p>
+            </noscript>
+        </div>
+</div>
+
+    <hr>
+
+    <div id="feeds" class="feeds">
+        <a href="http://blog-python-cz.disqus.com/pycon_cz_2017_conference_wrap_up_summary/latest.rss" class="btn btn-primary-outline">
+            <i class="fa fa-feed"></i> Komentáře
+        </a>
+    </div>
+        </div>
+
+        <hr>
+
+        <div class="footer">
+            <p>© 2011—2024 <a href="https://blog.python.cz">Python v ČR</a></p>
+        </div>
+
+        <script async src="//platform.twitter.com/widgets.js"></script>
+            <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+            <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"></noscript>
+    </body>
+</html>
