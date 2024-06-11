@@ -16,13 +16,13 @@ At the heart of our conference is the community – PyCon CZ is created by the c
 ## Organiser team
 Our team consisted both of people based in the Czech Republic and abroad so most of our communication was online and asynchronous. Just like each PyCon CZ since 2015, we are all volunteers who have dedicated several months of spare time to prepare the event.
 
-![selfie with volunteers]({static}/images/pyconcz23_volunteers.png)
+![selfie with volunteers]({static}/images/pyconcz23_volunteers.jpg)
 
 _Volunteer team meeting on the first morning_
 
 Core team members took on the usual task areas: finding and contracting the venue, AV services, catering, bringing in furniture and equipment (over 1,000 chairs, tables and other items!), writing the call for presentations, preparing the submission system, going through the applications and selecting speakers, creating a balanced programme, taking care of the ticketing system, managing social networks, writing and replying to emails, acquiring sponsors and communicating with them clearly, managing speakers, deciding on financial aid, selecting the best coffee provider, supplying internet at the venue, creating beautiful designs, deciding on t-shirt brand and quality, watching the budget closely, finding MCs and volunteers, keeping an eye on the deadlines and pushing motivating people to finish their tasks on time… 
 
-![bringing in furniture]({static}/images/pyconcz23_furniture.png)
+![bringing in furniture]({static}/images/pyconcz23_furniture.jpg)
 
 _Bringing in the furniture_
 
@@ -43,17 +43,17 @@ Regarding the agenda, the conference offered
 
 Session topics ranged from very broad and general ones to deep dives. When we were selecting the content, we made sure that the topics won't repeat too much in the schedule. Obviously, some topics were more popular this year but we strove to cover a wider range of ideas and experience that the speakers offered to bring.
 
-![3D printers]({static}/images/pyconcz23_retrogames.png)
+![3D printers]({static}/images/pyconcz23_retrogames.jpg)
 
-![3D printers]({static}/images/pyconcz23_3Dprinters.png)
+![3D printers]({static}/images/pyconcz23_3Dprinters.jpg)
 
 _Retro games and 3D printers lounge_
 
-![board game night]({static}/images/pyconcz23_bgn.png)
+![board game night]({static}/images/pyconcz23_bgn.jpg)
 
 _Board game night_
 
-![music at the afterparty]({static}/images/pyconcz23_afterparty.png)
+![music at the afterparty]({static}/images/pyconcz23_afterparty.jpg)
 
 _Musical section at the afterparty_
 
@@ -66,7 +66,7 @@ Half (51.7%) attendees came from Prague, 31.3% came from the rest of the Czech R
 For most attendees (72.4%), this was their first PyCon CZ ever, while 10.6% have been to 3 or more Czech PyCons (remember that this was the 6th edition).
 Regarding attendees' self-perceived level of skill in Python programming, 15.9% called themselves expert Pythonistas, 43.9% stated they have done some advanced stuff in Python, 29.4% have done a few things here and there, and 10.8% were beginners in Python.
 
-![pieces of advice]({static}/images/pyconcz23_juniors.png)
+![pieces of advice]({static}/images/pyconcz23_juniors.jpg)
 
 _Junior Guru post-its, photo by Honza Javorek_
 
@@ -85,11 +85,11 @@ For supported attendees, it means that we gave them a free ticket (9 times) and 
 ## Venue & accessibility
 This year we took extra care about accessibility issues because the venue was extremely tricky from this point of view – it is an old monastery, after all. For instance, the main entrance comprised a steep hill and two flights of stairs. Although there was an elevator in the building, the upstairs room was not exactly on the same level as the first floor so we had to set up a ramp on one flight of stairs. The toilets on the ground floor were renovated, but still not big enough for a wheelchair to fit in, so we ordered a special portapotty which was set up in the backyard. In the end, there was only one attendee with a wheelchair, but luckily they could use crutches to use the toilet.
 
-![Main room]({static}/images/pyconcz23_mainroom.png)
+![Main room]({static}/images/pyconcz23_mainroom.jpg)
 
 _This was the Main room, the biggest one, seating over 300 people_
 
-![flights of stairs]({static}/images/pyconcz23_stairs.png)
+![flights of stairs]({static}/images/pyconcz23_stairs.jpg)
 
 _If you kept switching the session tracks, you could get a pretty nice stair workout_
 
@@ -99,7 +99,7 @@ As far as we know, there were no other attendees with special needs – we asked
 
 We were lucky that the weather was really nice so people could chill out in the backyard.
 
-![chilling in the backyard]({static}/images/pyconcz23_chillout.png)
+![chilling in the backyard]({static}/images/pyconcz23_chillout.jpg)
 
 _People enjoying the warm and sunny weather_
 
@@ -113,7 +113,7 @@ All keynotes were in English.
 ## Childcare
 This edition was also special thanks to an extended provision of childcare. For parents who could register their children while purchasing the tickets, we provided professional childcare services during the whole event, including Sunday's workshops. We contracted the same company that EuroPython used in July 2023 because they were happy with the quality. Just as well, we received great feedback and consider the cost to be well-spent money. Along with the retro games lounge, this was a great way to allow parents to take part in the conference and not worry about babysitting.
 
-![big childcare]({static}/images/pyconcz23_childcare.png)
+![big childcare]({static}/images/pyconcz23_childcare.jpg)
 
 _Childcare rooms were really big!_
 
@@ -205,14 +205,14 @@ PyCon CZ 23 has been the biggest PyCon CZ yet, and we ended up with a balanced f
 
 I know that we – the organising team – have learned a lot during the short time we had to prepare the event and during the event itself. I would love to thank each and every member of the team again: you are invaluable for the Czech Python community!
 
-![team on stage]({static}/images/pyconcz23_team.png)
+![team on stage]({static}/images/pyconcz23_team.jpg)
 
 _The final speech and giving thanks to the organisers and volunteers was an emotional moment_
 
 # 2024?
 What's next? Who knows! We have not formed a new organiser team, specifically, there is no main organiser ready to take on the challenge yet (as of June 2024). Should you wish to join our team, feel free to drop us a line at info@pycon.cz. And before we begin to prepare the next PyCon CZ, consider exploring and contributing to other community initiatives like PyLadies, Pyvo, PyData, and more!
 
-![human pyramid]({static}/images/pyconcz23_pyramid.png)
+![human pyramid]({static}/images/pyconcz23_pyramid.jpg)
 
 _Building a human pyramid is a tradition, photo by Honza Javorek_
 
