@@ -66,7 +66,7 @@ Half (51.7%) attendees came from Prague, 31.3% came from the rest of the Czech R
 For most attendees (72.4%), this was their first PyCon CZ ever, while 10.6% have been to 3 or more Czech PyCons (remember that this was the 6th edition).
 Regarding attendees' self-perceived level of skill in Python programming, 15.9% called themselves expert Pythonistas, 43.9% stated they have done some advanced stuff in Python, 29.4% have done a few things here and there, and 10.8% were beginners in Python.
 
-![pieces of advice]({static}/images/pyconcz23_juniors.jpg)
+![pieces of advice]({static}/images/pyconcz23_postits.jpg)
 
 _Junior Guru post-its, photo by Honza Javorek_
 
@@ -212,7 +212,7 @@ _The final speech and giving thanks to the organisers and volunteers was an emot
 # 2024?
 What's next? Who knows! We have not formed a new organiser team, specifically, there is no main organiser ready to take on the challenge yet (as of June 2024). Should you wish to join our team, feel free to drop us a line at info@pycon.cz. And before we begin to prepare the next PyCon CZ, consider exploring and contributing to other community initiatives like PyLadies, Pyvo, PyData, and more!
 
-![human pyramid]({static}/images/pyconcz23_pyramid.jpg)
+![human pyramid]({static}/images/pyconcz23_pyramid.JPG)
 
 _Building a human pyramid is a tradition, photo by Honza Javorek_
 
