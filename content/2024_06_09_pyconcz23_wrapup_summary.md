@@ -32,7 +32,8 @@ Since this year's event was supposed to be a comeback after the pause, our goal 
 ## Content
 The agenda was distributed the same way as in previous years: two days of talks (Friday and Saturday) and one day of workshops (Sunday). This gave us enough space to focus the session tracks on specific topics. One track was focused solely on data, as it is a popular area in Python programming. The second track contained general topics or talks suitable for programmers on any level. The third track offered talks for beginners – and we had so much content for them that the sessions ran in two rooms!
 Workshops ran in 9 rooms so they offered 240 seats in the morning and 200 in the afternoon, but we still couldn't satisfy everyone interested in joining them. Next time, we will need many more! And it's great to see so many people eager to learn new things.
-Regarding the agenda, the conference offered
+Regarding the agenda, the conference offered:
+
 - 4 keynotes 
 - 45 talks by 46 speakers and 17 workshops by 27 tutors
 - 2 panel discussions with 9 panel members
@@ -72,12 +73,14 @@ _Junior Guru post-its, photo by Honza Javorek_
 
 And what did people come to the event for? Most obviously said that they were interested in professional and personal development, collaboration and free and open-source software. However, half attendees were also interested in ML/AI and data-related topics. About a third wanted to learn more about testing and debugging, web development, security, and system administration / DevOps / SRE.
 Since we strove to keep the ticket registration form as short as possible, we only know about gender diversity from two sources:
+
 - calculated from ticket registration names (25% were female names) and
 - feedback respondents (19% of attendees and 28% of speakers were female, and 1% of attendees and 1% of speakers were non-binary)
 
 Regarding age, we only collected this data in the feedback form, which had a low response rate of 22%, so the following information might not represent all attendees of the conference. According to the feedback form, 35% of attendees were under 29 and 51% were in the 30–39 group.
 ## Financial Aid
 PyCon CZ 23 offered to support people who would not otherwise be able to come to the event. This year, the financial aid was allocated as follows:
+
 - Attendees: 12k CZK
 - Speakers: 41k CZK
 
@@ -105,6 +108,7 @@ _People enjoying the warm and sunny weather_
 
 ## Languages
 The official language of the event is English (17% of attendees and 38% of speakers arrived from abroad), but as we offered a significant part of the programme to beginners who were mostly Czech-speaking, we allowed speakers to present in Czech if they did not feel like speaking English. Sessions in Czech were:
+
 - 13 talks (out of 51),
 - both panels and
 - 5 workshops (out of 17).
@@ -132,7 +136,8 @@ In general, 35% of attendees were very satisfied with the overall content of the
 
 The questionnaire also asked the respondents to rate individual sessions. This was done on a lexical scale (Excellent, Good, Not great, not terrible, and Not good). We recalculated the ratings into a numeric scale of 4 to 1, 4 being Excellent, i.e., the higher the number, the better the rating. Only sessions with enough ratings were considered.
 
-Five best rated talks were
+Five best rated talks were:
+
 - talk by P. Šimeček: Velké jazykové modely: naučte ChatGPT básnit a zkroťte si svou lamu (3.81)
 - talk by M. Brabenec: Tam a zase zpátky aneb cesta HTTP požadavku (3.78)
 - panel discussion Mýty a stereotypy o IT by M. Bajić, H. Javorek, L. Tvrdíková, Š. Melicharová, R. Hraška (3.73)
@@ -152,6 +157,7 @@ The AV company let us down when they forgot to record speakers' screens. Therefo
 
 # Photos
 Find official photos in these albums:
+
 - Friday: [https://photos.app.goo.gl/NrAZCSETfs3FyiAH8](https://photos.app.goo.gl/NrAZCSETfs3FyiAH8)
 - Saturday: [https://photos.app.goo.gl/EYXc2idtaTJ5YtL17](https://photos.app.goo.gl/EYXc2idtaTJ5YtL17)
 - Sunday: [https://photos.app.goo.gl/LrftL1CEijHGbcQ87](https://photos.app.goo.gl/LrftL1CEijHGbcQ87)
@@ -164,8 +170,10 @@ We had numbers from the past that we could base our financial estimates on, but 
 Luckily, we were able to connect with many partners who supported us financially, and received 2 grants from Python NGOs (EuroPython Society and Python Software Foundation). We are grateful to everyone who joined in to help us make PyCon CZ 23 reality!
 
 Below, you can find detailed income and expense items; all amounts are in thousand CZK.
+
 ## Income
 Total income was 2,271, of which:
+
 - Tickets: 1,066
 - T-shirts: 42
 - Sponsors: 709
@@ -174,6 +182,7 @@ Total income was 2,271, of which:
 & there was some available amount from previous conferences: 223
 ## Expenses
 Total expenses were 2,430, of which:
+
 - Main venue rent: 169
 - Furniture rent: 129
 - Childcare: 45
