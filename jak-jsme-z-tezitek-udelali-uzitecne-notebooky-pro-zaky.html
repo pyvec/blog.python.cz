@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+        <title>Jak jsme z těžítek udělali užitečné notebooky pro žáky - Python v ČR bloguje</title>
+
+            <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css">
+            <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arbutus+Slab:400,700&amp;subset=latin,latin-ext">
+
+        <link rel="stylesheet" href="https://blog.python.cz/theme/css/code.css">
+        <link rel="stylesheet" href="https://blog.python.cz/theme/css/main.css">
+            <link rel="stylesheet" href="https://blog.python.cz/theme/css/site.css">
+
+                <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje - všechny články" href="https://blog.python.cz/feed.xml">
+                <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje - všechny komentáře" href="http://blog-python-cz.disqus.com/latest.rss">
+
+        <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje – komentáře ke článku Jak jsme z těžítek udělali užitečné notebooky pro žáky" href="http://blog-python-cz.disqus.com/jak_jsme_z_tezitek_udelali_uzitecne_notebooky_pro_zaky/latest.rss">
+
+        <link rel="shortcut icon" type="image/x-icon" href="https://blog.python.cz/favicon.ico">
+
+    <meta property="og:title" content="Jak jsme z těžítek udělali užitečné notebooky pro žáky - Python v ČR bloguje">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="og:description" content="Jak jsme z těžítek udělali užitečné notebooky pro žáky - Python v ČR bloguje">
+        <meta property="og:image" content="https://blog.python.cz/images/thumbnails/old_pc_clipart.png">
+        <meta name="twitter:creator" content="@lumirbalhar">
+    </head>
+    <body>
+        <div class="container article">
+<div class="site-navigation">
+    <a href="https://blog.python.cz" class="btn btn-primary">
+        <i class="fa fa-home"></i> Python v ČR bloguje
+    </a>
+</div>
+
+<div class="article-container">
+    <div class="header">
+        <h1>Jak jsme&nbsp;z těžítek udělali užitečné notebooky&nbsp;pro žáky</h1>
+        <p class="supressed">
+            <time datetime="2024-01-17T13:55:00+01:00" pubdate>01/17/24</time>
+            <br>
+            <a href="#about">Lumír Balhar</a>
+        </p>
+    </div>
+
+    <div class="content">
+        <div><p>V moderní době výkonného a kvalitního hardware není výjimkou, když telefon, tablet nebo notebook, který je jinak stále ve skvělé kondici, dojde na konec svého životního cyklu, protože přestane dostávat softwarové aktualizace. To se nejprve projeví na horším zabezpečení a následně i na použitelnosti, protože moderní aplikace přestávají na neaktualizovaném systému jedna po druhé fungovat. Funkční zařízení se ale přece nevyhazují a tak by se na školách po celé republice jistě našla nejedna skříň plná zařízení, která sice fungují, ale nikdo je nepoužívá.</p>
+<figure class="figure"><a href="https://blog.python.cz/images/old_pc_clipart.png" target="_blank" title="clipart starý počítač"><img alt="clipart starý počítač" src="https://blog.python.cz/images/thumbnails/old_pc_clipart.png" class="figure-img img-fluid img-rounded"></a></figure>
+<p>Nejiná byla situace i na GALILEO SCHOOL - bilingvní mateřské škole a základní škole, s.r.o. ve Frýdku-Místku, kde měli k dispozici téměř čtyři desítky skoro deset let starých chromebooků Thinkpad. Jejich baterie byla stále ve skvělé kondici, procesor a další komponenty na kancelářskou práci dostačující, ale v zastaralém prohlížeči už moderní kancelářské balíky odmítly fungovat. Místní učitelku a absolventku začátečnického kurzu programování v komunitě PyLadies Ostrava Zuzku Grosmanovou napadlo, že tento problém musí mít nějaké řešení, a tak se ozvala ostravské komunitě a započalo hledání řešení.</p>
+<p>V tuto chvíli by se mohlo zdát, že reinstalaci operačního systému nebude nic bránit, a nebude tedy ani o čem referovat. Opak je pravdou. Chromebooky mají firmware na základní desce chráněn proti přepisu, a proto jej nelze jednoduše nahradit. Bez nového fimware ale nejde provést reinstalaci operačního systému, jak jsme zvyklí z obyčejných počítačů.</p>
+<p>O nějakých pár hodin hledání na internetu a mnoha vyšroubovaných šroubcích později jsme se dostali do stavu, kdy šroubek zajišťující hardwarovou ochranu firmwaru proti přepisu konečně opustil své místo na základní desce a nic nebránilo aktualizaci firmwaru a reinstalaci operačního systému.</p>
+<figure class="figure"><a href="https://blog.python.cz/images/research.jpg" target="_blank" title="rozebraný chromebook"><img alt="rozebraný chromebook" src="https://blog.python.cz/images/thumbnails/research.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<p>Všechny testovacích kusy tento pokus přežily a testování na škole potvrdilo, že je nový systém pro žáky vyhovující. Jenže co se zbylými stroji? S trochou tréninku zabrala hardwarová část na jednom stroji přibližně 25 minut a reinstalace pak dalších 30. To bychom sami dělali věčnost. Co nezvládneme automatizovat, na to musí přijít hrubá (komunitní) lidská síla.</p>
+<p>Nejprve jsme na <a href="https://pyvo.cz/ostrava-pyvo/">Pyvu v Ostravě</a> udělali o našich pokusech krátké povídání a abychom případné zájemce navnadili, jeden z notebooků jsme rozebrali i přímo na místě.</p>
+<figure class="figure"><a href="https://blog.python.cz/images/pyvo.jpg" target="_blank" title="chromebook na Pyvu"><img alt="chromebook na Pyvu" src="https://blog.python.cz/images/thumbnails/pyvo.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<p>A světe div se, našlo se dost lidí ochotných věnovat část svého volného času o víkendu dobré věci. Den D nastal v neděli 12. ledna 2024 v 9 ráno. Sešli jsme se v úctyhodném počtu patnácti dobrovolníků v prostorách GALILEO SCHOOL, usedli do lavic a hned se vrhli do práce. Mladší z nás byli v dobře známém prostředí, ti starší se do školních lavic vrátili po mnoha letech. Někteří montovali, jiní instalovali a do hodiny nabrala celá práce nevídaných obrátek. Notebooky na hardwarovou část postupně docházely a instalaci se dařilo dělat na mnoha strojích paralelně.</p>
+<figure class="figure"><a href="https://blog.python.cz/images/ukazka_ve_skole.jpg" target="_blank" title="ukázka ve škole"><img alt="ukázka ve škole" src="https://blog.python.cz/images/thumbnails/ukazka_ve_skole.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<figure class="figure"><a href="https://blog.python.cz/images/prace_ve_skole.jpg" target="_blank" title="práce ve škole"><img alt="práce ve škole" src="https://blog.python.cz/images/thumbnails/prace_ve_skole.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<p>Předem připravený návod na reinstalaci, ochota si maximálně pomáhat, dobrá káva a skvělá organizace celé akce udělaly z různorodé skupinky lidí, z nichž se někteří viděli úplně poprvé, dobře organizovanou pracovní sílu s jasným cílem, který se dařilo velice rychle plnit.</p>
+<figure class="figure"><a href="https://blog.python.cz/images/prace_ve_skole_fisheye.jpg" target="_blank" title="práce ve škole"><img alt="práce ve škole" src="https://blog.python.cz/images/thumbnails/prace_ve_skole_fisheye.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<p>Chvílemi se zdálo, že ani nebude třeba řešit oběd. Pracovníci bohatě předčili naše očekávání a krátce po jedné hodině odpoledne už skoro nebylo co dělat. Až na pár strojů, které budou ještě vyžadovat speciální péči, se celá akce vydařila na výbornou a co bylo zbytečným těžítkem ve skříni, už opět slouží žákům.</p>
+<figure class="figure"><a href="https://blog.python.cz/images/plnici_se_bedny.jpg" target="_blank" title="plnící se přepravky"><img alt="plnící se přepravky" src="https://blog.python.cz/images/thumbnails/plnici_se_bedny.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<p>Poděkování patří všem, kteří neváhali a zapojili se do prospěšné činnosti. Věřím, že jsme si z toho všichni odnesli nejen dobrý pocit.</p></div>
+    </div>
+
+        <hr>
+
+        <div id="about" class="about">
+            <h2 class="supressed">
+                    Lumír Balhar
+
+                        &middot; <a href="http://twitter.com/lumirbalhar" target="_blank">@lumirbalhar</a>
+            </h2>
+            <div class="about-box">
+                <div class="about-image">
+                    <div class="about-image-crop img-rounded">
+                            <img src="http://www.gravatar.com/avatar/f74810f0515dfe77b61801c1526c8a76?s=200">
+                    </div>
+                </div>
+                <div class="about-text">
+                    <p>Lumír pracuje jako senior software inženýr a ve volném čase organizuje komunitní srazy, kurzy a workshopy, vyučuje první pomoc a dělá dobrovolného hasiče.</p>
+                </div>
+            </div>
+        </div>
+
+    <hr>
+
+    <div id="share" class="share">
+        <a href="//www.facebook.com/sharer.php?u=https%3A//blog.python.cz/jak-jsme-z-tezitek-udelali-uzitecne-notebooky-pro-zaky&amp;t=Python%C2%A0v%C2%A0%C4%8CR%20bloguje%3A%20Jak%20jsme%20z%20t%C4%9B%C5%BE%C3%ADtek%20ud%C4%9Blali%20u%C5%BEite%C4%8Dn%C3%A9%20notebooky%20pro%20%C5%BE%C3%A1ky" target="_blank" class="btn btn-primary-outline">
+            <i class="fa fa-facebook-square"></i> Facebook
+        </a>
+        <a href="//twitter.com/share?url=https%3A//blog.python.cz/jak-jsme-z-tezitek-udelali-uzitecne-notebooky-pro-zaky&amp;text=Python%C2%A0v%C2%A0%C4%8CR%20bloguje%3A%20Jak%20jsme%20z%20t%C4%9B%C5%BE%C3%ADtek%20ud%C4%9Blali%20u%C5%BEite%C4%8Dn%C3%A9%20notebooky%20pro%20%C5%BE%C3%A1ky" target="_blank" class="btn btn-info-outline">
+            <i class="fa fa-twitter-square"></i> Twitter
+        </a>
+    </div>
+
+        <hr>
+
+        <div class="article-comments" id="comments">
+            <div id="disqus_thread"></div>
+            <script>
+                var disqus_sitename = "blog-python-cz";
+                var disqus_config = function () {
+                    this.page.identifier = "\/home\/runner\/work\/blog.python.cz\/blog.python.cz\/content\/2024-01-17_jak-jsme-z-tezitek-udelali-uzitecne-notebooky-pro-zaky.md";
+                    this.page.title = "Jak jsme z t\u011b\u017e\u00edtek ud\u011blali u\u017eite\u010dn\u00e9 notebooky pro \u017e\u00e1ky";
+                };
+                (function() {
+                    var d = document, s = d.createElement('script');
+                    s.src = '//' + disqus_sitename + '.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();
+            </script>
+            <noscript>
+                <p class="noscript">Bez JavaScriptu se komentáře nezobrazí.</p>
+            </noscript>
+        </div>
+</div>
+
+    <hr>
+
+    <div id="feeds" class="feeds">
+        <a href="http://blog-python-cz.disqus.com/jak_jsme_z_tezitek_udelali_uzitecne_notebooky_pro_zaky/latest.rss" class="btn btn-primary-outline">
+            <i class="fa fa-feed"></i> Komentáře
+        </a>
+    </div>
+        </div>
+
+        <hr>
+
+        <div class="footer">
+            <p>© 2011—2024 <a href="https://blog.python.cz">Python v ČR</a></p>
+        </div>
+
+        <script async src="//platform.twitter.com/widgets.js"></script>
+            <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+            <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"></noscript>
+    </body>
+</html>

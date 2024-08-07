@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+        <title>Ostravské Pyvo – co teď? A co potom? - Python v ČR bloguje</title>
+
+            <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css">
+            <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arbutus+Slab:400,700&amp;subset=latin,latin-ext">
+
+        <link rel="stylesheet" href="https://blog.python.cz/theme/css/code.css">
+        <link rel="stylesheet" href="https://blog.python.cz/theme/css/main.css">
+            <link rel="stylesheet" href="https://blog.python.cz/theme/css/site.css">
+
+                <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje - všechny články" href="https://blog.python.cz/feed.xml">
+                <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje - všechny komentáře" href="http://blog-python-cz.disqus.com/latest.rss">
+
+        <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje – komentáře ke článku Ostravské Pyvo – co teď? A co potom?" href="http://blog-python-cz.disqus.com/ostravske_pyvo_co_ted_a_co_potom/latest.rss">
+
+        <link rel="shortcut icon" type="image/x-icon" href="https://blog.python.cz/favicon.ico">
+
+    <meta property="og:title" content="Ostravské Pyvo – co teď? A co potom? - Python v ČR bloguje">
+        <meta name="twitter:card" content="summary">
+            <meta property="og:image" content="https://blog.python.cz/images/about.png">
+        <meta name="twitter:creator" content="@lumirbalhar">
+    </head>
+    <body>
+        <div class="container article">
+<div class="site-navigation">
+    <a href="https://blog.python.cz" class="btn btn-primary">
+        <i class="fa fa-home"></i> Python v ČR bloguje
+    </a>
+</div>
+
+<div class="article-container">
+    <div class="header">
+        <h1>Ostravské Pyvo&nbsp;–&nbsp;co teď?&nbsp;A&nbsp;co potom?</h1>
+        <p class="supressed">
+            <time datetime="2016-09-11T02:00:00+02:00" pubdate>09/11/16</time>
+            <br>
+            <a href="#about">Lumír Balhar</a>
+        </p>
+    </div>
+
+    <div class="content">
+        <div><h2 id="tl-dr">tl; dr<small class="permalink"><a href="#tl-dr" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p>Mysleli jsme si, že o Python na Ostravsku lidi nestojí, ale enormní zájem o první
+<a href="http://pyladies.cz/ostrava_course/">začátečnický kurz ostravských PyLadies</a>
+nás vyvedl z omylu, a proto jsme se rozhodli se na <a href="http://srazy.info/pyvo-v-ostrave/6754">následujících Pyvech</a>
+věnovat hlavně začátečníkům.</p>
+<h2 id="malinko-historie">Malinko historie<small class="permalink"><a href="#malinko-historie" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p>Ostravské Pyvo oslaví za nedlouho tři roky své existence a za tu dobu jsme toho zažili vcelku hodně, 
+poznali spoustu nových lidí, našli si novou lepší práci a naučili se jeden od druhého spoustu nového. Pyvo nám sem
+přivezli Honza Javorek s Petrem Viktorinem, kteří uspořádali jeho první vydání, na kterém jsme se
+seznámili a já – nadšen touto myšlenkou – jsem od nich organizaci převzal.</p>
+<p>Ze začátku to nebylo moc složité, protože o podobnou akci byl vcelku zájem a nám se dařilo každé vydání
+naplnit zajímavým obsahem, který jsme nejčastěji tvořili sami. Taková strategie ale nejde udržet
+věčně a dříve nebo později zkrátka dojdou nápady. Nepomohly nám ani ankety, kde bylo možno o tématech hlasovat,
+motivace prezentujících, ani letáčky na univerzitách. Bohužel návštěvníci Pyv byli z větší části spíše
+konzumenti než aktivní přispěvatelé, a tak se spolu s volnějším programem scházelo čím dál méně lidí.</p>
+<h2 id="trocha-soucasnosti">Trocha současnosti<small class="permalink"><a href="#trocha-soucasnosti" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p>V současné chvíli se srazy konají v komorní atmosféře a jejich obsah je spíše diskuzní než přednáškový, což
+jim ovšem v žádném případě neubírá na atraktivitě. Myslím si, že kdokoli na podobnou akci zavítal, ví,
+že se není čeho bát a představit svůj projekt, povědět něco o nově získaných znalostech nebo se
+poradit o řešení problému může být jen a pouze přínosné pro všechny. Přičemž to v žádném případě nemusí
+být omezeno pouze na Python a věci s ním přímo související.</p>
+<p>Nicméně ani prezentace Pyva coby diskusního setkání nám žádný velký nárůst návštěvnosti nepřinesla.</p>
+<p>Takže co? Pravděpodobně u nás není o Python zájem.</p>
+<p>Pak jsme se ale společně s několika slečnami rozhodli uspořádat první ostravské PyLadies
+a za deset dní se nám registrovalo přes 40 (!) účastnic. To je zvláštní. Na Pyvech se
+zdá, že Python u nás nikoho nezajímá, ale když otevřeme kurz pro úplné
+začátečnice, je naplněn ještě dříve, než se registrace začnou propagovat veřejně.</p>
+<h2 id="takze-co-dal">Takže co dál?<small class="permalink"><a href="#takze-co-dal" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p>Výše zmíněné indicie nám naznačují, že zájem o programování by byl, ale aktuální
+ani předešlé schéma Pyv asi není pro příchozí vhodné. Proto jsme se rozhodli, že následující Pyva uděláme
+na míru pro začátečníky, kteří o programování zavadili zatím jen ve sci-fi literatuře. Obsah bude také
+vhodný pro PyLadies, na které se v současném běhu kurzu z kapacitních důvodů nedostane.</p>
+<p>Máte potíže s instalací Pythonu? Chcete napsat svůj první program? Lámete si hlavu s nějakým problémem?
+Vezměte notebook pod paži, do každé kapsy dobrou náladu a dorazte.</p>
+<p>Nyní už nestojí nic v cestě ani naprostým začátečníkům, kteří na srazech najdou nejen obsah přesně
+pro sebe, ale v začátcích se tam také mohou chodit radit a zlepšovat své znalosti díky spolupráci
+s komunitou.</p>
+<p>Dost váhání, prostě dorazte, startujeme první středu v říjnu.</p>
+<p>Sledovat nás můžete všude možně.</p>
+<ul>
+<li><strong><a href="https://www.facebook.com/groups/pyvoruby/">skupina na Facebooku</a></strong></li>
+<li><strong><a href="https://www.facebook.com/events/156943694751065/">událost na Facebooku</a></strong></li>
+<li><strong><a href="http://srazy.info/pyvo-v-ostrave/6754">událost na Srazy.info</a></strong></li>
+<li><strong><a href="http://lanyrd.com/2016/ostrava-pyvo-october/">událost na Lanyrd.com</a></strong></li>
+<li><strong><a href="https://twitter.com/napyvo?lang=cs">Twitter účet @naPyvo</a></strong></li>
+<li><strong><a href="http://python.cz/">Web české Python komunity</a></strong> s hromadou informací pro začátečníky</li>
+</ul></div>
+    </div>
+
+        <hr>
+
+        <div id="about" class="about">
+            <h2 class="supressed">
+                    Lumír Balhar
+
+                        &middot; <a href="http://twitter.com/lumirbalhar" target="_blank">@lumirbalhar</a>
+            </h2>
+            <div class="about-box">
+                <div class="about-image">
+                    <div class="about-image-crop img-rounded">
+                            <img src="http://www.gravatar.com/avatar/f74810f0515dfe77b61801c1526c8a76?s=200">
+                    </div>
+                </div>
+                <div class="about-text">
+                    <p><a href="https://twitter.com/lumirbalhar">Lumír</a> - Dříve správce superpočítačů, nyní SW inženýr v Red Hatu, organizátor Pyva a PyLadies v razovitem regionu, hasič, motorkář, bubeník ...</p>
+                </div>
+            </div>
+        </div>
+
+    <hr>
+
+    <div id="share" class="share">
+        <a href="//www.facebook.com/sharer.php?u=https%3A//blog.python.cz/ostravske-pyvo-co-ted-a-co-potom&amp;t=Python%C2%A0v%C2%A0%C4%8CR%20bloguje%3A%20Ostravsk%C3%A9%20Pyvo%20%E2%80%93%20co%20te%C4%8F%3F%20A%20co%20potom%3F" target="_blank" class="btn btn-primary-outline">
+            <i class="fa fa-facebook-square"></i> Facebook
+        </a>
+        <a href="//twitter.com/share?url=https%3A//blog.python.cz/ostravske-pyvo-co-ted-a-co-potom&amp;text=Python%C2%A0v%C2%A0%C4%8CR%20bloguje%3A%20Ostravsk%C3%A9%20Pyvo%20%E2%80%93%20co%20te%C4%8F%3F%20A%20co%20potom%3F" target="_blank" class="btn btn-info-outline">
+            <i class="fa fa-twitter-square"></i> Twitter
+        </a>
+    </div>
+
+        <hr>
+
+        <div class="article-comments" id="comments">
+            <div id="disqus_thread"></div>
+            <script>
+                var disqus_sitename = "blog-python-cz";
+                var disqus_config = function () {
+                    this.page.identifier = "\/home\/runner\/work\/blog.python.cz\/blog.python.cz\/content\/2016-09-11_ostravske-pyvo-co-ted-a-co-potom.md";
+                    this.page.title = "Ostravsk\u00e9 Pyvo \u2013 co te\u010f? A co potom?";
+                };
+                (function() {
+                    var d = document, s = d.createElement('script');
+                    s.src = '//' + disqus_sitename + '.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();
+            </script>
+            <noscript>
+                <p class="noscript">Bez JavaScriptu se komentáře nezobrazí.</p>
+            </noscript>
+        </div>
+</div>
+
+    <hr>
+
+    <div id="feeds" class="feeds">
+        <a href="http://blog-python-cz.disqus.com/ostravske_pyvo_co_ted_a_co_potom/latest.rss" class="btn btn-primary-outline">
+            <i class="fa fa-feed"></i> Komentáře
+        </a>
+    </div>
+        </div>
+
+        <hr>
+
+        <div class="footer">
+            <p>© 2011—2024 <a href="https://blog.python.cz">Python v ČR</a></p>
+        </div>
+
+        <script async src="//platform.twitter.com/widgets.js"></script>
+            <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+            <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"></noscript>
+    </body>
+</html>
