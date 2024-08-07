@@ -1,6 +1,6 @@
 Title: PyCon CZ 23 wrap-up and summary: How did we do?
 Date: 2024-06-09 11:33:00
-Modified: 2024-06-09 11:33:00
+Modified: 2024-08-08 00:33:00
 Author: Bára Drbohlavová
 Twitter: baradrb
 Gravatar: bara@drbohlavova.me
