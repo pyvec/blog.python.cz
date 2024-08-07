@@ -14,13 +14,13 @@ Scroll down for tl;dr 🙂
 At the heart of our conference is the community – PyCon CZ is created by the community, for the community. Due to Covid, we suffered a 4-year-long break so this year it was all about restarting: the community, the event, the momentum, and reigniting the passion that binds us together.
 
 ## Organiser team
-Our team consisted both of people based in the Czech Republic and abroad so most of our communication was online and asynchronous. Just like each PyCon CZ since 2015, we are all volunteers who have dedicated several months of spare time to prepare the event.
+Our team consisted both of people based in the Czech Republic and abroad so most of our communication was online and asynchronous. Just like at each PyCon CZ since 2015, we are all volunteers who have dedicated several months of spare time to prepare the event.
 
 ![selfie with volunteers]({static}/images/pyconcz23_volunteers.jpg)
 
 _Volunteer team meeting on the first morning_
 
-Core team members took on the usual task areas: finding and contracting the venue, AV services, catering, bringing in furniture and equipment (over 1,000 chairs, tables and other items!), writing the call for presentations, preparing the submission system, going through the applications and selecting speakers, creating a balanced programme, taking care of the ticketing system, managing social networks, writing and replying to emails, acquiring sponsors and communicating with them clearly, managing speakers, deciding on financial aid, selecting the best coffee provider, supplying internet at the venue, creating beautiful designs, deciding on t-shirt brand and quality, watching the budget closely, finding MCs and volunteers, keeping an eye on the deadlines and pushing motivating people to finish their tasks on time… 
+Core team members took on the usual task areas: finding and contracting the venue, AV services, catering, bringing in furniture and equipment (over 1,000 chairs, tables and other items!), writing the call for presentations, preparing the submission system, going through the applications and selecting speakers, creating a balanced programme, taking care of the ticketing system, managing social networks, writing and replying to emails, acquiring sponsors and communicating with them clearly, managing speakers, deciding on financial aid, selecting the best coffee provider, supplying internet at the venue, creating beautiful designs, deciding on t-shirt brand and quality, watching the budget closely, finding MCs and volunteers, keeping an eye on the deadlines and ~~pushing~~ motivating people to finish their tasks on time… 
 
 ![bringing in furniture]({static}/images/pyconcz23_furniture.jpg)
 
@@ -115,7 +115,7 @@ The official language of the event is English (17% of attendees and 38% of speak
 
 All keynotes were in English.
 ## Childcare
-This edition was also special thanks to an extended provision of childcare. For parents who could register their children while purchasing the tickets, we provided professional childcare services during the whole event, including Sunday's workshops. We contracted the same company that EuroPython used in July 2023 because they were happy with the quality. Just as well, we received great feedback and consider the cost to be well-spent money. Along with the retro games lounge, this was a great way to allow parents to take part in the conference and not worry about babysitting.
+This edition was also special thanks to an extended provision of childcare. For parents (who could register their children while purchasing the tickets), we provided professional childcare services during the whole event, including Sunday's workshops. We contracted the same company that EuroPython used in July 2023 because they were happy with the quality. Just as well, we received great feedback and consider the cost to be well-spent money. Along with the retro games lounge, this was a great way to allow parents to take part in the conference and not worry about babysitting.
 
 ![big childcare]({static}/images/pyconcz23_childcare.jpg)
 
