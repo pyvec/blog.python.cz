@@ -1,6 +1,7 @@
 Title: Prague Python Pizza has Arrived to Prague
 Date: 2024-03-04 18:00:00
 Author: Mia Bajic
+Gravatar: miabajic.miabajic@gmail.com
 
 [Python Pizza](https://python.pizza/), an event that unites Python enthusiasts and pizza lovers, started its journey in Italy, the birthplace of pizza. After making its way through many cities, it has finally arrived in Prague. 
 This marks the very first time [this unique gathering](https://prague.python.pizza/) has taken place here, offering our community a fantastic chance to connect, share knowledge, and eat some delicious pizza!
