@@ -32,10 +32,17 @@ Poprosila jsem Karolinu, aby sepsala, čemu se věnovala, a přidávám v needit
 > Letos jsem se tak podruhé pustila do pokusu o [generování webu pyladies.cz pomocí komunitou vytvářené knihovny freezeyt](https://github.com/PyLadiesCZ/pyladies.cz/issues/735). 
 > Předchozí nastavení používá knihovny, které jsou už roky nepodporované, a v budoucnu nejspíše přestanou fungovat. 
 > Metodou pokus omyl se mi podařilo dosáhnout stejného výstupu jako při stávajícím řešení. 
-> Pro nachystání Pull Requestu potřebuji ale zaručit, že stránku bude i nadále možné i nadále spustit pro lokální vývoj - čeká mě ještě zavrtání se do Flasku. 
+> Pro nachystání Pull Requestu potřebuji ale zaručit, že stránku bude i nadále možné spustit pro lokální vývoj - čeká mě ještě zavrtání se do Flasku. 
 > Snad dřív, než na dalším sprintu.
 
 Sobotní večer jsme zakončili posezením u ohně pod novou pergolou (je skvělá, tak si zaslouží zmínku!).
+
+### Neděle
+
+Neděle už byla čistě nepracovní.
+Podařilo se nám být poněkud hospodárnější v odjezdech a tak musel Lumír sedat za volant jen dvakrát.
+
+První část účastnictva opustila Lískovec před devátou ráno a poslední účastník sprintu dorazil domů v 19:47.
 
 ### Závěrem
 
