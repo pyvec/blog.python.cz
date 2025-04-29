@@ -21,8 +21,9 @@ V sobotu jsme se rozdělili na dva pracovní týmy.
 
 Jeden se věnoval přípravě PyCampu Beta, neformálního barcampového setkání Python komunity v polovině září letošního roku.
 Na agendě jsme měli vyřešit systém ubytování, probrat možnosti občerstvení, udělat finanční rozvahu akce a na základě těchto vstupů navrhnout ceny lístků.
+
 Krom těchto ryze praktických věcí jsme se také rozhodli natočit promo video.
-Výsledek našeho snažení uvidítě již brzy!
+Výsledek našeho snažení uvidíte již brzy na svých přijímačích!
 
 Druhý, jednočlenný tým, který tvořila Karolina, se zabýval stránkami PyLadies.
 Poprosila jsem Karolinu, aby sepsala, čemu se věnovala, a přidávám v needitované verzi:
