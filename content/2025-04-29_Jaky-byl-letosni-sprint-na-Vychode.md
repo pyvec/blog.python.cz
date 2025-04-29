@@ -19,7 +19,7 @@ Večer jsme pokračovali socializací a přípravou na sobotu.
 
 V sobotu jsme se rozdělili na dva pracovní týmy. 
 
-Jeden se věnoval přípravě PyCampu Beta, neformálního barcampového setkání Python komunity v polovině září letošního roku.
+Jeden se věnoval přípravě [PyCampu Beta](https://pycamp.cz/), neformálního barcampového setkání Python komunity v polovině září letošního roku.
 Na agendě jsme měli vyřešit systém ubytování, probrat možnosti občerstvení, udělat finanční rozvahu akce a na základě těchto vstupů navrhnout ceny lístků.
 
 Krom těchto ryze praktických věcí jsme se také rozhodli natočit promo video.
