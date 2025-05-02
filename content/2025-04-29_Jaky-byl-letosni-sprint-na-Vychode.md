@@ -22,8 +22,8 @@ V sobotu jsme se rozdělili na dva pracovní týmy.
 Jeden se věnoval přípravě [PyCampu Beta](https://pycamp.cz/), neformálního barcampového setkání Python komunity v polovině září letošního roku.
 Na agendě jsme měli vyřešit systém ubytování, probrat možnosti občerstvení, udělat finanční rozvahu akce a na základě těchto vstupů navrhnout ceny lístků.
 
-Krom těchto ryze praktických věcí jsme se také rozhodli natočit promo video.
-Výsledek našeho snažení uvidíte již brzy na svých přijímačích!
+Krom těchto ryze praktických věcí jsme se také rozhodli natočit promo video!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EawXAM-iVPM?si=2o4b0oSgi3BcvGYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Druhý, jednočlenný tým, který tvořila Karolina, se zabýval stránkami PyLadies.
 Poprosila jsem Karolinu, aby sepsala, čemu se věnovala, a přidávám v needitované verzi:
