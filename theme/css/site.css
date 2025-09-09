@@ -1,0 +1,95 @@
+
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    border-color: #337AB7;
+}
+
+.supressed, .supressed *, .site-header-subtitle {
+  color: #646464;
+}
+
+body, .site-header-subtitle,
+.supressed
+.btn {
+  color: #333;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-weight: bold;
+    color: #333;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Arbutus Slab', serif;
+}
+
+a {
+    color: #337AB7;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: #23527C;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:hover {
+    background-color: #337AB7;
+    border-color: #337AB7;
+}
+
+.content ul li::before {
+    color: #337AB7;
+}
+
+.site-header {
+    margin-bottom: 4rem;
+}
+
+.site-header::after {
+    content: "";
+    display: block;
+    height: 200px;
+    margin: 3rem auto 0 auto;
+    background-image: url('/images/czech-python-user-group.png');
+    background-image: url('/images/czech-python-user-group.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.site-header-title {
+    max-width: 35rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media only screen and (max-width: 600px) {
+  .site-header-title {
+    font-size: 3rem;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .site-header-title {
+    font-size: 2.5rem;
+  }
+}
+
+.archive-year {
+    /* Keep each year's entries together
+     * inspired by http://stackoverflow.com/questions/6424088/css-column-breaks
+     */
+    display: inline-block;
+    width: 100%;
+}
