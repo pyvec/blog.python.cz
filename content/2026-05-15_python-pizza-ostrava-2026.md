@@ -62,7 +62,7 @@ Lokalitu vyplnilo 83 lidí:
 | Brno                            |    18 |
 | Ostrava                         |    16 |
 | Kraków, Poland                  |    12 |
-| Prague                          |    10 |
+| Praha                           |    10 |
 | Poland                          |     5 |
 | Olomouc                         |     2 |
 | Skopje, Macedonia               |     2 |
@@ -76,12 +76,12 @@ Lokalitu vyplnilo 83 lidí:
 | Frýdek-Místek                   |     1 |
 | Havířov                         |     1 |
 | Ireland                         |     1 |
-| Nowy Żmigród                    |     1 |
-| Pilsen                          |     1 |
+| Nowy Żmigród, Poland            |     1 |
+| Plzeň                           |     1 |
 | Rožnov pod Radhoštěm            |     1 |
-| Skawina                         |     1 |
+| Skawina, Poland                 |     1 |
 | United States                   |     1 |
-| Vienna                          |     1 |
+| Vienna, Austria                 |     1 |
 
 
 ## Poděkování
@@ -102,6 +102,6 @@ Pokud pro vás byla Ostrava příliš daleko, mohli jste se Pizzy zúčastnit po
 ![AV gurus]({static}/images/pp26_av.jpeg)
 
 ## Fotky
-Fotografie z akce si můžete prohlédnout na [Google Disku]().
+Fotografie z akce si můžete prohlédnout na [Google Disku](https://photos.app.goo.gl/4RKXWsSq1P9LLHw96).
 
 ![Společná fotka]({static}/images/pp26_together.jpeg)
