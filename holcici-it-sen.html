@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="cs">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+        <title>Holčičí IT sen - Python v ČR bloguje</title>
+
+            <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css">
+            <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arbutus+Slab:400,700&amp;subset=latin,latin-ext">
+
+        <link rel="stylesheet" href="https://blog.python.cz/theme/css/code.css">
+        <link rel="stylesheet" href="https://blog.python.cz/theme/css/main.css">
+            <link rel="stylesheet" href="https://blog.python.cz/theme/css/site.css">
+
+                <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje - všechny články" href="https://blog.python.cz/feed.xml">
+                <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje - všechny komentáře" href="http://blog-python-cz.disqus.com/latest.rss">
+
+        <link rel="alternate" type="application/rss+xml" title="Python v ČR bloguje – komentáře ke článku Holčičí IT sen" href="http://blog-python-cz.disqus.com/holcici_it_sen/latest.rss">
+
+        <link rel="shortcut icon" type="image/x-icon" href="https://blog.python.cz/favicon.ico">
+
+    <meta property="og:title" content="Holčičí IT sen - Python v ČR bloguje">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="og:description" content="Holčičí IT sen - Python v ČR bloguje">
+        <meta property="og:image" content="https://blog.python.cz/images/thumbnails/schema.jpg">
+    </head>
+    <body>
+        <div class="container article">
+<div class="site-navigation">
+    <a href="https://blog.python.cz" class="btn btn-primary">
+        <i class="fa fa-home"></i> Python v ČR bloguje
+    </a>
+</div>
+
+<div class="article-container">
+    <div class="header">
+        <h1>Holčičí&nbsp;IT&nbsp;sen</h1>
+        <p class="supressed">
+            <time datetime="2017-03-29T00:00:00+02:00" pubdate>03/29/17</time>
+            <br>
+            <a href="#about">Tereza Jůzová</a>
+        </p>
+    </div>
+
+    <div class="content">
+        <div><p><strong>Jak vzniká takový holčičí IT sen?</strong> Všechno to začalo před pár měsíci, kdy jsem objevila možnost, přihlásit se do Digitální Akademie od Czechitas. Nepřemýšlela jsem ani minutu a hned odesílala přihlášku. Nyní je konec března a celý první běh Digitální Akademie se blíží ke konci. Bude mi to celé hrozně chybět, protože jsem za ty 3 měsíce poznala skvělou partu holek, naučila se spoustu nových věcí, potkala se s úžasnými mentory a lektory a také s naší skvělou organizaci Czechitas, která pomáhá vytvářet holčičí IT sny 👸.</p>
+<p>Můj závěrečný projekt výše zmíněného kurzu se jmenuje Czechitas wiki. Za obrovské pomoci mé skvělé mentorky Sveti, díky které jsem si zamilovala programovací jazyk <strong>Python</strong> a za to jí patří mé velké díky, se povedla za měsíc vytvořit první verze projektu, se kterou vás nyní seznámím.</p>
+<p>Webová aplikace bude sloužit studentům a lektorům Czechitas jako interní wiki, pro sdílení materiálů z jednotlivých předmětů, kurzů, workshopů apod. Usnadnění komunikace a přehlednosti celého kurzu, všechny materiály budou na jednom místě. Studenti, pak mohou také sami tvořit wiki, mohou psát články o technologiích se kterými se během kurzů seznámili, další články by se mohly týkat závěrečných projektů studentů Digitální Akademie.</p>
+<p>Uživatelé systému, jsou lektoři a studenti Czechitas. Lektor bude mít právo vytvářet jednotlivá vlákna týkající se oblastí, které vyučuje. Každé vlákno může mít několik dalších stránek a stránky pak několik dalších podstránek. Stránky a podstránky pak budou moci vytvářet jak lektoři, tak také studenti. Systém bude také propojený s kurzy na webu Czechitas a automaticky se v administraci vytvoří nové vlákno s názvem kurzu, pokud ještě vlákno neexistuje.</p>
+<h2 id="schema-postupu">Schéma postupu<small class="permalink"><a href="#schema-postupu" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<figure class="figure"><a href="https://blog.python.cz/images/schema.jpg" target="_blank" title="Schéma postupu"><img alt="Schéma postupu" src="https://blog.python.cz/images/thumbnails/schema.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<h2 id="krok-za-krokem">Krok za krokem<small class="permalink"><a href="#krok-za-krokem" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<p><strong>1. Návrh datového modelu</strong></p>
+<p>Základem pro tvorbu datového modelu jsou funkční požadavky aplikace (vytvořit vlákno, vložit stánku do vlákna, přihlášení, registrace, správa uživatelů, přidání souboru k předmětu, přidat komentář) a jednotlivá podstatná jména tvoří objekty a slovesa tvoří vazby mezi těmito objekty v datovém modelu.</p>
+<figure class="figure"><a href="https://blog.python.cz/images/datovy_model.jpg" target="_blank" title="Datový model"><img alt="Datový model" src="https://blog.python.cz/images/thumbnails/datovy_model.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<p>** 2. Správa uživatelů**</p>
+<ul>
+<li>registrovaný uživatel - lektor a student</li>
+<li>neregistrovaný uživatel - veřejná vlákna</li>
+<li>admin - veškerá práva</li>
+</ul>
+<p>** 3. User interface aplikace **</p>
+<figure class="figure"><a href="https://blog.python.cz/images/UI-wiki.jpg" target="_blank" title="UI"><img alt="UI" src="https://blog.python.cz/images/UI-wiki.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<p>** 4. Django **</p>
+<p>Přicházíme k přípravě vývojového prostředí. V tomto kroku vytváříme projekt, superusera a nastartujeme projekt na localhostu. Dalším krokem je si otevřít projekt ve vývojovém prostředí, já jsem zvolila Atom. Pak už můžeme přejít k vytvoření modelových entit v Djangu, vycházíme z navrženého datového modelu výše. Nesmíme zapomenout se připojit k databázovému serveru, budeme pracovat s databází PostgreSQL. Je tedy potřeba mít nainstalovaný databázový server a pro správu databáze potřebujeme mít nainstalovaný pgAdmin. V pgAdmin registrujeme nový server a připojíme se k němu. Teď nám zbývá vymyslet, jak bude fungovat správa vláken a správa článků.</p>
+<p>** 5. Úvodní dashboard **</p>
+<p>Konečně se dostáváme k datové práci. Úvodní dashboard je rozdělen do třech částí. V první částí se nachází zobrazení celkového počtu vláken, dále pak celkový počet uživatelů a informace o přihlášeném uživateli, jeho jméno a poslední přihlášení.</p>
+<p>Druhou částí dashboardu je tabulka s kalendářem akcí, které pořádají Czechitas. Každá akce je zároveň také nové vlákno wiki. Byla použita metoda scrapování dat z webu a zpracování dat v pandasu, na webu je vykreslený přímo pandas dataframe jako tabulka.</p>
+<p>Třetí částí je propojení Czechitas wiki s fotkami z Instagramu, kde se ve spodní části dashboardu zobrazují fotografie, které měly nejvyšší počet likes.</p>
+<h2 id="podivejme-se-nyni-jak-projekt-vypada">Podívejme se nyní, jak projekt vypadá :)<small class="permalink"><a href="#podivejme-se-nyni-jak-projekt-vypada" title="Trvalý odkaz na tento nadpis">#</a></small></h2>
+<ul>
+<li>Přihlášení uživatele</li>
+</ul>
+<figure class="figure"><a href="https://blog.python.cz/images/okno_prihlaseni.jpg" target="_blank" title="Přihlášení uživatele"><img alt="Přihlášení uživatele" src="https://blog.python.cz/images/thumbnails/okno_prihlaseni.jpg" class="figure-img img-fluid img-rounded"></a><figcaption class="figure-caption">
+* Vlákna</figcaption></figure>
+<figure class="figure"><a href="https://blog.python.cz/images/vlakna.jpg" target="_blank" title="Vlákna"><img alt="Vlákna" src="https://blog.python.cz/images/thumbnails/vlakna.jpg" class="figure-img img-fluid img-rounded"></a><figcaption class="figure-caption">
+* Články</figcaption></figure>
+<figure class="figure"><a href="https://blog.python.cz/images/clanek.jpg" target="_blank" title="Články"><img alt="Články" src="https://blog.python.cz/images/thumbnails/clanek.jpg" class="figure-img img-fluid img-rounded"></a><figcaption class="figure-caption">
+* Dashboard</figcaption></figure>
+<figure class="figure"><a href="https://blog.python.cz/images/dashboard.jpg" target="_blank" title="Dashboard"><img alt="Dashboard" src="https://blog.python.cz/images/thumbnails/dashboard.jpg" class="figure-img img-fluid img-rounded"></a></figure>
+<p>Tak to je ona první verze projektu po měsíci práce 🎉. Těším se na další pokračování a věřím, že z toho někdy bude plnohodnotná webová aplikace, která bude plnit svůj úkol. Jaký je tedy můj holčičí IT sen? Naučit se všechny ty super věci v Pythonu.</p></div>
+    </div>
+
+        <hr>
+
+        <div id="about" class="about">
+            <h2 class="supressed">
+                    Tereza Jůzová
+
+            </h2>
+            <div class="about-box">
+                <div class="about-image">
+                    <div class="about-image-crop img-rounded">
+                            <img src="http://www.gravatar.com/avatar/7ee1e3859025966bd9eabc67394d027e?s=200">
+                    </div>
+                </div>
+                <div class="about-text">
+                    <p>Nedávno jsem se stala novým nadšencem Pythonu. Volné chvíle trávím na letišti a pozoruji svět z ptačí perspektivy nebo zůstávám při zemi při jízdě na longboardu.</p>
+                </div>
+            </div>
+        </div>
+
+    <hr>
+
+    <div id="share" class="share">
+        <a href="//www.facebook.com/sharer.php?u=https%3A//blog.python.cz/holcici-it-sen&amp;t=Python%C2%A0v%C2%A0%C4%8CR%20bloguje%3A%20Hol%C4%8Di%C4%8D%C3%AD%20IT%20sen" target="_blank" class="btn btn-primary-outline">
+            <i class="fa fa-facebook-square"></i> Facebook
+        </a>
+        <a href="//twitter.com/share?url=https%3A//blog.python.cz/holcici-it-sen&amp;text=Python%C2%A0v%C2%A0%C4%8CR%20bloguje%3A%20Hol%C4%8Di%C4%8D%C3%AD%20IT%20sen" target="_blank" class="btn btn-info-outline">
+            <i class="fa fa-twitter-square"></i> Twitter
+        </a>
+    </div>
+
+        <hr>
+
+        <div class="article-comments" id="comments">
+            <div id="disqus_thread"></div>
+            <script>
+                var disqus_sitename = "blog-python-cz";
+                var disqus_config = function () {
+                    this.page.identifier = "\/home\/runner\/work\/blog.python.cz\/blog.python.cz\/content\/2017-03-29_holcici-it-sen.md";
+                    this.page.title = "Hol\u010di\u010d\u00ed IT sen";
+                };
+                (function() {
+                    var d = document, s = d.createElement('script');
+                    s.src = '//' + disqus_sitename + '.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();
+            </script>
+            <noscript>
+                <p class="noscript">Bez JavaScriptu se komentáře nezobrazí.</p>
+            </noscript>
+        </div>
+</div>
+
+    <hr>
+
+    <div id="feeds" class="feeds">
+        <a href="http://blog-python-cz.disqus.com/holcici_it_sen/latest.rss" class="btn btn-primary-outline">
+            <i class="fa fa-feed"></i> Komentáře
+        </a>
+    </div>
+        </div>
+
+        <hr>
+
+        <div class="footer">
+            <p>© 2011—2026 <a href="https://blog.python.cz">Python v ČR</a></p>
+        </div>
+
+        <script async src="//platform.twitter.com/widgets.js"></script>
+            <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+            <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade"></noscript>
+    </body>
+</html>
